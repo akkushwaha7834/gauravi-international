@@ -2,7 +2,7 @@
   "use strict";
   //
   var i = 0;
-  var txt = "Lorem ipsum dolor Adipisicing Elit.";
+  var txt = "Gauravi International: Your Global B2B Textile Partner";
   var speed = 50;
 
   function typeWriter() {

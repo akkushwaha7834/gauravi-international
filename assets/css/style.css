@@ -227,7 +227,7 @@ p {
 
 .default-btn {
     color: #fff !important;
-    background-image: linear-gradient(90deg, #032e63 0, #203abd 100%);
+    background-image: linear-gradient(90deg, #000000 0, #868686 100%);
     font-size: 18px;
     font-weight: 600;
     padding: 16px 34px;
@@ -241,7 +241,7 @@ p {
 }
 
 .default-btn:hover {
-    background-image: linear-gradient(270deg, #032e63 0, #203abd 100%);
+    background-image: linear-gradient(90deg, #868686 0, #000000 100%);
 }
 
 .btn-round {
@@ -585,7 +585,7 @@ p {
 /* =======home page======== */
 
 .banner-caption {
-    padding: 21% 0px;
+    padding: 10% 0px;
 }
 
 .banner-caption h1 {
@@ -597,7 +597,7 @@ p {
 }
 
 .h1 {
-    font-size: 3rem;
+    font-size: 2rem;
     font-weight: 700;
     color: #000;
     line-height: normal;
@@ -609,7 +609,7 @@ p {
 }
 
 .bg-overlay-black-50:before {
-    background: linear-gradient(123deg, #022d62c9, transparent);
+    background: linear-gradient(123deg, #000000c9, transparent);
     content: "";
     height: 100%;
     left: 0;
@@ -680,7 +680,7 @@ p {
 }
 
 .bg-gradient {
-    background-image: linear-gradient(to right, #012a5e, #0e23c1) !important;
+    background-image: linear-gradient(to right, #000000, #525252) !important;
     background-color: #012a5e !important;
 }
 
