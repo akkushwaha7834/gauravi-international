@@ -5,7 +5,14 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href="assets/images/favicon.png" rel="icon">
-  <title>RDM</title>
+  <title>Gauravi International</title>
+  <meta name="description" content="">
+  <link rel="canonical" href="">
+  <meta property="og:title" content="">
+  <meta property="og:description" content="">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="">
+  <meta property="og:image" content=""/>
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="assets/css/bootstrap/bootstrap.min.css">
   <link rel="stylesheet" href="assets/css/animate/animate.min.css">
@@ -15,7 +22,6 @@
   <link rel="stylesheet" href="assets/css/fonts/remixicon.css">
   <!-- Custom Style File -->
   <link rel="stylesheet" href="assets/css/style.css">
-
 </head>
 
 <body>
@@ -25,8 +31,8 @@
       <div class="top-menu-bar py-2 d-flex align-item-center justify-content-between ">
         <div>
           <ul>
-            <li class=""><a href="tel:+910000000000"><span><i class="ri-phone-line"></i></span> <span>+91-0000000000</span></a></li>
-            <li class=""><a href="mailto:info.rdmcertification@gmail.com"><span><i class="ri-mail-line"></i></span> <span>example@gmail.com</span></a></li>
+            <li class=""><a href="tel:+919318477263"><span><i class="ri-phone-line"></i></span> <span>+91 93184 77263</span></a></li>
+            <li class=""><a href="mailto:sales@gauraviinternational.com"><span><i class="ri-mail-line"></i></span> <span>sales@gauraviinternational.com</span></a></li>
           </ul>
         </div>
         <div class=" d-flex align-items-center justify-content-end flex-wrap">

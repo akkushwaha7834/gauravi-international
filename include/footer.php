@@ -43,11 +43,11 @@
         <div class="footer-widget mt-4">
           <h5 class="text-white mb-3  pb-3 footer-widget-title position-relative">Get in touch</h5>
           <ul class="get-in-ul">
-            <li class="text-white"><span><i class="ri-map-pin-line"></i></span> <span class="text-white"> Ghaziabad</span></li>
-            <li class=""><a href="tel:+910000000000"><span><i class="ri-phone-line"></i></span>
-                <span>+91-0000000000</span></a></li>
-            <li class=""><a href="mailto:#"><span><i class="ri-mail-line"></i></span>
-                <span>example@gmail.com</span></a></li>
+            <li class="text-white"><span><i class="ri-map-pin-line"></i></span> <span class="text-white"> 5/1167, UGF, Vasundhara, Gzb, UP-201012</span></li>
+            <li class=""><a href="tel:+919318477263"><span><i class="ri-phone-line"></i></span>
+                <span>+91 93184 77263</span></a></li>
+            <li class=""><a href="mailto:sales@gauraviinternational.com"><span><i class="ri-mail-line"></i></span>
+                <span>sales@gauraviinternational.com</span></a></li>
 
           </ul>
         </div>
