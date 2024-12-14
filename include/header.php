@@ -25,17 +25,17 @@
       <div class="top-menu-bar py-2 d-flex align-item-center justify-content-between ">
         <div>
           <ul>
-            <li class=""><a href="tel:+917701949495"><span><i class="ri-phone-line"></i></span> <span>+91-7701949495</span></a></li>
-            <li class=""><a href="mailto:info.rdmcertification@gmail.com"><span><i class="ri-mail-line"></i></span> <span>info.rdmcertification@gmail.com</span></a></li>
+            <li class=""><a href="tel:+910000000000"><span><i class="ri-phone-line"></i></span> <span>+91-0000000000</span></a></li>
+            <li class=""><a href="mailto:info.rdmcertification@gmail.com"><span><i class="ri-mail-line"></i></span> <span>example@gmail.com</span></a></li>
           </ul>
         </div>
         <div class=" d-flex align-items-center justify-content-end flex-wrap">
           <h5 class="text-white mb-0 ">Follow us:</h5>
         <ul class="ps-3">
-            <li><a href="https://www.facebook.com/rdmcertification/" target="_blank"><i class="ri-facebook-fill"></i></a></li>
-            <li><a href="https://www.instagram.com/rdmcertification/" target="_blank"><i class="ri-instagram-line"></i></a></li>
-            <li><a href="https://www.linkedin.com/in/rdm-certification-services-91ab721a2/" target="_blank"><i class="ri-linkedin-fill"></i></a></li>
-            <li><a href="https://x.com/i/flow/login?redirect_after_login=%2Fservicerdm" target="_blank" class="pe-0"><i class="ri-twitter-x-fill"></i></a></li>
+            <li><a href="#" target="_blank"><i class="ri-facebook-fill"></i></a></li>
+            <li><a href="#" target="_blank"><i class="ri-instagram-line"></i></a></li>
+            <li><a href="#" target="_blank"><i class="ri-linkedin-fill"></i></a></li>
+            <li><a href="#" target="_blank" class="pe-0"><i class="ri-twitter-x-fill"></i></a></li>
           
             </li>
           </ul>
@@ -46,7 +46,7 @@
   <header class="header sticky-top">
     <nav class="navbar navbar-expand-lg p-0">
       <div class="container">
-        <a class="navbar-brand" href="index.php"><img src="assets/images/RDM-Logo_tm.jpg" alt="Logo" width="100%"></a>
+        <a class="navbar-brand" href="index.php"><img src="assets/images/gauravi-internation-logo.webp" alt="Logo" width="100%"></a>
         <button class="mobile-menu-toggle" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasRight" aria-controls="offcanvasRight">
           <span class="toggler-icon ri-menu-2-line"></span>
         </button>
@@ -58,34 +58,17 @@
             <li class="nav-item">
               <a class="nav-link" href="about-us.php">About Us</a>
             </li>
-            <li class="nav-item menu-item-has-children">
-              <a class="nav-link" href="#">Services <i class="ri-arrow-down-s-line"></i></a>
-              <ul class="sub-menu">
-                <li><a href="certificates.php">Certificates</a></li>
-                <li><a href="it-services.php">IT Services</a></li>
-              </ul>
-            </li>
-            <li class="nav-item menu-item-has-children">
-              <a class="nav-link" href="#">Download <i class="ri-arrow-down-s-line"></i></a>
-              <ul class="sub-menu">
-                <li><a href="assets/images/pdf/Application-Form.pdf" target="_blank">Application Form</a></li>
-                <li><a href="assets/images/pdf/Rules-and-regulations-for-multi.pdf">Rules for Multi-site Organisation</a></li>
-                <li><a href="assets/images/pdf/Certification-Agreement-Rules.pdf" target="_blank">Certification Agreement Rules</a></li>
-                <li><a href="assets/images/pdf/Logo-Guidleines.pdf" target="_blank">Logo Guidleines</a></li>
-                <li><a href="assets/images/pdf/Quotation-Form.pdf" target="_blank">Quotation Form</a></li>
-              </ul>
-            </li>
-            
-            
-
             <li class="nav-item">
-              <a class="nav-link" href="online-application.php">Onilne Application</a>
+              <a class="nav-link" href="product-catalog.php">Product</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="career.php">Career</a>
+              <a class="nav-link" href="manufacturing-capabilities.php">Manufacturing</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="contact-us.php">Contact Us</a>
+              <a class="nav-link" href="export-capabilities.php">Export</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="international-shipping.php">International Shipping</a>
             </li>
           </ul>
         </div>

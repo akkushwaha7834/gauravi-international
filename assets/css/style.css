@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root {
-    --theme-primary: #022f8c;
+    --theme-primary: #000000;
     --theme-secondary: #e8e8e8;
     --theme-text: #494949;
     --theme-bg-light: #f3f8ff;
@@ -372,15 +372,15 @@ p {
 .sub-menu li a {
     padding: 0.5rem 0.5rem;
     display: block;
-    border-bottom: 1px solid #4465a9;
+    border-bottom: 1px solid #d0d0d0;
     color: #ffffff;
     font-size: 17px;
     font-weight: 500;
 }
 
 .sub-menu li a:hover {
-    color: #ffffff;
-    background:#002572;
+    color: #000000;
+    background:#ffffff;
  
 }
 
