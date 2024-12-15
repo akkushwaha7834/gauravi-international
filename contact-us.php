@@ -32,7 +32,7 @@
                                         <i class="ri-phone-line  flex-shrink-0 "></i>
                                         <div>
                                             <h3 class="mb-2">Phone</h3>
-                                            <a href="tel:+917701949495" class="mb-2 d-block contact-d ">+91-7701949495</a>                                          
+                                            <a href="tel:+919318477263" class="mb-2 d-block contact-d ">+91 93184 77263</a>                                          
                                         </div>
                                     </span>
                                 </li>
@@ -41,8 +41,8 @@
                                         <i class="ri-mail-send-line  flex-shrink-0 "></i>
                                         <div>
                                             <h3 class="mb-2">Email</h3>
-                                            <a href="mailto:info.rdmcertification@gmail.com"
-                                                class=" d-block contact-d">info.rdmcertification@gmail.com</a>
+                                            <a href="mailto:sales@gauraviinternational.com"
+                                                class=" d-block contact-d">sales@gauraviinternational.com</a>
                                         </div>
 
                                     </span>
@@ -52,7 +52,7 @@
                                         <i class="ri-map-2-line  flex-shrink-0 "></i>
                                         <div>
                                             <h3 class="mb-2">Office Address</h3>
-                                            <span class=" d-block contact-d"> Office No. 1 Pushplata Sharma Market, Tajpur Road, Badarpur, New Delhi - 110044.</span>
+                                            <span class=" d-block contact-d"> 5/1167, UGF, Vasundhara, Gzb, UP-201012</span>
                                         </div>
 
                                     </span>
@@ -95,6 +95,6 @@
     <div class="position-absolute bottom-0 start-0 w-100 z-0 " style="height: 8rem;background:var(--theme-primary);"></div>
 </section>
 <section class="">
-    <div class="line-height-0"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3506.6485571640087!2d77.3028903754956!3d28.490128775742832!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce721bde7db0d%3A0x86a05931756141e9!2sRDM%20Certification%20Service!5e0!3m2!1sen!2sin!4v1721561028867!5m2!1sen!2sin" width="100%" height="550" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
+    <div class="line-height-0"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28007.827403984676!2d77.35368330381347!3d28.660364649325466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cf16d8d27e847%3A0x3325fb11f3e7ca3b!2sGauravi%20International!5e0!3m2!1sen!2sin!4v1734272370944!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
 </section>
 <?php include ('include/footer.php'); ?>
