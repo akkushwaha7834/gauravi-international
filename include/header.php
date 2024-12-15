@@ -22,6 +22,8 @@
   <link rel="stylesheet" href="assets/css/fonts/remixicon.css">
   <!-- Custom Style File -->
   <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="assets/css/style-new.css">
+  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 </head>
 
 <body>

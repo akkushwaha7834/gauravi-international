@@ -74,4 +74,137 @@
 </section>
 
 
+<section class="process-steps overflow-hidden">
+  <div class="container work-process">
+    <div class="title mb-5 text-center">
+      <!-- <h4 class="text-primary">Rise to the Top: Launch Your Forex Brokerage</h4> -->
+      <h3 class="text-white">Our B2B Value Proposition</h3>
+      <!-- <p class="text-white">
+                Register your company legally to establish credibility and comply with regulations.
+            </p> -->
+    </div>
+    <!-- ============ step 1 =========== -->
+    <div class="row mb-lg-0 mb-md-5 mb-xs-5">
+      <div class="col-lg-5 col-md-12">
+        <div class="process-box process-left aos-init" data-aos="fade-right" data-aos-duration="1000">
+          <div class="row">
+            <div class="col-md-5">
+              <div class="process-step">
+                <p class="m-0 p-0">Step</p>
+                <h2 class="m-0 p-0">01</h2>
+              </div>
+            </div>
+            <div class="col-md-7">
+              <h5>Extensive Product Range</h5>
+              <p><small>From luxury cotton bedsheets to bespoke handloom textiles</small></p>
+            </div>
+          </div>
+          <div class="process-line-l"></div>
+        </div>
+      </div>
+      <div class="col-md-2"></div>
+      <div class="col-md-5 position-relative">
+        <div class="process-point-right"></div>
+      </div>
+    </div>
+    <!-- ============ step 2 =========== -->
+    <div class="row mb-lg-0 mb-md-5 mb-xs-5">
+      <div class="col-md-5 position-relative">
+        <div class="process-point-left"></div>
+      </div>
+      <div class="col-md-2"></div>
+      <div class="col-lg-5 col-md-12">
+        <div class="process-box process-right aos-init" data-aos="fade-left" data-aos-duration="1000">
+          <div class="row">
+            <div class="col-md-5">
+              <div class="process-step">
+                <p class="m-0 p-0">Step</p>
+                <h2 class="m-0 p-0">02</h2>
+              </div>
+            </div>
+            <div class="col-md-7">
+              <h5>Customization Capabilities</h5>
+              <p><small>Tailor-made solutions for diverse market needs</small></p>
+            </div>
+          </div>
+          <div class="process-line-r"></div>
+        </div>
+      </div>
+    </div>
+    <!-- ============ step 3 =========== -->
+    <div class="row mb-lg-0 mb-md-5 mb-xs-5">
+      <div class="col-lg-5 col-md-12">
+        <div class="process-box process-left aos-init" data-aos="fade-right" data-aos-duration="1000">
+          <div class="row">
+            <div class="col-md-5">
+              <div class="process-step">
+                <p class="m-0 p-0">Step</p>
+                <h2 class="m-0 p-0">03</h2>
+              </div>
+            </div>
+            <div class="col-md-7">
+              <h5>Bulk Order Expertise</h5>
+              <p><small>Competitive wholesale pricing with volume-based discounts</small></p>
+            </div>
+          </div>
+          <div class="process-line-l"></div>
+        </div>
+      </div>
+      <div class="col-md-2"></div>
+      <div class="col-md-5 position-relative">
+        <div class="process-point-right"></div>
+      </div>
+    </div>
+    <!-- ============ step 4 =========== -->
+    <div class="row mb-lg-0 mb-md-5 mb-xs-5">
+      <div class="col-md-5 position-relative">
+        <div class="process-point-left"></div>
+      </div>
+      <div class="col-md-2"></div>
+      <div class="col-lg-5 col-md-12">
+        <div class="process-box process-right aos-init" data-aos="fade-left" data-aos-duration="1000">
+          <div class="row">
+            <div class="col-md-5">
+              <div class="process-step">
+                <p class="m-0 p-0">Step</p>
+                <h2 class="m-0 p-0">04</h2>
+              </div>
+            </div>
+            <div class="col-md-7">
+              <h5>Quality Assurance</h5>
+              <p><small>Rigorous testing and international certifications</small></p>
+            </div>
+          </div>
+          <div class="process-line-r"></div>
+        </div>
+      </div>
+    </div>
+    <!-- ============ step 5 =========== -->
+    <div class="row mb-lg-0 mb-md-5 mb-xs-5">
+      <div class="col-lg-5 col-md-12">
+        <div class="process-box process-left aos-init" data-aos="fade-right" data-aos-duration="1000">
+          <div class="row">
+            <div class="col-md-5">
+              <div class="process-step">
+                <p class="m-0 p-0">Step</p>
+                <h2 class="m-0 p-0">05</h2>
+              </div>
+            </div>
+            <div class="col-md-7">
+              <h5>Global Logistics Solutions</h5>
+              <p><small>Efficient shipping and customs clearance support</small></p>
+            </div>
+          </div>
+          <div class="process-line-l"></div>
+        </div>
+      </div>
+      <div class="col-md-2"></div>
+      <div class="col-md-5 position-relative">
+        <div class="process-point-right process-last"></div>
+      </div>
+    </div>
+    <!-- ============ -->
+  </div>
+</section>
+
 <?php include ('include/footer.php'); ?>
