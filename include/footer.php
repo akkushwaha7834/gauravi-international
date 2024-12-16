@@ -29,12 +29,12 @@
           <h5 class="text-white mb-3  pb-3 footer-widget-title position-relative">Quick Links</h5>
           <ul class="">
             <li><a href="./"><i class="ri-arrow-right-double-fill"></i> Home</a></li>
-            <li><a href="about-us.php"><i class="ri-arrow-right-double-fill"></i> About Us</a></li>
+            <li><a href="#"><i class="ri-arrow-right-double-fill"></i> About Us</a></li>
             <li><a href="product-catalog.php"><i class="ri-arrow-right-double-fill"></i> Product Catalog</a></li>
-            <li><a href="manufacturing-capabilities.php"><i class="ri-arrow-right-double-fill"></i> Manufacturing Capabilities</a></li>
-            <li><a href="export-capabilities.php"><i class="ri-arrow-right-double-fill"></i> Export Capabilities</a>
+            <li><a href="#"><i class="ri-arrow-right-double-fill"></i> Manufacturing Capabilities</a></li>
+            <li><a href="#"><i class="ri-arrow-right-double-fill"></i> Export Capabilities</a>
             </li>
-            <li><a href="international-shipping.php"><i class="ri-arrow-right-double-fill"></i> International Shipping</a>
+            <li><a href="#"><i class="ri-arrow-right-double-fill"></i> International Shipping</a>
             </li>
           </ul>
         </div>

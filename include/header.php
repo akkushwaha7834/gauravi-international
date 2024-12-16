@@ -64,19 +64,19 @@
               <a class="nav-link" href="./">Home</a>              
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="about-us.php">About Us</a>
+              <a class="nav-link" href="#">About Us</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="product-catalog.php">Product</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="manufacturing-capabilities.php">Manufacturing</a>
+              <a class="nav-link" href="#">Manufacturing</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="export-capabilities.php">Export</a>
+              <a class="nav-link" href="#">Export</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="international-shipping.php">International Shipping</a>
+              <a class="nav-link" href="#">International Shipping</a>
             </li>
           </ul>
         </div>
