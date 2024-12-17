@@ -214,7 +214,7 @@
                                      <div class="col-md-6">
                                        <div class="bedsheet-listing">
                                           <img src="https://www.nxgmarkets.com/images/bgg.png" class="img-fluid">
-                                          <h4>
+                                          <h4 class="mt-4">
                                             Egyptian Cotton Sheets
                                           </h4>
                                        </div>
@@ -222,7 +222,7 @@
                                      <div class="col-md-6">
                                        <div class="bedsheet-listing">
                                           <img src="https://www.nxgmarkets.com/images/bgg.png" class="img-fluid">
-                                          <h4>
+                                          <h4 class="mt-4">
                                             Organic Bamboo Linens
                                           </h4>
                                        </div>
@@ -230,7 +230,7 @@
                                      <div class="col-md-6">
                                        <div class="bedsheet-listing">
                                           <img src="https://www.nxgmarkets.com/images/bgg.png" class="img-fluid">
-                                          <h4>
+                                          <h4 class="mt-4">
                                             Hotel Collection Bedding
                                           </h4>
                                        </div>
@@ -252,7 +252,7 @@
                                      <div class="col-md-6">
                                        <div class="bedsheet-listing">
                                           <img src="https://www.nxgmarkets.com/images/bgg.png" class="img-fluid">
-                                          <h4>
+                                          <h4 class="mt-4">
                                             Traditional Indian Textiles
                                           </h4>
                                        </div>
@@ -260,7 +260,7 @@
                                      <div class="col-md-6">
                                        <div class="bedsheet-listing">
                                           <img src="https://www.nxgmarkets.com/images/bgg.png" class="img-fluid">
-                                          <h4>
+                                          <h4 class="mt-4">
                                             Artisanal Weaves
                                           </h4>
                                        </div>
@@ -289,7 +289,7 @@
                                      <div class="col-md-6">
                                        <div class="bedsheet-listing">
                                           <img src="https://www.nxgmarkets.com/images/bgg.png" class="img-fluid">
-                                          <h4>
+                                          <h4 class="mt-4">
                                             Bulk Plain Fabrics
                                           </h4>
                                        </div>
@@ -297,7 +297,7 @@
                                      <div class="col-md-6">
                                        <div class="bedsheet-listing">
                                           <img src="https://www.nxgmarkets.com/images/bgg.png" class="img-fluid">
-                                          <h4>
+                                          <h4 class="mt-4">
                                             Customized Prints and Patterns
                                           </h4>
                                        </div>
@@ -305,7 +305,7 @@
                                      <div class="col-md-6">
                                        <div class="bedsheet-listing">
                                           <img src="https://www.nxgmarkets.com/images/bgg.png" class="img-fluid">
-                                          <h4>
+                                          <h4 class="mt-4">
                                             Eco-Friendly Textile Solutions
                                           </h4>
                                        </div>

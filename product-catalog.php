@@ -54,9 +54,34 @@
                            </h2>
                            <div id="collapseForex" class="accordion-collapse collapse show" aria-labelledby="headingForex" data-bs-parent="#myTabContent">
                               <div class="accordion-body">
-                                 <h3 class="tab-content-title">24/5 Trading</h3>
-                                 <p>Forex trading distinguishes itself by operating 24 hours a day, five days a week, transcending time zones and enabling you to trade at your convenience, without being constrained by daylight hours.</p>
-                                 <img src="https://www.nxgmarkets.com/images/bgg.png" alt="" class="w-100">
+                                 <div class="container">
+                                   <div class="row">
+                                     <div class="col-md-6">
+                                       <div class="bedsheet-listing">
+                                          <img src="https://www.nxgmarkets.com/images/bgg.png" class="img-fluid">
+                                          <h4 class="mt-4">
+                                            Egyptian Cotton Sheets
+                                          </h4>
+                                       </div>
+                                     </div>
+                                     <div class="col-md-6">
+                                       <div class="bedsheet-listing">
+                                          <img src="https://www.nxgmarkets.com/images/bgg.png" class="img-fluid">
+                                          <h4 class="mt-4">
+                                            Organic Bamboo Linens
+                                          </h4>
+                                       </div>
+                                     </div>
+                                     <div class="col-md-6">
+                                       <div class="bedsheet-listing">
+                                          <img src="https://www.nxgmarkets.com/images/bgg.png" class="img-fluid">
+                                          <h4 class="mt-4">
+                                            Hotel Collection Bedding
+                                          </h4>
+                                       </div>
+                                     </div>
+                                   </div>
+                                 </div>
                               </div>
                            </div>
                            
@@ -67,9 +92,34 @@
                            </h2>
                            <div id="collapseCommodities" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingCommodities" data-bs-parent="#myTabContent">
                               <div class="accordion-body">
-                                 <h3 class="tab-content-title">Transparent Costs </h3>
-                                 <p>Trading at NXGMarkets.com is straightforward and transparent; all costs are incorporated into the spread, ensuring no hidden fees or commissions. This transparency allows you to confidently understand the cost of your trades.</p>
-                                 <img src="https://www.nxgmarkets.com/images/bgg.png" alt="" class="w-100">
+                                 <div class="container">
+                                   <div class="row">
+                                     <div class="col-md-6">
+                                       <div class="bedsheet-listing">
+                                          <img src="https://www.nxgmarkets.com/images/bgg.png" class="img-fluid">
+                                          <h4 class="mt-4">
+                                            Traditional Indian Textiles
+                                          </h4>
+                                       </div>
+                                     </div>
+                                     <div class="col-md-6">
+                                       <div class="bedsheet-listing">
+                                          <img src="https://www.nxgmarkets.com/images/bgg.png" class="img-fluid">
+                                          <h4 class="mt-4">
+                                            Artisanal Weaves
+                                          </h4>
+                                       </div>
+                                     </div>
+                                     <div class="col-md-6">
+                                       <div class="bedsheet-listing">
+                                          <img src="https://www.nxgmarkets.com/images/bgg.png" class="img-fluid">
+                                          <h4>
+                                            Contemporary Handloom Designs
+                                          </h4>
+                                       </div>
+                                     </div>
+                                   </div>
+                                 </div>
                               </div>
                            </div>
                         </div>
@@ -79,9 +129,34 @@
                            </h2>
                            <div id="collapseIndices" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingIndices" data-bs-parent="#myTabContent">
                               <div class="accordion-body">
-                                 <h3 class="tab-content-title">Versatile Market Opportunities</h3>
-                                 <p>The forex market provides traders with a distinct advantage, allowing opportunities in both rising and falling markets. Unlike other markets, there are no restrictions or additional costs for short selling.</p>
-                                 <img src="https://www.nxgmarkets.com/images/bgg.png" alt="" class="w-100">
+                                 <div class="container">
+                                   <div class="row">
+                                     <div class="col-md-6">
+                                       <div class="bedsheet-listing">
+                                          <img src="https://www.nxgmarkets.com/images/bgg.png" class="img-fluid">
+                                          <h4 class="mt-4">
+                                            Bulk Plain Fabrics
+                                          </h4>
+                                       </div>
+                                     </div>
+                                     <div class="col-md-6">
+                                       <div class="bedsheet-listing">
+                                          <img src="https://www.nxgmarkets.com/images/bgg.png" class="img-fluid">
+                                          <h4 class="mt-4">
+                                            Customized Prints and Patterns
+                                          </h4>
+                                       </div>
+                                     </div>
+                                     <div class="col-md-6">
+                                       <div class="bedsheet-listing">
+                                          <img src="https://www.nxgmarkets.com/images/bgg.png" class="img-fluid">
+                                          <h4 class="mt-4">
+                                            Eco-Friendly Textile Solutions
+                                          </h4>
+                                       </div>
+                                     </div>
+                                   </div>
+                                 </div>
                               </div>
                            </div>
                         </div>
