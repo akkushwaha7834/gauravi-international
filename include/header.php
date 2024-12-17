@@ -90,31 +90,11 @@
         <div class="mobile-menu-wrap">
           <ul class="mobile-menu-list">
             <li><a href="./" class="menu-link">Home</a></li>
-     
-            <li><a href="about.php" class="menu-link">About Us</a></li>
-            <li><a role="button" class="menu-link moblie-dropdwon">Services <i class="ri-arrow-down-s-line"></i></a>
-              <div class="dropdown-mb-menu">
-                <ul>
-                  <li><a href="#">ISO Certification</a></li>
-                  <li><a href="#">It Services</a></li>
-                </ul>
-              </div>
-            </li>
-           
-            <li><a role="button" class="menu-link moblie-dropdwon">Download <i class="ri-arrow-down-s-line"></i></a>
-            <div class="dropdown-mb-menu">
-            <ul>
-                <li><a href="https://rdmcertification.com/wp-content/uploads/2022/01/Application-Form.pdf" target="_blank">Rules for Multi-site Organisation</a></li>
-                <li><a href="" target="_blank">Rules for Multi-site Organisation</a></li>
-                <li><a href="" target="_blank">Certification Agreement Rules</a></li>
-                <li><a href="" target="_blank">Logo Guidleines</a></li>
-                <li><a href="" target="_blank">Quotation Form</a></li>
-                </ul>
-              </div>
-          </li>
-            <li><a href="#" class="menu-link">Online Application</a></li>
-            <li><a href="career.php" class="menu-link">Career</a></li>
-            <li><a href="contact.php" class="menu-link">Contact Us</a></li>
+            <li><a href="" class="menu-link">About Us</a></li>
+            <li><a href="" class="menu-link">Product</a></li>
+            <li><a href="" class="menu-link">Manufacturing</a></li>
+            <li><a href="" class="menu-link">Export</a></li>
+            <li><a href="" class="menu-link">International Shipping</a></li>
           </ul>
 
         </div>
