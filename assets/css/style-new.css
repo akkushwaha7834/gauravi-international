@@ -141,3 +141,20 @@
 .inner-box:hover .icon-box{
     background: var(--theme-white);
 }
+.swiper-slide img {
+  width: 100%;
+  transition: transform 0.5s ease;
+/*  border-radius: 20px;*/
+/*  opacity: 0.9;*/
+  min-height: 350px;
+  obhect-fit: cover;
+}
+
+.swiper-slide-active img {
+  transform: scale(1); /* Zoom effect */
+  opacity: 1;
+}
+
+.swiper-container {
+  overflow: hidden;
+}

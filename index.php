@@ -233,16 +233,16 @@
         <div class="row mt-5 align-items-center mt-4">
             <div class="col-lg-4">
                 <div class="pdt-infoo position-relative">
-                    <h4>Luxury Bedding Collections</h4>
+                    <h4>Handloom Treasures</h4>
                     <ul class="pdt-category">
                         <li>
-                            <i class="ri-arrow-right-double-line"></i> Egyptian Cotton Sheets
+                            <i class="ri-arrow-right-double-line"></i> Traditional Indian Textiles
                         </li>
                         <li>
-                            <i class="ri-arrow-right-double-line"></i> Organic Bamboo Linens
+                            <i class="ri-arrow-right-double-line"></i> Artisanal Weaves
                         </li>
                         <li>
-                            <i class="ri-arrow-right-double-line"></i> Hotel Collection Bedding
+                            <i class="ri-arrow-right-double-line"></i> Contemporary Handloom Designs
                         </li>
                     </ul>
                 </div>
@@ -257,16 +257,16 @@
             </div>
             <div class="col-lg-4">
                 <div class="pdt-info position-relative">
-                    <h4>Luxury Bedding Collections</h4>
+                    <h4>Specialized B2B Offerings</h4>
                     <ul class="pdt-category">
                         <li>
-                            <i class="ri-arrow-right-double-line"></i> Egyptian Cotton Sheets
+                            <i class="ri-arrow-right-double-line"></i> Bulk Plain Fabrics
                         </li>
                         <li>
-                            <i class="ri-arrow-right-double-line"></i> Organic Bamboo Linens
+                            <i class="ri-arrow-right-double-line"></i> Customized Prints and Patterns
                         </li>
                         <li>
-                            <i class="ri-arrow-right-double-line"></i> Hotel Collection Bedding
+                            <i class="ri-arrow-right-double-line"></i> Eco-Friendly Textile Solutions
                         </li>
                     </ul>
                 </div>
@@ -277,4 +277,19 @@
 <!-- Featured Product Categories -->
 
 
+
+<div class="swiper-container">
+  <div class="swiper-wrapper">
+    <div class="swiper-slide"><img src="https://jindalecotex.in/images/Website%20Creative/Gallery/8.jpg" alt="Image 1"></div>
+    <div class="swiper-slide"><img src="https://jindalecotex.in/images/Website%20Creative/Gallery/9.jpg" alt="Image 2"></div>
+    <div class="swiper-slide"><img src="https://jindalecotex.in/images/Website%20Creative/Gallery/10.jpg" alt="Image 3"></div>
+    <div class="swiper-slide"><img src="https://jindalecotex.in/images/Website%20Creative/Gallery/11.jpg" alt="Image 4"></div>
+    <div class="swiper-slide"><img src="https://jindalecotex.in/images/Website%20Creative/Gallery/12.jpg" alt="Image 5"></div>
+    <div class="swiper-slide"><img src="https://jindalecotex.in/images/Website%20Creative/Gallery/13.jpg" alt="Image 1"></div>
+    <div class="swiper-slide"><img src="https://jindalecotex.in/images/Website%20Creative/Gallery/14.jpg" alt="Image 2"></div>
+    <div class="swiper-slide"><img src="https://jindalecotex.in/images/Website%20Creative/Gallery/10.jpg" alt="Image 3"></div>
+    <div class="swiper-slide"><img src="https://jindalecotex.in/images/Website%20Creative/Gallery/8.jpg"></div>
+    <div class="swiper-slide"><img src="https://jindalecotex.in/images/Website%20Creative/Gallery/12.jpg" alt="Image 5"></div>
+  </div>
+</div>
 <?php include ('include/footer.php'); ?>

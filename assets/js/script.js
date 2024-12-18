@@ -112,3 +112,28 @@
     wow.init();
   }
 })(jQuery);
+
+var swiper = new Swiper(".swiper-container", {
+  slidesPerView: 5, // Number of slides visible
+  centeredSlides: true, // Center the active slide
+  spaceBetween: 10, // Space between slides
+  loop: true, // Enable looping
+  
+  autoplay: {
+    delay: 1500,
+    disableOnInteraction: false
+  },
+  breakpoints: {
+    640: {
+      slidesPerView: 1
+    },
+    768: {
+      slidesPerView: 3
+    },
+    1024: {
+      slidesPerView: 4
+    }
+  }
+});
+
+// Code by Amit Niranjan
