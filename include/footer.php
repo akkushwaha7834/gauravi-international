@@ -32,10 +32,9 @@
             <li><a href="#"><i class="ri-arrow-right-double-fill"></i> About Us</a></li>
             <li><a href="product-catalog.php"><i class="ri-arrow-right-double-fill"></i> Product Catalog</a></li>
             <li><a href="#"><i class="ri-arrow-right-double-fill"></i> Manufacturing Capabilities</a></li>
-            <li><a href="#"><i class="ri-arrow-right-double-fill"></i> Export Capabilities</a>
-            </li>
-            <li><a href="#"><i class="ri-arrow-right-double-fill"></i> International Shipping</a>
-            </li>
+            <li><a href="#"><i class="ri-arrow-right-double-fill"></i> Export Capabilities</a></li>
+            <li><a href="#"><i class="ri-arrow-right-double-fill"></i>Shipping</a></li>
+            <li><a href="contact-us.php"><i class="ri-arrow-right-double-fill"></i>Contact Us</a></li>
           </ul>
         </div>
       </div>

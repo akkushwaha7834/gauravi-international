@@ -39,7 +39,7 @@
 <section class="section-space bg-image2" style="background-image:url('assets/images/bgg.png')">
     <div class="container position-relative z-1">
         <div class="row g-4 section-space pt-0 align-items-center">
-            <div class="col-lg-6 text-center"><img src="assets/images/aboutus.png" alt="" class="w-75"></div>
+            <div class="col-lg-6 text-center"><img src="assets/images/aboutus.jpg" alt="" class="w-75"></div>
             <div class="col-lg-6">
                 <h3>Gauravi International: Your Global B2B Textile Partner</h3>
                 <h2 class="mb-4 h1">Elevating Global Trade in Premium Bedsheets and Handloom Exports</h2>

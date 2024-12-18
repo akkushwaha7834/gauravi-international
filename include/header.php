@@ -76,7 +76,10 @@
               <a class="nav-link" href="#">Export</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">International Shipping</a>
+              <a class="nav-link" href="#">Shipping</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="contact-us.php">Contact Us</a>
             </li>
           </ul>
         </div>
@@ -94,7 +97,8 @@
             <li><a href="" class="menu-link">Product</a></li>
             <li><a href="" class="menu-link">Manufacturing</a></li>
             <li><a href="" class="menu-link">Export</a></li>
-            <li><a href="" class="menu-link">International Shipping</a></li>
+            <li><a href="" class="menu-link">Shipping</a></li>
+            <li><a href="contact-us.php" class="menu-link">Contact Us</a></li>
           </ul>
 
         </div>
