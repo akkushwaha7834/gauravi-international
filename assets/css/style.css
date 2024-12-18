@@ -681,7 +681,7 @@ p {
 }
 
 .bg-gradient {
-    background-image: linear-gradient(to right, #000000, #525252) !important;
+    background-image: linear-gradient(to right, #03296b, #525252) !important;
     background-color: #012a5e !important;
 }
 
