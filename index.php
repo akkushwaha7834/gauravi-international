@@ -1,6 +1,6 @@
 <?php include ('include/header.php'); ?>
 
-
+<!-- Banner -->
 <section class="bg-image zoomoutheader overflow-hidden position-relative bg-overlay-black-50 z-1"
     style="background-image:url('assets/images/banner.webp')">
     <div class="container position-relative z-1">
@@ -18,7 +18,9 @@
         </div>
     </div>
 </section>
+<!-- Banner -->
 
+<!-- Maruqee -->
 <section class="">
     <div class="bg-gradient pt-3 pb-2">
         <marquee behavior="" direction="" onmouseover="stop()" onmouseout="start()">
@@ -35,11 +37,19 @@
         </marquee>
     </div>
 </section>
+<!-- Maruqee -->
 
+<!-- About -->
 <section class="section-space bg-image2" style="background-image:url('assets/images/bgg.png')">
     <div class="container position-relative z-1">
         <div class="row g-4 section-space pt-0 align-items-center">
-            <div class="col-lg-6 text-center"><img src="assets/images/aboutus.jpg" alt="" class="w-75"></div>
+            <div class="col-lg-6 text-center">
+                <img src="assets/images/aboutus.jpg" alt="" class="w-75">
+                <div class="experience-box">
+                    <span class="years">10+</span>
+                    <span class="text">Year experience</span>
+                  </div>
+            </div>
             <div class="col-lg-6">
                 <h3>Gauravi International: Your Global B2B Textile Partner</h3>
                 <h2 class="mb-4 h1">Elevating Global Trade in Premium Bedsheets and Handloom Exports</h2>
@@ -51,16 +61,17 @@
         </div>
     </div>
 </section>
+<!-- About -->
 
-
-<section class="b-b-value">
+<!-- B2B Value -->
+<section class="pt-8">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <h2 class="text-center">Our B2B Value Proposition</h2>
             </div>
         </div>
-        <div class="row mt-4 clearfix">
+        <div class="row mt-4 text-center clearfix">
             <div class="col-lg-4 col-md-6 col-sm-12 service-block">
                 <div class="service-block-one wow fadeInUp animated animated animated" data-wow-delay="00ms"
                     data-wow-duration="1500ms"
@@ -129,8 +140,10 @@
         </div>
     </div>
 </section>
+<!-- B2B Value -->
 
-<section class="global-footprint">
+<!-- Global Footprint -->
+<section class="pt-8" style="background: var(--theme-primary)">
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
@@ -144,33 +157,25 @@
         </div>
         <div class="row mt-4 clearfix">
             <div class="col-lg-6 col-md-6 col-sm-12 single-column">
-                <div class="single-item wow fadeInLeft animated animated animated" data-wow-delay="00ms"
-                    data-wow-duration="1500ms"
-                    style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
+                <div class="single-item wow fadeInLeft animated animated animated" data-wow-delay="00ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
                     <div class="icon-box"><i class="ri-check-double-line"></i></div>
                     <h4 class="text-white">Major retail chains in North America and Europe</h4>
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12 single-column">
-                <div class="single-item wow fadeInUp animated animated animated" data-wow-delay="00ms"
-                    data-wow-duration="1500ms"
-                    style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
+                <div class="single-item wow fadeInUp animated animated animated" data-wow-delay="00ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
                     <div class="icon-box"><i class="ri-check-double-line"></i></div>
                     <h4 class="text-white">Luxury hospitality groups across Asia and the Middle East</h4>
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12 single-column">
-                <div class="single-item wow fadeInRight animated animated animated" data-wow-delay="00ms"
-                    data-wow-duration="1500ms"
-                    style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInRight;">
+                <div class="single-item wow fadeInRight animated animated animated" data-wow-delay="00ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInRight;">
                     <div class="icon-box"><i class="ri-check-double-line"></i></div>
                     <h4 class="text-white">Leading online marketplaces and e-commerce platforms</h4>
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12 single-column">
-                <div class="single-item wow fadeInLeft animated animated animated" data-wow-delay="300ms"
-                    data-wow-duration="1500ms"
-                    style="visibility: visible; animation-duration: 1500ms; animation-delay: 300ms; animation-name: fadeInLeft;">
+                <div class="single-item wow fadeInLeft animated animated animated" data-wow-delay="300ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 300ms; animation-name: fadeInLeft;">
                     <div class="icon-box"><i class="ri-check-double-line"></i></div>
                     <h4 class="text-white">Wholesale distributors in Australia and South America</h4>
                 </div>
@@ -178,7 +183,98 @@
         </div>
     </div>
 </section>
+<!-- Global Footprint -->
 
+<!-- Why Global Partners Choose Gauravi International -->
+<section class="pt-8">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h2>
+                    Why Global Partners Choose Gauravi International
+                </h2>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Why Global Partners Choose Gauravi International -->
+
+<!-- Featured Product Categories -->
+<section class="pt-8" style="background: var(--theme-color);">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h2 class="text-center">
+                    Featured Product Categories
+                </h2>
+            </div>
+        </div>
+        <div class="row mt-5 align-items-center mt-4">
+            <div class="col-lg-8 wow fadeInLeft animated animated animated" data-wow-delay="00ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
+                <img src="assets/images/luxury-bedding-collections.jpg" class="img-fluid rounded position-relative z-0">
+            </div>
+            <div class="col-lg-4">
+                <div class="pdt-info position-relative">
+                    <h4>Luxury Bedding Collections</h4>
+                    <ul class="pdt-category">
+                        <li>
+                            <i class="ri-arrow-right-double-line"></i> Egyptian Cotton Sheets
+                        </li>
+                        <li>
+                            <i class="ri-arrow-right-double-line"></i> Organic Bamboo Linens
+                        </li>
+                        <li>
+                            <i class="ri-arrow-right-double-line"></i> Hotel Collection Bedding
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="row mt-5 align-items-center mt-4">
+            <div class="col-lg-4">
+                <div class="pdt-infoo position-relative">
+                    <h4>Luxury Bedding Collections</h4>
+                    <ul class="pdt-category">
+                        <li>
+                            <i class="ri-arrow-right-double-line"></i> Egyptian Cotton Sheets
+                        </li>
+                        <li>
+                            <i class="ri-arrow-right-double-line"></i> Organic Bamboo Linens
+                        </li>
+                        <li>
+                            <i class="ri-arrow-right-double-line"></i> Hotel Collection Bedding
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-8 wow fadeInRight animated animated animated" data-wow-delay="00ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInRight;">
+                <img src="assets/images/luxury-bedding-collections.jpg" class="img-fluid rounded">
+            </div>
+        </div>
+        <div class="row mt-5 align-items-center mt-4">
+            <div class="col-lg-8 wow fadeInLeft animated animated animated" data-wow-delay="00ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
+                <img src="assets/images/luxury-bedding-collections.jpg" class="img-fluid rounded position-relative z-0">
+            </div>
+            <div class="col-lg-4">
+                <div class="pdt-info position-relative">
+                    <h4>Luxury Bedding Collections</h4>
+                    <ul class="pdt-category">
+                        <li>
+                            <i class="ri-arrow-right-double-line"></i> Egyptian Cotton Sheets
+                        </li>
+                        <li>
+                            <i class="ri-arrow-right-double-line"></i> Organic Bamboo Linens
+                        </li>
+                        <li>
+                            <i class="ri-arrow-right-double-line"></i> Hotel Collection Bedding
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Featured Product Categories -->
 
 
 <?php include ('include/footer.php'); ?>
