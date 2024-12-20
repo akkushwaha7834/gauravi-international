@@ -9,12 +9,16 @@
     background: var(--theme-white);
     padding: 80px 50px;
     z-index: 9;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
 }
 .pdt-infoo{
     margin: 0 -100px 0 0 ;
     background: var(--theme-white);
     padding: 80px 50px;
     z-index: 9;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
 }
 
 .experience-box {
