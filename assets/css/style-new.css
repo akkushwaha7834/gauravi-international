@@ -134,25 +134,21 @@
 .inner-box:hover .icon-box{
     background: var(--theme-white);
 }
-.unique-pills {
-    background: radial-gradient(rgb(68 68 68 / 39%), rgb(48 44 38));
-    padding: 30px;
-    border-radius: 20px;
+.image-box {
+    padding: 1rem;
+    border: 1px solid var(--theme-primary);
+    box-shadow: 0 4px 6px rgb(141 104 112);
     height: 100%;
 }
-.unique-feature-pills .nav-link.active {
-    background: #ffc109;
-    color: #000;
+.shipping-pointers li{
+    list-style: circle;
 }
-.unique-feature-pills .nav-link {
-    background: #050505;
+.shipping-pointers {
+    padding-left: 2rem;
+    margin-bottom: 1rem;
 }
-@media (min-width: 1440px) {
-    .nav-item:not(:last-child) {
-        margin-right: 30px;
-    }
-}
-.unique-feature-pills .nav-link:hover {
-    background: #ffc109;
-    color: #000 !important;
+.sidebar-stickyy {
+    position: sticky;
+    /* bottom: 20px; */
+    top: 200px;
 }

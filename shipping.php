@@ -18,147 +18,141 @@
     </div>
 </section>
 
+
+
 <section class="int-intro">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12 text-center">
-                <h2 class="text-primary">
-                    International Shipping and Logistics
-                </h2>
-                <p>
-                    At Gauravi International, we understand that efficient international shipping and logistics are crucial for our B2B partners' success. Our comprehensive approach ensures smooth, timely, and cost-effective delivery of our premium bedsheets and handloom products across the globe.
-                </p>
-            </div>
-        </div>
-        <div class="row mt-5">
-            <div class="col-md-12">
+   <div class="container">
+      <div class="row text-center">
+         <div class="col-md-12 text-center">
+            <h2 class="text-primary">
+                 International Shipping and Logistics
+            </h2>
+            <p>
+               At Gauravi International, we understand that efficient international shipping and logistics are crucial for our B2B partners' success. Our comprehensive approach ensures smooth, timely, and cost-effective delivery of our premium bedsheets and handloom products across the globe.
+            </p>
+         </div>
+      </div>
+   </div>
+</section>
+
+<section class="int-intro" style="background: url(https://www.yamarkets.com/public/web/img/forex-bg.png); background-repeat: no-repeat; background-size: cover; background-position: center;">
+   <div class="container">
+      <div class="row">
+         <div class="col-md-12">
             <div class="unique-pills">
                <div class="row gy-4 unique_features_row">
                   <div class="col-md-12 text-center">
                      <h2 class="text-primary">Global Shipping Solutions</h2>
-                     <p class="text-white text-center">We offer multiple shipping options to meet diverse business needs:</p>
+                     <p class="text-center">We offer multiple shipping options to meet diverse business needs:</p>
                   </div>
                </div>
-               <ul class="nav nav-pills mb-3 justify-content-center unique-feature-pills" id="pills-tab" role="tablist">
-                  <li class="nav-item" role="presentation">
-                     <button class="nav-link active" id="pills-forex-tab" data-bs-toggle="pill" data-bs-target="#pills-forex" type="button" role="tab" aria-controls="pills-forex" aria-selected="true">
-                     Ocean Freight
-                     </button>
-                  </li>
-                  <li class="nav-item" role="presentation">
-                     <button class="nav-link" id="pills-backend-tab" data-bs-toggle="pill" data-bs-target="#pills-backend" type="button" role="tab" aria-controls="pills-backend" aria-selected="false" tabindex="-1">
-                     Air Freight
-                     </button>
-                  </li>
-                  <li class="nav-item" role="presentation">
-                     <button class="nav-link" id="pills-data-tab" data-bs-toggle="pill" data-bs-target="#pills-data" type="button" role="tab" aria-controls="pills-data" aria-selected="false" tabindex="-1">
-                     Rail Freight
-                     </button>
-                  </li>
-                  <li class="nav-item" role="presentation">
-                     <button class="nav-link" id="pills-growth-tab" data-bs-toggle="pill" data-bs-target="#pills-growth" type="button" role="tab" aria-controls="pills-growth" aria-selected="false" tabindex="-1">
-                     Road Transport
-                     </button>
-                  </li>
-               </ul>
-               <div class="tab-content" id="pills-tabContent">
-                  <div class="tab-pane fade active show" id="pills-forex" role="tabpanel" aria-labelledby="pills-forex-tab">
-                     <div class="container">
-                        <div class="row align-items-center">
-                           <div class="col-md-6">
-                              <div class="">
-                                 <div class="image_content_box mt-0 mb-3">
-                                    <img src="https://www.yaprime.com/public/web/images/forex-centric-expertise.png" class="img-fluid">
-                                    <h4>
-                                       Forex-Centric Expertise
-                                    </h4>
-                                 </div>
-                                 <p class="mb-0 text-white">Our Admin Consultation services are built on years of experience in the Forex industry. We understand the unique challenges and intricacies of Forex brokerages, allowing us to provide solutions that align with your specific needs.
-                                 </p>
-                              </div>
-                           </div>
-                           <div class="col-md-6">
-                              <figure class="mb-0 mx-auto">
-                                 
-                              </figure>
-                           </div>
+            </div>
+         </div>
+      </div>
+      <div class="row gy-4 mt-4">
+         <div class="col-lg-6">
+            <div class="row gy-4">
+               <div class="col-12">
+                  <div class="careers_image_box image-box">
+                     <div class="card-body">
+                        <div class="d-flex align-items-center gap-3 mb-3">
+                           <span>
+                              <img src="assets/images/ocean-freight.png" alt="" class="img-fluid" width="64px">
+                           </span>
+                           <h5 class="card-title fw-semibold mb-0">Ocean Freight</h5>
                         </div>
+                        <ul class="shipping-pointers">
+                           <li>
+                              Ideal for large volume shipments
+                           </li>
+                           <li>
+                              Cost-effective for non-urgent deliveries
+                           </li>
+                           <li>
+                              Full Container Load (FCL) and Less than Container Load (LCL) options available
+                           </li>
+                        </ul>
                      </div>
                   </div>
-                  <div class="tab-pane fade" id="pills-backend" role="tabpanel" aria-labelledby="pills-backend-tab">
-                     <div class="container">
-                        <div class="row align-items-center">
-                           <div class="col-md-6">
-                              <div class="">
-                                 <div class="image_content_box mt-0 mb-3">
-                                    <img src="https://www.yaprime.com/public/web/images/full-backend-support.png" class="img-fluid">
-                                    <h4>
-                                       Full Backend Support
-                                    </h4>
-                                 </div>
-                                 <p class="mb-0 text-white">We offer a one-stop solution for all your backend needs. From CRM integration to API management, data security, compliance, and scalability planning, we handle every aspect of your brokerage's backend operations, ensuring a hassle-free experience.
-                                 </p>
-                              </div>
-                           </div>
-                           <div class="col-md-6">
-                              <figure class="mb-0 mx-auto">
-                                 
-                              </figure>
-                           </div>
+               </div>
+               <div class="col-12">
+                  <div class="careers_image_box image-box">
+                     <div class="card-body">
+                        <div class="d-flex align-items-center gap-3 mb-3">
+                           <span>
+                              <img src="assets/images/air-freight.png" alt="" class="img-fluid" width="64px">
+                           </span>
+                           <h5 class="card-title fw-semibold mb-0">Air Freight</h5>
                         </div>
+                        <ul class="shipping-pointers">
+                           <li>
+                              Perfect for time-sensitive orders
+                           </li>
+                           <li>
+                              Faster transit times, typically 1-3 days for most destinations
+                           </li>
+                           <li>
+                              Ideal for high-value or seasonal fashion items
+                           </li>
+                        </ul>
                      </div>
                   </div>
-                  <div class="tab-pane fade" id="pills-data" role="tabpanel" aria-labelledby="pills-data-tab">
-                     <div class="container">
-                        <div class="row align-items-center">
-                           <div class="col-md-6">
-                              <div class="align-items-center">
-                                 <div class="image_content_box mt-0 mb-3">
-                                    <img src="https://www.yaprime.com/public/web/images/data-security-assurance.png" class="img-fluid">
-                                    <h4>
-                                       Data Security Assurance
-                                    </h4>
-                                 </div>
-                                 <p class="mb-0 text-white">We prioritise the security of your data and your client's information. With our Admin Consultation services, you can rest assured that your data is stored, protected, and backed up securely, minimising the risk of data loss or security breaches.
-                                 </p>
-                              </div>
-                           </div>
-                           <div class="col-md-6">
-                              <figure class="mb-0 mx-auto">
-                                 
-                              </figure>
-                           </div>
+               </div>
+               <div class="col-12">
+                  <div class="careers_image_box image-box">
+                     <div class="card-body">
+                        <div class="d-flex align-items-center gap-3 mb-3">
+                           <span>
+                              <img src="assets/images/rail-freight.png" alt="" class="img-fluid" width="64px">
+                           </span>
+                           <h5 class="card-title fw-semibold mb-0">Rail Freight</h5>
                         </div>
+                        <ul class="shipping-pointers">
+                           <li>
+                              Efficient option for Eurasian routes
+                           </li>
+                           <li>
+                              Balances cost and speed for certain trade lanes
+                           </li>
+                           <li>
+                              Environmentally friendly alternative
+                           </li>
+                        </ul>
                      </div>
                   </div>
-                  <div class="tab-pane fade" id="pills-growth" role="tabpanel" aria-labelledby="pills-growth-tab">
-                     <div class="container">
-                        <div class="row align-items-center">
-                           <div class="col-md-6">
-                              <div class="">
-                                 <div class="image_content_box mt-0 mb-3">
-                                    <img src="https://www.yaprime.com/public/web/images/scalability-and-growth.png" class="img-fluid">
-                                    <h4>
-                                       Scalability and Growth
-                                    </h4>
-                                 </div>
-                                 <p class="mb-0 text-white">As your brokerage grows, our services scale with you. We help plan for future growth, ensuring that your backend systems can handle increased volumes of data and transactions without disruptions, allowing you to expand your business confidently.
-                                 </p>
-                              </div>
-                           </div>
-                           <div class="col-md-6">
-                              <figure class="mb-0 mx-auto">
-                                 
-                              </figure>
-                           </div>
+               </div>
+               <div class="col-12">
+                  <div class="careers_image_box image-box">
+                     <div class="card-body">
+                        <div class="d-flex align-items-center gap-3 mb-3">
+                           <span>
+                              <img src="assets/images/road-freight.png" alt="" class="img-fluid" width="64px">
+                           </span>
+                           <h5 class="card-title fw-semibold mb-0">Road Transport</h5>
                         </div>
+                        <ul class="shipping-pointers">
+                           <li>
+                              Flexible and convenient for shorter distances
+                           </li>
+                           <li>
+                              Door-to-door delivery options
+                           </li>
+                           <li>
+                              Ideal for regional distribution
+                           </li>
+                        </ul>
                      </div>
                   </div>
                </div>
             </div>
          </div>
-        </div>
-    </div>
+         <div class="col-lg-6 ">
+            <figure class="sidebar-stickyy">
+               <img src="https://gsscargo.com/wp-content/uploads/2019/02/cargo.png" class="img-fluid">
+            </figure>
+         </div>
+      </div>
+   </div>
 </section>
 
 <?php include ('include/footer.php'); ?>
