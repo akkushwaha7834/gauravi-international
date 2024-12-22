@@ -760,7 +760,7 @@ About Us Page
     z-index: 0;
 }
 .breadcrumb-overlay::after{
-    background: radial-gradient(#0000004f, #06173a);
+    background: radial-gradient(#0000004f, var(--theme-primary));
     content: "";
     height: 100%;
     left: 0;
