@@ -248,12 +248,12 @@
                 </div>
             </div>
             <div class="col-lg-8 wow fadeInRight animated animated animated" data-wow-delay="00ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInRight;">
-                <img src="assets/images/luxury-bedding-collections.jpg" class="img-fluid rounded">
+                <img src="assets/images/handloom-treasures.jpg" class="img-fluid rounded">
             </div>
         </div>
         <div class="row mt-5 align-items-center mt-4">
             <div class="col-lg-8 wow fadeInLeft animated animated animated" data-wow-delay="00ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
-                <img src="assets/images/luxury-bedding-collections.jpg" class="img-fluid rounded position-relative z-0">
+                <img src="assets/images/specialized-b-b-offerings.jpg" class="img-fluid rounded position-relative z-0">
             </div>
             <div class="col-lg-4">
                 <div class="pdt-info position-relative">
@@ -276,20 +276,4 @@
 </section>
 <!-- Featured Product Categories -->
 
-
-
-<div class="swiper-container">
-  <div class="swiper-wrapper">
-    <div class="swiper-slide"><img src="https://jindalecotex.in/images/Website%20Creative/Gallery/8.jpg" alt="Image 1"></div>
-    <div class="swiper-slide"><img src="https://jindalecotex.in/images/Website%20Creative/Gallery/9.jpg" alt="Image 2"></div>
-    <div class="swiper-slide"><img src="https://jindalecotex.in/images/Website%20Creative/Gallery/10.jpg" alt="Image 3"></div>
-    <div class="swiper-slide"><img src="https://jindalecotex.in/images/Website%20Creative/Gallery/11.jpg" alt="Image 4"></div>
-    <div class="swiper-slide"><img src="https://jindalecotex.in/images/Website%20Creative/Gallery/12.jpg" alt="Image 5"></div>
-    <div class="swiper-slide"><img src="https://jindalecotex.in/images/Website%20Creative/Gallery/13.jpg" alt="Image 1"></div>
-    <div class="swiper-slide"><img src="https://jindalecotex.in/images/Website%20Creative/Gallery/14.jpg" alt="Image 2"></div>
-    <div class="swiper-slide"><img src="https://jindalecotex.in/images/Website%20Creative/Gallery/10.jpg" alt="Image 3"></div>
-    <div class="swiper-slide"><img src="https://jindalecotex.in/images/Website%20Creative/Gallery/8.jpg"></div>
-    <div class="swiper-slide"><img src="https://jindalecotex.in/images/Website%20Creative/Gallery/12.jpg" alt="Image 5"></div>
-  </div>
-</div>
 <?php include ('include/footer.php'); ?>

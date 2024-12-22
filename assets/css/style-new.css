@@ -83,17 +83,6 @@
     margin-bottom: 30px;
     transition: all 500ms ease;
 }
-.inner-box:before {
-    position: absolute;
-    content: '';
-    background: #00324f;
-    width: 100%;
-    height: 0%;
-    left: 0px;
-    top: 0px;
-    right: 0px;
-    transition: all 500ms ease;
-}
 .inner-box .icon-box {
     position: relative;
     display: inline-block;
@@ -128,7 +117,7 @@
 .inner-box:before {
     position: absolute;
     content: '';
-    background: #03296b;
+    background: var(--theme-primary);
     width: 100%;
     height: 0%;
     left: 0px;
@@ -145,20 +134,25 @@
 .inner-box:hover .icon-box{
     background: var(--theme-white);
 }
-.swiper-slide img {
-  width: 100%;
-  transition: transform 0.5s ease;
-/*  border-radius: 20px;*/
-/*  opacity: 0.9;*/
-  min-height: 350px;
-  obhect-fit: cover;
+.unique-pills {
+    background: radial-gradient(rgb(68 68 68 / 39%), rgb(48 44 38));
+    padding: 30px;
+    border-radius: 20px;
+    height: 100%;
 }
-
-.swiper-slide-active img {
-  transform: scale(1); /* Zoom effect */
-  opacity: 1;
+.unique-feature-pills .nav-link.active {
+    background: #ffc109;
+    color: #000;
 }
-
-.swiper-container {
-  overflow: hidden;
+.unique-feature-pills .nav-link {
+    background: #050505;
+}
+@media (min-width: 1440px) {
+    .nav-item:not(:last-child) {
+        margin-right: 30px;
+    }
+}
+.unique-feature-pills .nav-link:hover {
+    background: #ffc109;
+    color: #000 !important;
 }
