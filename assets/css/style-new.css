@@ -137,8 +137,9 @@
 .image-box {
     padding: 1rem;
     border: 1px solid var(--theme-primary);
-    box-shadow: 0 4px 6px rgb(141 104 112);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
     height: 100%;
+    border-radius: 10px;
 }
 .shipping-pointers li{
     list-style: circle;

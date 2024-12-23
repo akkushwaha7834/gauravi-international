@@ -20,21 +20,13 @@
 <section class="section-space">
     <div class="container">
         <div class="row">
-            <div class="col-lg-7 ">
-                <h3>About Us</h3>
-                <h2 class="h1">Lorem ipsum dolor sit amet consectetur adipisicing elit.</h2>
-                <p>RDM Certification Services gives value added assessment by its trained, quality conscious,
-                    experienced auditors & technical experts. RDM Certification Services Pvt Ltd provides no. of
-                    certifications that ensure your quality and standard. We also help to explore Quality Management
-                    System’s benefits in a friendly manner so that you can optimize your organisation’s performance.
-                    Unbiased auditing service with wide range of scopes to its clients. RDM Certification Services were
-                    established in response to quality standards certification and Registration and training services
-                    providing organization. We now operate in India & around the world. Our range of services has also
-                    grown and we now offer assessment of management, Environment, and Health safety management systems
-                    in most industry sectors.</p>
+            <div class="col-lg-12 text-center">
+                <h3>Gauravi International: Weaving Global Success</h3>
+                <h2 class="h1">Pioneers in B2B Textile Exports</h2>
+                <p>Gauravi International stands as a beacon of excellence in the global textile industry, specializing in the export of premium bedsheets and handloom products. Our journey, rooted in India's rich textile heritage, has evolved into a story of international trade mastery and innovation.</p>
             </div>
-            <div class="col-lg-5 align-self-center text-center"><img src="assets/images/aboutus.png" alt=""
-                    class="w-75"></div>
+            <!-- <div class="col-lg-5 align-self-center text-center"><img src="assets/images/aboutus.png" alt=""
+                    class="w-75"></div> -->
         </div>
     </div>
 </section>
