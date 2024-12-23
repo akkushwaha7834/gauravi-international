@@ -7,6 +7,7 @@
     --theme-text: #000;
     --theme-bg-light: #f3f8ff;
     --theme-white: #fff;
+    --theme-black: #000;
     --theme-color:#ededed;
 }
 
@@ -199,7 +200,7 @@ p {
 }
 
 .text-primary {
-    color: var(--theme-primary) !important;
+    color: var(--theme-black) !important;
 }
 
 .text-secondary {

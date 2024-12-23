@@ -193,6 +193,28 @@
                 <h2>
                     Why Global Partners Choose Gauravi International
                 </h2>
+                <p class="mt-4">
+                    Gauravi International is a preferred partner for global businesses in the textile industry, particularly for bedsheets and handloom products. One key reason partners choose Gauravi is its scalable production capabilities, supported by state-of-the-art manufacturing facilities that can consistently handle large-scale orders. The company offers flexible production schedules to meet seasonal demands, ensuring timely delivery.
+                </p>
+                <p>
+                    Additionally, We excels in market-specific customization, providing adaptable designs tailored to regional preferences. Customizable packaging and private labeling services enable partners to develop their own brand identity while leveraging Gauravi's expertise.
+                </p>
+            </div>
+        </div>
+        <div class="row mt-4">
+            <div class="col-lg-6">
+                <p>
+                    Quality is paramount at Gauravi International, with an ISO 9001:2015 certified quality management system and rigorous multi-point quality checks throughout production. This commitment ensures that every product exceeds expectations.
+                </p>
+                <p>
+                    The company also prioritizes sustainability through GOTS-certified organic products, fair trade practices, and eco-friendly production methods. Furthermore, Gauravi's international trade expertise includes a thorough understanding of global textile regulations and assistance with import/export documentation, bolstered by strategic partnerships with logistics providers.
+                </p>
+                <p>
+                    These attributes make Gauravi International a leading choice for businesses seeking high-quality textile solutions globally.
+                </p>
+            </div>
+            <div class="col-lg-6">
+                <img src="assets/images/why-us.jpg" class="img-fluid">
             </div>
         </div>
     </div>
