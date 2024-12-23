@@ -54,7 +54,7 @@
   <header class="header sticky-top">
     <nav class="navbar navbar-expand-lg p-0">
       <div class="container">
-        <a class="navbar-brand" href="index.php"><img src="assets/images/gauravi-internation-logo.webp" alt="Logo" width="100%"></a>
+        <a class="navbar-brand" href="index.php"><img src="assets/images/gauravi-logoo.jpg" alt="Logo" width="100%"></a>
         <button class="mobile-menu-toggle" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasRight" aria-controls="offcanvasRight">
           <span class="toggler-icon ri-menu-2-line"></span>
         </button>
