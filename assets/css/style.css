@@ -2,12 +2,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root {
-    --theme-primary: #8D6870;
-    --theme-secondary: #e6dddf;
+    --theme-primary: #888a8b;
+    --theme-secondary: #ededed;
     --theme-text: #000;
     --theme-bg-light: #f3f8ff;
     --theme-white: #fff;
-    --theme-color:#e6dddf;
+    --theme-color:#ededed;
 }
 
 /*** 
