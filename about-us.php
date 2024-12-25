@@ -25,302 +25,79 @@
                 <h2 class="h1">Pioneers in B2B Textile Exports</h2>
                 <p>Gauravi International stands as a beacon of excellence in the global textile industry, specializing in the export of premium bedsheets and handloom products. Our journey, rooted in India's rich textile heritage, has evolved into a story of international trade mastery and innovation.</p>
             </div>
-            <!-- <div class="col-lg-5 align-self-center text-center"><img src="assets/images/aboutus.png" alt=""
-                    class="w-75"></div> -->
         </div>
+        <div class="row mt-3 gy-4 unique_features_row">
+          <div class="col-md-6">
+             <h3 class="text-primary">Our Legacy of Global Trade</h3>
+             <p class="">
+                Gauravi International is growing from a small family-owned business to a leading player in the international B2B textile market. Our growth is a testament to our deep understanding of global trade dynamics and our commitment to meeting the diverse needs of wholesale partners worldwide.
+            </p>
+            <h3 class="text-primary">
+                Our Global Trade Expertise
+            </h3>
+            <p>
+                At Gauravi International, our success in the B2B textile export market is anchored in several key pillars. First, we leverage international market intelligence through a dedicated research team that analyzes global textile trends and develops customized products to meet regional preferences. Our strategic partnerships with international trade associations further enhance our market insights.
+            </p>
+            <p>
+                We pride ourselves on regulatory compliance excellence, with in-house experts who navigate international textile regulations and proactively adapt to changing global trade policies. We also assist clients with complex customs documentation and procedures to ensure smooth transactions.
+            </p>
+            <p>
+                Our logistics and supply chain mastery is evident in our optimized global shipping routes, which facilitate cost-effective delivery. We offer real-time tracking systems for shipment transparency and strategic warehousing solutions in key global markets.
+            </p>
+            <p>
+                Additionally, we provide financial trade solutions with flexible payment terms that cater to international B2B norms, multi-currency transaction capabilities, and partnerships with global trade finance institutions.
+            </p>
+            <p>
+                Finally, our cultural intelligence is reflected in our multilingual sales and support teams, who understand diverse business etiquettes and practices, allowing us to tailor communication strategies for different global regions.
+            </p>
+          </div>
+          <div class="col-lg-6 ">
+            <figure class="sidebar-stickyy">
+               <img src="assets/images/b2b.webp" class="img-fluid">
+            </figure>
+         </div>
+       </div>
     </div>
 </section>
-<section class="section-space bg-dark">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-10 text-center">
-                <h3 class="text-white">Why Choose</h3>
-                <h2 class="mb-4 h1 text-white">You can contact
-                    us for any question</h2>
-                <p class="text-white mb-4">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laudantium,
-                    adipisci perspiciatis? Est suscipit voluptatum non consequatur autem pariatur, placeat officia ullam
-                    deserunt, vitae enim nostrum nobis nulla adipisci eius quis!</p>
-            </div>
-        </div>
-        <div class="row g-4 mt-4 justify-content-center">
-            <div class="col-md-6 col-lg-4">
-                <div class="box-style-2 border-radius-1">
-                    <h3 class="fw-semibold">Lorem ipsum dolor </h3>
-                    <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Id ullam soluta assumenda
-                        eligendi eveniet quas reiciendis voluptate. Saepe, doloribus aut?</p>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="box-style-2 border-radius-1">
-                    <h3 class="fw-semibold">Lorem ipsum dolor </h3>
-                    <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Id ullam soluta assumenda
-                        eligendi eveniet quas reiciendis voluptate. Saepe, doloribus aut?</p>
-                </div>
-            </div>
-            <div class="col-md-6 col-lg-4">
-                <div class="box-style-2 border-radius-1">
-                    <h3 class="fw-semibold">Lorem ipsum dolor </h3>
-                    <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Id ullam soluta assumenda
-                        eligendi eveniet quas reiciendis voluptate. Saepe, doloribus aut?</p>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<section class="section-space">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-4 align-self-center">
-                <h2>RDM now Eligible to Issue</h2>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Possimus ad eum cupiditate enim veniam.</p>
-                <a href="certificates.php" class="btn-round text-dark "> View All<i class="ri-arrow-right-line"></i></a>
-            </div>
-            <div class="col-lg-8">
-                <div class="swiper certificate-slider p-3">
-                    <div class="swiper-wrapper align-items-center gap-4 ">
-                        <div class="swiper-slide">
-                            <div class="d-flex h-100 certi-wrapper">
-                                <div class="certificates-box">
 
-                                    <img src="assets/images/certificates/9001-1.jpg" alt="">
-                                    <h3>ISO 9001:2015</h3>
-                                    <p>Quality management system</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="d-flex h-100 certi-wrapper">
-                                <div class="certificates-box">
-
-                                    <img src="assets/images/certificates/10002-1.jpg" alt="">
-                                    <h3>ISO 10002:2014</h3>
-                                    <p>Complaint management system</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="d-flex h-100 certi-wrapper">
-                                <div class="certificates-box">
-
-                                    <img src="assets/images/certificates/14001.jpg" alt="">
-                                    <h3>ISO 14001:2015</h3>
-                                    <p>Environmental management system</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="d-flex h-100 certi-wrapper">
-                                <div class="certificates-box">
-                                    <img src="assets/images/certificates/45001.jpg" alt="">
-                                    <h3>ISO 45001:2018</h3>
-                                    <p>Occupational helath and safety management system</p>
-                                </div>
-                            </div>
-
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="d-flex h-100 certi-wrapper">
-                                <div class="certificates-box">
-                                    <img src="assets/images/certificates/22000-1.jpg" alt="">
-                                    <h3>ISO 22000:2018</h3>
-                                    <p>Food safety management system</p>
-                                </div>
-                            </div>
-
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="d-flex h-100 certi-wrapper">
-                                <div class="certificates-box">
-                                    <img src="assets/images/certificates/26000.jpg" alt="">
-                                    <h3>ISO 26000:2010</h3>
-                                    <p>Social responsibility</p>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
+<section class="mission_visionn">
+  <div class="container mission_vision">
+    <div class="row mt-5 justify-content-start">
+      <div class="col-lg-7 col-md-12 col_first_half">
+        <div class="mission_image_box">
+          <div class="row align-items-center">
+            <div class="col-md-5 first_col_img">
+              <img src="https://www.yaprime.com/public/web/images/our-unique-approach.png" class="img-fluid">
             </div>
-        </div>
-    </div>
-</section>
-<section class="position-relative overlay-left bg-image section-space"
-    style="background-image:url('assets/images/cta.webp');background-attachment:fixed;">
-    <div class="container position-relative z-1 py-5">
-        <div class="row g-4">
             <div class="col-md-7">
-                <h3 class="text-white">Get Certificate?</h3>
-                <h2 class="text-white mb-4">Need ISO Certificate? Get a Quote Now or Call <a href="tel:+917701949495"
-                        class="text-white"><span><i class="ri-phone-line"></i></span>
-                        <span>+91-7701949495</span></a></h2>
-                <a href="contact.php" class="btn-round "> Contact Us <i class="ri-arrow-right-line"></i>
-                </a>
+              <div class="mission_content_col">
+                <h4 class="text-primary">Global Reach, Local Touch</h4>
+                <p>At Gauravi International, we operate on a global scale while maintaining a personalized approach to each market. Our customized product lines are tailored to meet specific market demands, ensuring relevance and appeal. We have local market experts with on-ground teams in key regions, providing valuable insights and support. Additionally, our adaptive business models allow for flexible partnerships that suit diverse business cultures, fostering strong relationships with our clients. This combination of global reach and local touch enables us to effectively serve our partners worldwide.</p>
+              </div>
             </div>
+          </div>
         </div>
+      </div>
+
     </div>
+    <div class="row justify-content-end mt-5">
+      <div class="col-lg-7 col-md-12 col_first_half">
+        <div class="mission_image_box">
+          <div class="row">
+            <div class="col-md-5 first_col_img">
+              <!-- <lottie-player src="https://www.yaprime.com/public/web/images/lottie-json/our_mission.json" background="transparent" speed="1"  direction="1" mode="normal" loop autoplay></lottie-player> -->
+              <img src="https://www.yaprime.com/public/web/images/our-mission.png" class="img-fluid">
+            </div>
+            <div class="col-md-7">
+              <div class="mission_content_col">
+                <h4 class="text-primary">Our Vision for the Future</h4>
+                <p>As we look ahead, Gauravi International is dedicated to expanding our global footprint while upholding our commitment to quality. We aim to pioneer sustainable practices within the textile industry and leverage technology to enhance the B2B customer experience. Additionally, we are focused on fostering innovation in textile design and functionality, ensuring that we meet the evolving needs of our partners and contribute positively to the industry.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </section>
-<section class="clients-sec section-space">
-    <div class="container">
-        <div class="row justify-content-center mb-5">
-            <div class="col-lg-10 text-center">
-                <h3 class="text-primary">Our Clients</h3>
-                <h2 class="mb-4 text-dark h1 mb-4">Lorem ipsum dolor sit amet</h2>
-            </div>
-        </div>
-
-    </div>
-    <div class="swiper client-slider py-3">
-        <div class="swiper-wrapper align-items-center gap-4 ">
-            <div class="swiper-slide">
-                <div>
-                    <figure>
-                        <img src="assets/images/clients-logo/c11.png" alt="">
-                    </figure>
-                </div>
-            </div>
-            <div class="swiper-slide">
-                <div>
-                    <figure>
-                        <img src="assets/images/clients-logo/c12.png" alt="">
-                    </figure>
-                </div>
-            </div>
-            <div class="swiper-slide">
-                <div>
-                    <figure>
-                        <img src="assets/images/clients-logo/c13.png" alt="">
-                    </figure>
-                </div>
-            </div>
-
-            <div class="swiper-slide">
-                <div>
-                    <figure>
-                        <img src="assets/images/clients-logo/c15.png" alt="">
-                    </figure>
-                </div>
-            </div>
-            <div class="swiper-slide">
-                <div>
-                    <figure>
-                        <img src="assets/images/clients-logo/c16.png" alt="">
-                    </figure>
-                </div>
-            </div>
-            <div class="swiper-slide">
-                <div>
-                    <figure>
-                        <img src="assets/images/clients-logo/c17.png" alt="">
-                    </figure>
-                </div>
-            </div>
-            <div class="swiper-slide">
-                <div>
-                    <figure>
-                        <img src="assets/images/clients-logo/c18.png" alt="">
-                    </figure>
-                </div>
-            </div>
-            <div class="swiper-slide">
-                <div>
-                    <figure>
-                        <img src="assets/images/clients-logo/logo (2).png" alt="">
-                    </figure>
-                </div>
-            </div>
-            <div class="swiper-slide">
-                <div>
-                    <figure>
-                        <img src="assets/images/clients-logo/HTHllabs.png" alt="">
-                    </figure>
-                </div>
-            </div>
-            <div class="swiper-slide">
-                <div>
-                    <figure>
-                        <img src="assets/images/clients-logo/c7.jpg" alt="">
-                    </figure>
-                </div>
-            </div>
-            <div class="swiper-slide">
-                <div>
-                    <figure>
-                        <img src="assets/images/clients-logo/c6.jpg" alt="">
-                    </figure>
-                </div>
-            </div>
-            <div class="swiper-slide">
-                <div>
-                    <figure>
-                        <img src="assets/images/clients-logo/c4.jpg" alt="">
-                    </figure>
-                </div>
-            </div>
-            <div class="swiper-slide">
-                <div>
-                    <figure>
-                        <img src="assets/images/clients-logo/c3_.jpg" alt="">
-                    </figure>
-                </div>
-            </div>
-            <div class="swiper-slide">
-                <div>
-                    <figure>
-                        <img src="assets/images/clients-logo/c2_.jpg" alt="">
-                    </figure>
-                </div>
-            </div>
-            <div class="swiper-slide">
-                <div>
-                    <figure>
-                        <img src="assets/images/clients-logo/c1.jpg" alt="">
-                    </figure>
-                </div>
-            </div>
-            <div class="swiper-slide">
-                <div>
-                    <figure>
-                        <img src="assets/images/clients-logo/blueboyd.jpg" alt="">
-                    </figure>
-                </div>
-            </div>
-            <div class="swiper-slide">
-                <div>
-                    <figure>
-                        <img src="assets/images/clients-logo/Bantia-logo_White_1_215x@2x.jpg" alt="">
-                    </figure>
-                </div>
-            </div>
-            <div class="swiper-slide">
-                <div>
-                    <figure>
-                        <img src="assets/images/clients-logo/552.jpg" alt="">
-                    </figure>
-                </div>
-            </div>
-            <div class="swiper-slide">
-                <div>
-                    <figure>
-                        <img src="assets/images/clients-logo/33.jpg" alt="">
-                    </figure>
-                </div>
-            </div>
-            <div class="swiper-slide">
-                <div>
-                    <figure>
-                        <img src="assets/images/clients-logo/22.jpg" alt="">
-                    </figure>
-                </div>
-            </div>
-            <div class="swiper-slide"></div>
-            <div>
-                <figure>
-                    <img src="assets/images/clients-logo/11.jpg" alt="">
-                </figure>
-            </div>
-        </div>
-    </div>
-    </div>
-</section>
-
 <?php include ('include/footer.php'); ?>

@@ -153,3 +153,35 @@
     /* bottom: 20px; */
     top: 200px;
 }
+.mission_vision {
+    background: url(../images/map.png);
+    padding: 80px 12px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    z-index: 1;
+}
+.mission_visionn::after {
+    content: "";
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    background: var(--theme-primary);
+    left: 0;
+    opacity: 0.4;
+    z-index: 0;
+}
+section.mission_visionn {
+    position: relative;
+}
+.mission_image_box {
+    border-radius: 15px;
+    background: var(--theme-secondary);
+    box-shadow: 9.98239px 9.98239px 9.98239px 0px rgba(0, 0, 0, 0.05);
+}
+.mission_content_col {
+    padding: 20px;
+    color: #fff;
+}

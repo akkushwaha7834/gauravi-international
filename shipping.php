@@ -148,7 +148,7 @@
          </div>
          <div class="col-lg-6 ">
             <figure class="sidebar-stickyy">
-               <img src="https://gsscargo.com/wp-content/uploads/2019/02/cargo.png" class="img-fluid">
+               <img src="assets/images/cargo.png" class="img-fluid">
             </figure>
          </div>
       </div>
