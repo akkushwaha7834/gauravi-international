@@ -157,25 +157,25 @@
         </div>
         <div class="row mt-4 clearfix">
             <div class="col-lg-6 col-md-6 col-sm-12 single-column">
-                <div class="single-item wow fadeInLeft animated animated animated" data-wow-delay="00ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
+                <div class="single-item fadeInLeft animated" data-wow-delay="00ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
                     <div class="icon-box"><i class="ri-check-double-line"></i></div>
                     <h4 class="text-white">Major retail chains in North America and Europe</h4>
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12 single-column">
-                <div class="single-item wow fadeInUp animated animated animated" data-wow-delay="00ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
+                <div class="single-item fadeInUp animated" data-wow-delay="00ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
                     <div class="icon-box"><i class="ri-check-double-line"></i></div>
                     <h4 class="text-white">Luxury hospitality groups across Asia and the Middle East</h4>
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12 single-column">
-                <div class="single-item wow fadeInRight animated animated animated" data-wow-delay="00ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInRight;">
+                <div class="single-item fadeInRight animated" data-wow-delay="00ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInRight;">
                     <div class="icon-box"><i class="ri-check-double-line"></i></div>
                     <h4 class="text-white">Leading online marketplaces and e-commerce platforms</h4>
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12 single-column">
-                <div class="single-item wow fadeInLeft animated animated animated" data-wow-delay="300ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 300ms; animation-name: fadeInLeft;">
+                <div class="single-item fadeInLeft animated" data-wow-delay="300ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 300ms; animation-name: fadeInLeft;">
                     <div class="icon-box"><i class="ri-check-double-line"></i></div>
                     <h4 class="text-white">Wholesale distributors in Australia and South America</h4>
                 </div>

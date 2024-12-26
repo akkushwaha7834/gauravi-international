@@ -60,6 +60,40 @@
     </div>
 </section>
 
+<section class="strong_framework">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-6">
+                <div class="framework_content">
+                    <h3 class="text-primary">
+                        Our Commitment to Innovation
+                    </h3>
+                    <p>
+                        Gauravi International stays at the forefront of the textile industry through continuous innovation:
+                    </p>
+                    <ul class="commitment">
+                        <li>
+                           <strong>Advanced Manufacturing</strong> : State-of-the-art machinery for consistent quality
+                        </li>
+                        <li>
+                            <strong>Digital Integration</strong> : E-commerce solutions for seamless B2B transactions
+                        </li>
+                        <li>
+                            <strong>Sustainable Practices</strong> : Pioneering eco-friendly textile production methods
+                        </li>
+                        <li>
+                            <strong>Product Innovation</strong> : Ongoing R&D in fabric technology and design
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-6 commitment_image">
+            </div>
+        </div>
+    </div>
+</section>
+
+
 <section class="mission_visionn">
   <div class="container mission_vision">
     <div class="row mt-5 justify-content-start">
@@ -101,126 +135,166 @@
   </div>
 </section>
 
-    <section class="our-team-section">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-3 col-md-6 col-sm-6">
-                    <div class="our-team">
-                        <div class="pic">
-                            <img src="https://i.ibb.co/8x9xK4H/team.jpg">
-                        </div>
-                        <div class="team-content">
-                            <h3 class="title">Team 1</h3>
-                            <span class="post">Inhaber & Geschäftsführer</span>
-                        </div>
-                        <ul class="social">
-                            <li>
-                                <a href="#">
-                                    <i class="ri-facebook-fill"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <i class="ri-twitter-x-line"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <i class="ri-linkedin-box-line"></i>
-                                </a>
-                            </li>
-                        </ul>
+<section class="our-team-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <h2>
+                    Leadership Team
+                </h2>
+                <p>
+                    Our leadership team brings together decades of experience in global trade, textile manufacturing, and international business:
+                </p>
+            </div>
+        </div>
+        <div class="row mt-4">
+            <div class="col-lg-3 col-md-6 col-sm-6">
+                <div class="our-team">
+                    <div class="pic">
+                        <img src="https://i.ibb.co/8x9xK4H/team.jpg">
                     </div>
+                    <div class="team-content">
+                        <h3 class="title">Rajesh Gupta</h3>
+                        <span class="post">CEO</span>
+                        <p>
+                            30+ years in international textile trade
+                        </p>
+                    </div>
+                    <ul class="social">
+                        <li>
+                            <a href="#">
+                                <i class="ri-facebook-fill"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="ri-twitter-x-line"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="ri-linkedin-box-line"></i>
+                            </a>
+                        </li>
+                    </ul>
                 </div>
+            </div>
 
-                <div class="col-lg-3 col-md-6 col-sm-6">
-                    <div class="our-team">
-                        <div class="pic">
-                            <img src="https://i.ibb.co/8x9xK4H/team.jpg">
-                        </div>
-                        <div class="team-content">
-                            <h3 class="title">Team 2</h3>
-                            <span class="post">Stellvertretender  Geschäftsführer</span>
-                        </div>
-                        <ul class="social">
-                            <li>
-                                <a href="#">
-                                    <i class="ri-facebook-fill"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <i class="ri-twitter-x-line"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <i class="ri-linkedin-box-line"></i>
-                                </a>
-                            </li>
-                        </ul>
+            <div class="col-lg-3 col-md-6 col-sm-6">
+                <div class="our-team">
+                    <div class="pic">
+                        <img src="https://i.ibb.co/8x9xK4H/team.jpg">
                     </div>
+                    <div class="team-content">
+                        <h3 class="title">Priya Sharma</h3>
+                        <span class="post">Head of Global Operations</span>
+                        <p>
+                            Expert in supply chain optimization
+                        </p>
+                    </div>
+                    <ul class="social">
+                        <li>
+                            <a href="#">
+                                <i class="ri-facebook-fill"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="ri-twitter-x-line"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="ri-linkedin-box-line"></i>
+                            </a>
+                        </li>
+                    </ul>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-6">
-                    <div class="our-team">
-                        <div class="pic">
-                            <img src="https://i.ibb.co/8x9xK4H/team.jpg">
-                        </div>
-                        <div class="team-content">
-                            <h3 class="title">Team 3</h3>
-                            <span class="post">Dipl. Physiotherapeut </span>
-                        </div>
-                        <ul class="social">
-                            <li>
-                                <a href="#">
-                                    <i class="ri-facebook-fill"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <i class="ri-twitter-x-line"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <i class="ri-linkedin-box-line"></i>
-                                </a>
-                            </li>
-                        </ul>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-6">
+                <div class="our-team">
+                    <div class="pic">
+                        <img src="https://i.ibb.co/8x9xK4H/team.jpg">
                     </div>
+                    <div class="team-content">
+                        <h3 class="title">David Chen</h3>
+                        <span class="post">Chief Innovation Officer</span>
+                        <p>
+                            Pioneer in sustainable textile technologies
+                        </p>
+                    </div>
+                    <ul class="social">
+                        <li>
+                            <a href="#">
+                                <i class="ri-facebook-fill"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="ri-twitter-x-line"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="ri-linkedin-box-line"></i>
+                            </a>
+                        </li>
+                    </ul>
                 </div>
-
-                <div class="col-lg-3 col-md-6 col-sm-6">
-                    <div class="our-team">
-                        <div class="pic">
-                            <img src="https://i.ibb.co/8x9xK4H/team.jpg">
-                        </div>
-                        <div class="team-content">
-                            <h3 class="title">Team 4</h3>
-                            <span class="post">Dipl. Physiotherapeut </span>
-                        </div>
-                        <ul class="social">
-                            <li>
-                                <a href="#">
-                                    <i class="ri-facebook-fill"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <i class="ri-twitter-x-line"></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <i class="ri-linkedin-box-line"></i>
-                                </a>
-                            </li>
-                        </ul>
+            </div>
+            <div class="col-lg-3 col-md-6 col-sm-6">
+                <div class="our-team">
+                    <div class="pic">
+                        <img src="https://i.ibb.co/8x9xK4H/team.jpg">
                     </div>
+                    <div class="team-content">
+                        <h3 class="title">Amina Patel</h3>
+                        <span class="post">Director of International Business Development</span>
+                        <p>
+                            Specialist in emerging markets
+                        </p>
+                    </div>
+                    <ul class="social">
+                        <li>
+                            <a href="#">
+                                <i class="ri-facebook-fill"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="ri-twitter-x-line"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="ri-linkedin-box-line"></i>
+                            </a>
+                        </li>
+                    </ul>
                 </div>
             </div>
         </div>
+    </div>
+</section>
 
-    </section>
+<section class="join-network">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <div class="join-our-network">
+                    <h2 class="text-white">
+                        Join Our Global Network
+                    </h2>
+                    <p class="text-white">
+                        At Gauravi International, we're more than just a supplier – we're your partner in global textile trade success. Our expertise, combined with our commitment to quality and innovation, makes us the ideal choice for B2B partners looking to excel in the international textile market.
+                    </p>
+                    <a href="#" class="join-btn">
+                        Explore Partnership Opportunities
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 <?php include ('include/footer.php'); ?>
