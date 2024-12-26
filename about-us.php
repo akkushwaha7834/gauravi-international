@@ -100,4 +100,127 @@
     </div>
   </div>
 </section>
+
+    <section class="our-team-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="our-team">
+                        <div class="pic">
+                            <img src="https://i.ibb.co/8x9xK4H/team.jpg">
+                        </div>
+                        <div class="team-content">
+                            <h3 class="title">Team 1</h3>
+                            <span class="post">Inhaber & Geschäftsführer</span>
+                        </div>
+                        <ul class="social">
+                            <li>
+                                <a href="#">
+                                    <i class="ri-facebook-fill"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <i class="ri-twitter-x-line"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <i class="ri-linkedin-box-line"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="our-team">
+                        <div class="pic">
+                            <img src="https://i.ibb.co/8x9xK4H/team.jpg">
+                        </div>
+                        <div class="team-content">
+                            <h3 class="title">Team 2</h3>
+                            <span class="post">Stellvertretender  Geschäftsführer</span>
+                        </div>
+                        <ul class="social">
+                            <li>
+                                <a href="#">
+                                    <i class="ri-facebook-fill"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <i class="ri-twitter-x-line"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <i class="ri-linkedin-box-line"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="our-team">
+                        <div class="pic">
+                            <img src="https://i.ibb.co/8x9xK4H/team.jpg">
+                        </div>
+                        <div class="team-content">
+                            <h3 class="title">Team 3</h3>
+                            <span class="post">Dipl. Physiotherapeut </span>
+                        </div>
+                        <ul class="social">
+                            <li>
+                                <a href="#">
+                                    <i class="ri-facebook-fill"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <i class="ri-twitter-x-line"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <i class="ri-linkedin-box-line"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="our-team">
+                        <div class="pic">
+                            <img src="https://i.ibb.co/8x9xK4H/team.jpg">
+                        </div>
+                        <div class="team-content">
+                            <h3 class="title">Team 4</h3>
+                            <span class="post">Dipl. Physiotherapeut </span>
+                        </div>
+                        <ul class="social">
+                            <li>
+                                <a href="#">
+                                    <i class="ri-facebook-fill"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <i class="ri-twitter-x-line"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <i class="ri-linkedin-box-line"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section>
+
 <?php include ('include/footer.php'); ?>
