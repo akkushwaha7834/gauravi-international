@@ -345,3 +345,26 @@ section.mission_visionn {
     background: #fff;
     color: var(--theme-primary);
 }
+.broker-setup-row {
+    background: radial-gradient(#00000000, var(--theme-primary));
+    padding: 30px;
+    border-radius: 20px;
+    margin: 0 15px;
+}
+.meta_intro{
+    padding: 80px 0;
+    background: var(--theme-secondary);
+}
+.meta-intro{
+    padding: 80px 0;
+    background: #000;
+}
+ul.suport_sec li{
+    list-style: circle;
+}
+ul.suport_sec{
+    padding-left: 1.5rem;
+}
+.unique-pills h2{
+    font-size: 2rem;
+}

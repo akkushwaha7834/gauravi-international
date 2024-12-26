@@ -19,8 +19,7 @@
 </section>
 
 
-
-<section class="int-intro">
+<section class="int-intro" style="">
    <div class="container">
       <div class="row text-center">
          <div class="col-md-12 text-center">
@@ -32,12 +31,7 @@
             </p>
          </div>
       </div>
-   </div>
-</section>
-
-<section class="int-intro" style="background: url(https://www.yamarkets.com/public/web/img/forex-bg.png); background-repeat: no-repeat; background-size: cover; background-position: center;">
-   <div class="container">
-      <div class="row">
+      <div class="row mt-4">
          <div class="col-md-12">
             <div class="unique-pills">
                <div class="row gy-4 unique_features_row">
@@ -167,14 +161,14 @@
          </div>
          <div class="col-md-5 align-items-center justify-content-center d-flex">
             <figure class="mt-s-image text-center">
-               <img src="https://www.yaprime.com/public/web/images/platform-setup-and-configuration.png" alt="" width="70%" class="img-fluid">
+               <img src="https://www.yaprime.com/public/web/images/security-enhancements.png" alt="" width="70%" class="img-fluid aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
             </figure>
          </div>
       </div>
       <div class="row mt-4 broker-setup-row align-items-center justify-content-center">
          <div class="col-md-5 align-items-center justify-content-center d-flex">
             <figure class="mt-s-image text-center">
-               <img src="https://www.yaprime.com/public/web/images/server-maintenance-and-monitoring.png" alt="" width="70%" class="img-fluid">
+               <img src="https://www.yaprime.com/public/web/images/server-maintenance-and-monitoring.png" alt="" width="70%" class="img-fluid aos-init" data-aos="fade-right" data-aos-duration="1000">
             </figure>
          </div>
          <div class="col-md-7">
@@ -193,14 +187,14 @@
          </div>
          <div class="col-md-5 align-items-center justify-content-center d-flex">
             <figure class="mt-s-image text-center">
-               <img src="https://www.yaprime.com/public/web/images/security-enhancements.png" alt="" width="70%" class="img-fluid">
+               <img src="https://www.yaprime.com/public/web/images/security-enhancements.png" alt="" width="70%" class="img-fluid aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
             </figure>
          </div>
       </div>
       <div class="row mt-4 broker-setup-row align-items-center justify-content-center">
          <div class="col-md-5 align-items-center justify-content-center d-flex">
             <figure class="mt-s-image text-center">
-               <img src="https://www.yaprime.com/public/web/images/user-support-and-training.png" alt="" width="70%" class="img-fluid aos-init" data-aos="fade-right" data-aos-duration="1000">
+               <img src="https://www.yaprime.com/public/web/images/server-maintenance-and-monitoring.png" alt="" width="70%" class="img-fluid aos-init" data-aos="fade-right" data-aos-duration="1000">
             </figure>
          </div>
          <div class="col-md-7">
@@ -219,14 +213,14 @@
          </div>
          <div class="col-md-5 align-items-center justify-content-center d-flex">
             <figure class="mt-s-image text-center">
-               <img src="https://www.yaprime.com/public/web/images/custom-scripting-and-automation.png" alt="" width="70%" class="img-fluid">
+               <img src="https://www.yaprime.com/public/web/images/security-enhancements.png" alt="" width="70%" class="img-fluid aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
             </figure>
          </div>
       </div>
       <div class="row mt-4 broker-setup-row align-items-center justify-content-center">
          <div class="col-md-5 align-items-center justify-content-center d-flex">
             <figure class="mt-s-image text-center">
-               <img src="https://www.yaprime.com/public/web/images/user-support-and-training.png" alt="" width="70%" class="img-fluid aos-init" data-aos="fade-right" data-aos-duration="1000">
+               <img src="https://www.yaprime.com/public/web/images/server-maintenance-and-monitoring.png" alt="" width="70%" class="img-fluid aos-init" data-aos="fade-right" data-aos-duration="1000">
             </figure>
          </div>
          <div class="col-md-7">
@@ -245,14 +239,14 @@
          </div>
          <div class="col-md-5 align-items-center justify-content-center d-flex">
             <figure class="mt-s-image text-center">
-               <img src="https://www.yaprime.com/public/web/images/custom-scripting-and-automation.png" alt="" width="70%" class="img-fluid">
+               <img src="https://www.yaprime.com/public/web/images/security-enhancements.png" alt="" width="70%" class="img-fluid aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
             </figure>
          </div>
       </div>
       <div class="row mt-4 broker-setup-row align-items-center justify-content-center">
          <div class="col-md-5 align-items-center justify-content-center d-flex">
             <figure class="mt-s-image text-center">
-               <img src="https://www.yaprime.com/public/web/images/custom-scripting-and-automation.png" alt="" width="70%" class="img-fluid">
+               <img src="https://www.yaprime.com/public/web/images/server-maintenance-and-monitoring.png" alt="" width="70%" class="img-fluid aos-init" data-aos="fade-right" data-aos-duration="1000">
             </figure>
          </div>
          <div class="col-md-7">
@@ -265,6 +259,39 @@
    </div>
 </section>
 
-
+<section class="meta-intro">
+   <div class="container">
+      <div class="row align-items-center">
+         <div class="col-md-6">
+            <h4 class="text-white">
+               Partner Support
+            </h4>
+            <h3 class="text-white">
+               Our dedicated logistics team provides comprehensive support:
+            </h3>
+            <ul class="text-white suport_sec">
+               <li>
+                  Personalized logistics consultation for each B2B partner
+               </li>
+               <li>
+                  24/7 customer service for shipment inquiries
+               </li>
+               <li>
+                  Regular performance reports and analytics
+               </li>
+               <li>
+                  Training and resources on international shipping best practices
+               </li>
+            </ul>
+            <p class="text-white mt-3">
+               By choosing Gauravi International as your textile export partner, you gain access to a world-class logistics network designed to streamline your global supply chain. Our commitment to efficiency, reliability, and innovation in international shipping ensures that your premium bedsheets and handloom products reach your customers in perfect condition, on time, every time.
+            </p>
+         </div>
+         <div class="col-md-6">
+            <lottie-player src="assets/images/lottie-json/un.json" style="width: 100%; height: 100%" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay=""></lottie-player>
+         </div>
+      </div>
+   </div>
+</section>
 
 <?php include ('include/footer.php'); ?>
