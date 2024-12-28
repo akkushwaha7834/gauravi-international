@@ -26,12 +26,12 @@
         <marquee behavior="" direction="" onmouseover="stop()" onmouseout="start()">
             <div class="d-flex gap-3 align-items-center">
                 <div>
-                    <p class="mb-0 fw-semibold text-white">Featured Product Categories – </p>
+                    <p class="mb-0 fw-semibold">Featured Product Categories – </p>
                 </div>
                 <div class="marquee-box">Luxury Bedding Collections</div>
-                <div class="text-white">•</div>
+                <div class="">•</div>
                 <div class="marquee-box">Handloom Treasures</div>
-                <div class="text-white">•</div>
+                <div class="">•</div>
                 <div class="marquee-box">Specialized B2B Offerings</div>
             </div>
         </marquee>
@@ -298,55 +298,6 @@
 </section>
 <!-- Featured Product Categories -->
 
-<!-- <section class="bg-dark section-space">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-10 text-center">
-                <h2 class="text-white h1">Client Success Stories</h2>
-            </div>
-        </div>
-        <div class="row justify-content-center">
-            <div class="col-md-10">
-                <div class="swiper service-slider px-1 py-3">
-                    <div class="swiper-wrapper pb-5">
-                        <div class="swiper-slide">
-                            <div class="service-wrap">
-                                <div class="row">
-                                    <div class="col-lg-6 align-self-center">
-                                        <div class="service-wrap-item">
-                                            <p class="text-white ">Partnering with Gauravi International has transformed our bedding line. Their commitment to quality and ability to meet our custom requirements has significantly boosted our market share.</p>
-                                            <h3 class="text-white mb-4 fw-semibold"> Emma Thompson, Chief Buyer, EuroLux Home Goods</h3>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 px-0">
-                                        <img src="https://i.ibb.co/8x9xK4H/team.jpg" alt="" class="w-50 h-100">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="service-wrap">
-                                <div class="row">
-                                    <div class="col-lg-6 align-self-center">
-                                        <div class="service-wrap-item">
-                                            <p class="text-white">The team at Gauravi understands the nuances of different markets. Their expertise in international trade has made expanding our textile offerings seamless and profitable.</p>
-                                            <h3 class="text-white mb-4 fw-semibold">Carlos Rodriguez, CEO, Global Comfort Solutions</h3>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-6 px-0">
-                                        <img src="https://i.ibb.co/8x9xK4H/team.jpg" alt="" class="w-50 h-100">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="swiper-pagination"></div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section> -->
 
 
 <section class="creative-testimonial--slider">
@@ -392,17 +343,19 @@
 
 <section class="system">
     <div class="container">
-        <div class="row g-4">
-            <div class="col-12 text-center">
-                <h5 class="text-white fw-bold">Your Partner in Trading Success</h5>
-                <h2 class="text-white">Register Now for <span class="text-gradient">Seamless Trading </span>
-                    <div class="d-lg-block text-gradient">with YaMarkets</div>
+        <div class="row g-4 justify-content-center">
+            <div class="col-7 text-center">
+                <h2 class="text-white">
+                    Ready to Elevate Your Textile Business?
                 </h2>
+                <p class="text-white">
+                    Partner with Gauravi International and gain a competitive edge in the global textile market. Our team is ready to support your business growth with premium products, customized solutions, and unmatched service.
+                </p>
             </div>
             <div class="col-12">
                 <div class="group-btn text-center">
-                    <a href="#" class="btn default-btn wow fadeInUp" data-wow-delay="100ms" style="visibility: visible; animation-delay: 100ms; animation-name: fadeInUp;">Request a Wholesale Quote</a>
-                    <a href="https://area.yamarkets.com/register" class="btn default-btn ms-md-2 wow fadeInUp" data-wow-delay="300ms" style="visibility: visible; animation-delay: 300ms; animation-name: fadeInUp;">Schedule a B2B Consultation</a>
+                    <a href="#" class="btn join-btn wow fadeInUp" data-wow-delay="100ms" style="visibility: visible; animation-delay: 100ms; animation-name: fadeInUp;">Request a Wholesale Quote</a>
+                    <a href="https://area.yamarkets.com/register" class="btn join-btn ms-md-2 wow fadeInUp" data-wow-delay="300ms" style="visibility: visible; animation-delay: 300ms; animation-name: fadeInUp;">Schedule a B2B Consultation</a>
                 </div>
             </div>
         </div>

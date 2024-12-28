@@ -688,11 +688,11 @@ p {
 }
 
 .marquee-box {
-    background: #fff;
+    background: var(--theme-black);
     padding: 2px 15px;
     border-radius: 0.25rem;
     font-weight: 600;
-    color: var(--theme-primary);
+    color: var(--theme-white);
 }
 
 .count-title h2 {
