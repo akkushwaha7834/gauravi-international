@@ -119,7 +119,6 @@
         <div class="mission_image_box">
           <div class="row">
             <div class="col-md-5 first_col_img">
-              <!-- <lottie-player src="https://www.yaprime.com/public/web/images/lottie-json/our_mission.json" background="transparent" speed="1"  direction="1" mode="normal" loop autoplay></lottie-player> -->
               <img src="https://www.yaprime.com/public/web/images/our-mission.png" class="img-fluid">
             </div>
             <div class="col-md-7">

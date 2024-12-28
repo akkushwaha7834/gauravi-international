@@ -389,4 +389,23 @@
             </div>
         </div>
     </section>
+
+<section class="system">
+    <div class="container">
+        <div class="row g-4">
+            <div class="col-12 text-center">
+                <h5 class="text-white fw-bold">Your Partner in Trading Success</h5>
+                <h2 class="text-white">Register Now for <span class="text-gradient">Seamless Trading </span>
+                    <div class="d-lg-block text-gradient">with YaMarkets</div>
+                </h2>
+            </div>
+            <div class="col-12">
+                <div class="group-btn text-center">
+                    <a href="#" class="btn default-btn wow fadeInUp" data-wow-delay="100ms" style="visibility: visible; animation-delay: 100ms; animation-name: fadeInUp;">Request a Wholesale Quote</a>
+                    <a href="https://area.yamarkets.com/register" class="btn default-btn ms-md-2 wow fadeInUp" data-wow-delay="300ms" style="visibility: visible; animation-delay: 300ms; animation-name: fadeInUp;">Schedule a B2B Consultation</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 <?php include ('include/footer.php'); ?>
