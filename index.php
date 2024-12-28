@@ -298,4 +298,95 @@
 </section>
 <!-- Featured Product Categories -->
 
+<!-- <section class="bg-dark section-space">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-10 text-center">
+                <h2 class="text-white h1">Client Success Stories</h2>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-md-10">
+                <div class="swiper service-slider px-1 py-3">
+                    <div class="swiper-wrapper pb-5">
+                        <div class="swiper-slide">
+                            <div class="service-wrap">
+                                <div class="row">
+                                    <div class="col-lg-6 align-self-center">
+                                        <div class="service-wrap-item">
+                                            <p class="text-white ">Partnering with Gauravi International has transformed our bedding line. Their commitment to quality and ability to meet our custom requirements has significantly boosted our market share.</p>
+                                            <h3 class="text-white mb-4 fw-semibold"> Emma Thompson, Chief Buyer, EuroLux Home Goods</h3>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6 px-0">
+                                        <img src="https://i.ibb.co/8x9xK4H/team.jpg" alt="" class="w-50 h-100">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="service-wrap">
+                                <div class="row">
+                                    <div class="col-lg-6 align-self-center">
+                                        <div class="service-wrap-item">
+                                            <p class="text-white">The team at Gauravi understands the nuances of different markets. Their expertise in international trade has made expanding our textile offerings seamless and profitable.</p>
+                                            <h3 class="text-white mb-4 fw-semibold">Carlos Rodriguez, CEO, Global Comfort Solutions</h3>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6 px-0">
+                                        <img src="https://i.ibb.co/8x9xK4H/team.jpg" alt="" class="w-50 h-100">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="swiper-pagination"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section> -->
+
+
+<section class="creative-testimonial--slider">
+        <div class="testimonial-inner" style="background-image: url(https://imgpanda.com/upload/ib/2Tgg58L106.png);">
+            <div class="testimonial-row">
+                <h2 class="testimonial-heading">Client Success Stories</h2>
+                <div class="testimonial-wrap">
+                    <div class="swiper-container">
+                        <div class="swiper-wrapper">
+                            <!-- Slide 1 -->
+                            <div class="swiper-slide">
+                                <div class="swiper-slide--inner">
+                                    <div class="slide-avatar">
+                                        <img src="assets/images/test-1.png" alt="">
+                                    </div>
+                                    <div class="testimonial-detail">
+                                        <p>Partnering with Gauravi International has transformed our bedding line. Their commitment to quality and ability to meet our custom requirements has significantly boosted our market share.</p>
+                                        <span>Emma Thompson, Chief Buyer, EuroLux Home Goods</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Slide 2 -->
+                            <div class="swiper-slide">
+                                <div class="swiper-slide--inner">
+                                    <div class="slide-avatar">
+                                        <img src="https://imgpanda.com/upload/ib/EG2hj3Ch4z.png" alt="">
+                                    </div>
+                                    <div class="testimonial-detail">
+                                        <img src="https://imgpanda.com/upload/ib/VUrKtb4s8h.png" alt="Company Logo">
+                                        <p>The team at Gauravi understands the nuances of different markets. Their expertise in international trade has made expanding our textile offerings seamless and profitable.</p>
+                                        <span>Carlos Rodriguez, CEO, Global Comfort Solutions</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-button-next slide-btns"></div>
+                        <div class="swiper-button-prev slide-btns"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 <?php include ('include/footer.php'); ?>

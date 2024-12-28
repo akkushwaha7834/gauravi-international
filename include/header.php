@@ -94,11 +94,11 @@
         <div class="mobile-menu-wrap">
           <ul class="mobile-menu-list">
             <li><a href="./" class="menu-link">Home</a></li>
-            <li><a href="" class="menu-link">About Us</a></li>
-            <li><a href="" class="menu-link">Product</a></li>
-            <li><a href="" class="menu-link">Manufacturing</a></li>
-            <li><a href="" class="menu-link">Export</a></li>
-            <li><a href="" class="menu-link">Shipping</a></li>
+            <li><a href="about-us.php" class="menu-link">About Us</a></li>
+            <li><a href="product-catalog.php" class="menu-link">Product</a></li>
+            <li><a href="manufacturing-capabilities.php" class="menu-link">Manufacturing</a></li>
+            <li><a href="export-capabilities.php" class="menu-link">Export</a></li>
+            <li><a href="shipping.php" class="menu-link">Shipping</a></li>
             <li><a href="contact-us.php" class="menu-link">Contact Us</a></li>
           </ul>
 
