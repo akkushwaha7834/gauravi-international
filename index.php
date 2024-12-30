@@ -323,10 +323,9 @@
                             <div class="swiper-slide">
                                 <div class="swiper-slide--inner">
                                     <div class="slide-avatar">
-                                        <img src="https://imgpanda.com/upload/ib/EG2hj3Ch4z.png" alt="">
+                                        <img src="assets/images/test-2.png" alt="">
                                     </div>
                                     <div class="testimonial-detail">
-                                        <img src="https://imgpanda.com/upload/ib/VUrKtb4s8h.png" alt="Company Logo">
                                         <p>The team at Gauravi understands the nuances of different markets. Their expertise in international trade has made expanding our textile offerings seamless and profitable.</p>
                                         <span>Carlos Rodriguez, CEO, Global Comfort Solutions</span>
                                     </div>
