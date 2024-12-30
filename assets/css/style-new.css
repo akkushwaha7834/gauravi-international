@@ -580,3 +580,13 @@ ul.suport_sec{
     background: radial-gradient(#00000000, var(--theme-primary));
     padding: 30px ;
 }
+@media (max-width: 1199.98px) {
+    .textile-processing .nav-pills {
+        justify-content: start !important;
+        flex-wrap: nowrap;
+        overflow-x: scroll;
+    }
+    .textile-processing .nav-pills img{
+        display: none;
+    }
+}

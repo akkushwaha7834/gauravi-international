@@ -67,7 +67,7 @@
                 </ul>
                 <div class="tab-content" id="pills-tabContent">
                   <div class="tab-pane fade show active" id="pills-spin" role="tabpanel" aria-labelledby="pills-spin-tab">
-                      <div class="row align-items-center mt-4">
+                      <div class="row align-items-center g-4 mt-4">
                           <div class="col-lg-6">
                               <ul class="text-process">
                                 <li>
@@ -87,7 +87,7 @@
                       </div>
                   </div>
                   <div class="tab-pane fade" id="pills-weav" role="tabpanel" aria-labelledby="pills-weav-tab">
-                      <div class="row align-items-center mt-4">
+                      <div class="row align-items-center g-4 mt-4">
                           <div class="col-lg-6">
                               <ul class="text-process">
                                   <li>
@@ -107,7 +107,7 @@
                       </div>
                   </div>
                   <div class="tab-pane fade" id="pills-knit" role="tabpanel" aria-labelledby="pills-knit-tab">
-                      <div class="row align-items-center mt-4">
+                      <div class="row align-items-center g-4 mt-4">
                           <div class="col-lg-6">
                               <ul class="text-process">
                                   <li>
