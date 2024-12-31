@@ -622,6 +622,8 @@ ul.suport_sec{
 .blog-item:hover .blog-inner {
     bottom: 0;
     opacity: 1;
+    overflow: scroll;
+    height: 90%;
 }
 .blog-item img {
     width: 100%;

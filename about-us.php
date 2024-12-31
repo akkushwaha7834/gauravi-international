@@ -101,7 +101,7 @@
         <div class="mission_image_box">
           <div class="row align-items-center">
             <div class="col-md-5 first_col_img">
-              <img src="https://www.yaprime.com/public/web/images/our-unique-approach.png" class="img-fluid">
+              <img src="assets/images/global-reach-local-touch.png" class="img-fluid">
             </div>
             <div class="col-md-7">
               <div class="mission_content_col">
@@ -117,9 +117,9 @@
     <div class="row justify-content-end mt-5">
       <div class="col-lg-7 col-md-12 col_first_half">
         <div class="mission_image_box">
-          <div class="row">
+          <div class="row align-items-centerce">
             <div class="col-md-5 first_col_img">
-              <img src="https://www.yaprime.com/public/web/images/our-mission.png" class="img-fluid">
+              <img src="assets/images/vision-for-future.png" class="img-fluid">
             </div>
             <div class="col-md-7">
               <div class="mission_content_col">

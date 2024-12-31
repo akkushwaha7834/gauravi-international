@@ -161,14 +161,14 @@
          </div>
          <div class="col-md-5 align-items-center justify-content-center d-flex">
             <figure class="mt-s-image text-center">
-               <img src="https://www.yaprime.com/public/web/images/security-enhancements.png" alt="" width="70%" class="img-fluid aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
+               <img src="assets/images/customs-expertise.png" alt="" width="70%" class="img-fluid aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
             </figure>
          </div>
       </div>
       <div class="row mt-4 broker-setup-row align-items-center justify-content-center">
          <div class="col-md-5 align-items-center justify-content-center d-flex">
             <figure class="mt-s-image text-center">
-               <img src="https://www.yaprime.com/public/web/images/server-maintenance-and-monitoring.png" alt="" width="70%" class="img-fluid aos-init" data-aos="fade-right" data-aos-duration="1000">
+               <img src="assets/images/packaging-handling.png" alt="" width="70%" class="img-fluid aos-init" data-aos="fade-right" data-aos-duration="1000">
             </figure>
          </div>
          <div class="col-md-7">
@@ -187,14 +187,14 @@
          </div>
          <div class="col-md-5 align-items-center justify-content-center d-flex">
             <figure class="mt-s-image text-center">
-               <img src="https://www.yaprime.com/public/web/images/security-enhancements.png" alt="" width="70%" class="img-fluid aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
+               <img src="assets/images/quality-assurance-img.png" alt="" width="70%" class="img-fluid aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
             </figure>
          </div>
       </div>
       <div class="row mt-4 broker-setup-row align-items-center justify-content-center">
          <div class="col-md-5 align-items-center justify-content-center d-flex">
             <figure class="mt-s-image text-center">
-               <img src="https://www.yaprime.com/public/web/images/server-maintenance-and-monitoring.png" alt="" width="70%" class="img-fluid aos-init" data-aos="fade-right" data-aos-duration="1000">
+               <img src="assets/images/global-logistics-network.png" alt="" width="70%" class="img-fluid aos-init" data-aos="fade-right" data-aos-duration="1000">
             </figure>
          </div>
          <div class="col-md-7">
@@ -213,14 +213,14 @@
          </div>
          <div class="col-md-5 align-items-center justify-content-center d-flex">
             <figure class="mt-s-image text-center">
-               <img src="https://www.yaprime.com/public/web/images/security-enhancements.png" alt="" width="70%" class="img-fluid aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
+               <img src="assets/images/technology-driven-logistics.png" alt="" width="70%" class="img-fluid aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
             </figure>
          </div>
       </div>
       <div class="row mt-4 broker-setup-row align-items-center justify-content-center">
          <div class="col-md-5 align-items-center justify-content-center d-flex">
             <figure class="mt-s-image text-center">
-               <img src="https://www.yaprime.com/public/web/images/server-maintenance-and-monitoring.png" alt="" width="70%" class="img-fluid aos-init" data-aos="fade-right" data-aos-duration="1000">
+               <img src="assets/images/sustainability-in-shipping.png" alt="" width="70%" class="img-fluid aos-init" data-aos="fade-right" data-aos-duration="1000">
             </figure>
          </div>
          <div class="col-md-7">
@@ -239,14 +239,14 @@
          </div>
          <div class="col-md-5 align-items-center justify-content-center d-flex">
             <figure class="mt-s-image text-center">
-               <img src="https://www.yaprime.com/public/web/images/security-enhancements.png" alt="" width="70%" class="img-fluid aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
+               <img src="assets/images/value-added-services.png" alt="" width="70%" class="img-fluid aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
             </figure>
          </div>
       </div>
       <div class="row mt-4 broker-setup-row align-items-center justify-content-center">
          <div class="col-md-5 align-items-center justify-content-center d-flex">
             <figure class="mt-s-image text-center">
-               <img src="https://www.yaprime.com/public/web/images/server-maintenance-and-monitoring.png" alt="" width="70%" class="img-fluid aos-init" data-aos="fade-right" data-aos-duration="1000">
+               <img src="assets/images/compliance-risk-management.png" alt="" width="70%" class="img-fluid aos-init" data-aos="fade-right" data-aos-duration="1000">
             </figure>
          </div>
          <div class="col-md-7">
