@@ -9,9 +9,9 @@
                 <div class="banner-caption text-center">
                     <h1 id="banner-head" class=""></h1>
                     <p class="wow fadeInUp mb-5" data-wow-delay="0.4s">Welcome to Gauravi International, where Indian
-                        textile excellence meets global B2B demands. As a leading exporter of premium bedsheets and
+                        textile excellence meets global demands. As a leading exporter of premium bedsheets and
                         handloom products, we offer unparalleled value to wholesale partners worldwide.</p>
-                    <a href="" class="default-btn wow fadeInUp" data-wow-delay="0.5s">Read More <i
+                    <a href="about-us.php" class="default-btn wow fadeInUp" data-wow-delay="0.5s">Read More <i
                             class="ri-arrow-right-line"></i></a>
                 </div>
             </div>
@@ -22,9 +22,11 @@
 
 <!-- Maruqee -->
 <section class="">
-    <div class="bg-gradient pt-3 pb-2">
-        <marquee behavior="" direction="" onmouseover="stop()" onmouseout="start()">
-            <div class="d-flex gap-3 align-items-center">
+    <div class="bg-gradient pt-3 pb-3">
+        <!-- <marquee behavior="" direction="" onmouseover="stop()" onmouseout="start()">
+            
+        </marquee> -->
+        <div class="d-flex gap-3 align-items-center justify-content-center">
                 <div>
                     <p class="mb-0 fw-semibold">Featured Product Categories – </p>
                 </div>
@@ -32,9 +34,8 @@
                 <div class="">•</div>
                 <div class="marquee-box">Handloom Treasures</div>
                 <div class="">•</div>
-                <div class="marquee-box">Specialized B2B Offerings</div>
+                <div class="marquee-box">Specialized Offerings</div>
             </div>
-        </marquee>
     </div>
 </section>
 <!-- Maruqee -->
@@ -45,18 +46,21 @@
         <div class="row g-4 section-space pt-0 align-items-center">
             <div class="col-lg-6 text-center">
                 <img src="assets/images/aboutus.jpg" alt="" class="w-75">
-                <div class="experience-box">
+                <div class="experience-box text-capitalize">
                     <span class="years">10+</span>
-                    <span class="text">Year experience</span>
+                    <span class="text">Year's of experience</span>
                   </div>
             </div>
             <div class="col-lg-6">
-                <h3>Gauravi International: Your Global B2B Textile Partner</h3>
-                <h2 class="mb-4 h1">Elevating Global Trade in Premium Bedsheets and Handloom Exports</h2>
-                <p>Welcome to Gauravi International, where Indian textile excellence meets global B2B demands. As a
+                <h3></h3>
+                <h2 class="mb-4 h1">Gauravi International: Your Global Textile Partner, Elevating Global Trade in Premium Bedsheets and Handloom Exports</h2>
+                <p>Welcome to Gauravi International, where Indian textile excellence meets global demands. As a
                     leading exporter of premium bedsheets and handloom products, we offer unparalleled value to
                     wholesale partners worldwide.</p>
-                <a href="about.php" class="default-btn mt-4">More About Us <i class="ri-arrow-right-line"></i></a>
+                    <p>
+                        Gauravi International stands as a beacon of excellence in the global textile industry, specializing in the export of premium bedsheets and handloom products. Our journey, rooted in India's rich textile heritage, has evolved into a story of international trade mastery and innovation.
+                    </p>
+                <a href="about-us.php" class="default-btn mt-4">More About Us <i class="ri-arrow-right-line"></i></a>
             </div>
         </div>
     </div>
@@ -68,7 +72,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h2 class="text-center">Our B2B Value Proposition</h2>
+                <h2 class="text-center">Our Value Proposition</h2>
             </div>
         </div>
         <div class="row mt-4 text-center clearfix">
@@ -150,8 +154,8 @@
                 <h2 class="text-white">
                     Our Global Footprint
                 </h2>
-                <p class="text-white">
-                    Gauravi International proudly serves B2B clients in over 50 countries, including:
+                <p class="text-white text-capitalize">
+                    Gauravi International proudly serves clients in over 6+ countries, including:
                 </p>
             </div>
         </div>
@@ -213,8 +217,8 @@
                     These attributes make Gauravi International a leading choice for businesses seeking high-quality textile solutions globally.
                 </p>
             </div>
-            <div class="col-lg-6">
-                <img src="assets/images/why-us.jpg" class="img-fluid">
+            <div class="col-lg-6 text-center">
+                <img src="assets/images/why-us.jpg" class="img-fluid why-choose-us">
             </div>
         </div>
     </div>
@@ -279,7 +283,7 @@
             </div>
             <div class="col-lg-4">
                 <div class="pdt-info position-relative">
-                    <h4>Specialized B2B Offerings</h4>
+                    <h4>Specialized Offerings</h4>
                     <ul class="pdt-category">
                         <li>
                             <i class="ri-arrow-right-double-line"></i> Bulk Plain Fabrics
@@ -311,7 +315,7 @@
                             <div class="swiper-slide">
                                 <div class="swiper-slide--inner">
                                     <div class="slide-avatar">
-                                        <img src="assets/images/test-1.png" alt="">
+                                        <img src="assets/images/test-2.png" alt="">
                                     </div>
                                     <div class="testimonial-detail">
                                         <p>Partnering with Gauravi International has transformed our bedding line. Their commitment to quality and ability to meet our custom requirements has significantly boosted our market share.</p>
@@ -323,7 +327,7 @@
                             <div class="swiper-slide">
                                 <div class="swiper-slide--inner">
                                     <div class="slide-avatar">
-                                        <img src="assets/images/test-2.png" alt="">
+                                        <img src="assets/images/test-1.png" alt="">
                                     </div>
                                     <div class="testimonial-detail">
                                         <p>The team at Gauravi understands the nuances of different markets. Their expertise in international trade has made expanding our textile offerings seamless and profitable.</p>
@@ -353,8 +357,7 @@
             </div>
             <div class="col-12">
                 <div class="group-btn text-center">
-                    <a href="#" class="btn join-btn wow fadeInUp" data-wow-delay="100ms" style="visibility: visible; animation-delay: 100ms; animation-name: fadeInUp;">Request a Wholesale Quote</a>
-                    <a href="https://area.yamarkets.com/register" class="btn join-btn ms-md-2 wow fadeInUp" data-wow-delay="300ms" style="visibility: visible; animation-delay: 300ms; animation-name: fadeInUp;">Schedule a B2B Consultation</a>
+                    <a href="contact-us.php" class="btn join-btn wow fadeInUp" data-wow-delay="100ms" style="visibility: visible; animation-delay: 100ms; animation-name: fadeInUp;">Request a Wholesale Quote</a>
                 </div>
             </div>
         </div>

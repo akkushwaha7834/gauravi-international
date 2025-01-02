@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href="assets/images/favicon.png" rel="icon">
+  <link href="assets/images/favicon.jpg" rel="icon">
   <title>Gauravi International</title>
   <meta name="description" content="">
   <link rel="canonical" href="">
@@ -55,7 +55,7 @@
   <header class="header sticky-top">
     <nav class="navbar navbar-expand-lg p-0">
       <div class="container">
-        <a class="navbar-brand" href="index.php"><img src="assets/images/gauravi-logoo.jpg" alt="Logo" width="100%"></a>
+        <a class="navbar-brand" href="index.php"><img src="assets/images/gauravi-logo.jpg" alt="Logo" width="100%"></a>
         <button class="mobile-menu-toggle" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasRight" aria-controls="offcanvasRight">
           <span class="toggler-icon ri-menu-2-line"></span>
         </button>

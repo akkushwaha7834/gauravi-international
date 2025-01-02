@@ -1,5 +1,4 @@
 <footer class="bg-dark bg-footer  pt-5">
-  <a href="#" class="scrollToTop scroll-btn "><i class="ri-arrow-up-line"></i></a>
   <div class="container">
 
     <div class="row">
