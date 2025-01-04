@@ -73,16 +73,16 @@
                     </p>
                     <ul class="commitment">
                         <li>
-                           <strong>Advanced Manufacturing</strong> : State-of-the-art machinery for consistent quality
+                          <i class="ri-check-double-line"></i> <strong>Advanced Manufacturing</strong> : State-of-the-art machinery for consistent quality
                         </li>
                         <li>
-                            <strong>Digital Integration</strong> : E-commerce solutions for seamless B2B transactions
+                            <i class="ri-check-double-line"></i> <strong>Digital Integration</strong> : E-commerce solutions for seamless B2B transactions
                         </li>
                         <li>
-                            <strong>Sustainable Practices</strong> : Pioneering eco-friendly textile production methods
+                            <i class="ri-check-double-line"></i> <strong>Sustainable Practices</strong> : Pioneering eco-friendly textile production methods
                         </li>
                         <li>
-                            <strong>Product Innovation</strong> : Ongoing R&D in fabric technology and design
+                            <i class="ri-check-double-line"></i> <strong>Product Innovation</strong> : Ongoing R&D in fabric technology and design
                         </li>
                     </ul>
                 </div>
@@ -153,29 +153,13 @@
                         <img src="https://i.ibb.co/8x9xK4H/team.jpg">
                     </div>
                     <div class="team-content">
-                        <h3 class="title">Rajesh Gupta</h3>
+                        <h3 class="title">Tanvi Manchanda</h3>
                         <span class="post">CEO</span>
                         <p>
-                            30+ years in international textile trade
+                            5+ years in international textile trade
                         </p>
                     </div>
-                    <ul class="social">
-                        <li>
-                            <a href="#">
-                                <i class="ri-facebook-fill"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="ri-twitter-x-line"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="ri-linkedin-box-line"></i>
-                            </a>
-                        </li>
-                    </ul>
+                    
                 </div>
             </div>
 
@@ -191,23 +175,7 @@
                             Expert in supply chain optimization
                         </p>
                     </div>
-                    <ul class="social">
-                        <li>
-                            <a href="#">
-                                <i class="ri-facebook-fill"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="ri-twitter-x-line"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="ri-linkedin-box-line"></i>
-                            </a>
-                        </li>
-                    </ul>
+                    
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-6">
@@ -216,29 +184,13 @@
                         <img src="https://i.ibb.co/8x9xK4H/team.jpg">
                     </div>
                     <div class="team-content">
-                        <h3 class="title">David Chen</h3>
+                        <h3 class="title">Deepak Mehra</h3>
                         <span class="post">Chief Innovation Officer</span>
                         <p>
                             Pioneer in sustainable textile technologies
                         </p>
                     </div>
-                    <ul class="social">
-                        <li>
-                            <a href="#">
-                                <i class="ri-facebook-fill"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="ri-twitter-x-line"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="ri-linkedin-box-line"></i>
-                            </a>
-                        </li>
-                    </ul>
+                    
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 col-sm-6">
@@ -253,23 +205,7 @@
                             Specialist in emerging markets
                         </p>
                     </div>
-                    <ul class="social">
-                        <li>
-                            <a href="#">
-                                <i class="ri-facebook-fill"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="ri-twitter-x-line"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="ri-linkedin-box-line"></i>
-                            </a>
-                        </li>
-                    </ul>
+                    
                 </div>
             </div>
         </div>

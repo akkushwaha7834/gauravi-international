@@ -289,4 +289,153 @@
       </div>
     </div>
 </section>
+
+
+<section class="top-traded-markets why-trade-sec">
+   <div class="container">
+      <div class="row g-4 align-items-center justify-content-center">
+         <div class="col-lg-12">
+            <div class="tabs_with_accordion_wrapper  tabs-sec-two  tabs-box position-relative z-1">
+               <div class="row">
+                  <div class="col-lg-5">
+                     <div class="tab-btns  h-100">
+                        <!-- Nav Tabs List -->
+                        <ul class="nav nav-tabs d-none d-lg-block" id="myTab" role="tablist">
+                           <li class="nav-item" role="presentation">
+                              <button class="nav-link  active" id="#Forex-tab" data-bs-toggle="tab" data-bs-target="#Forex" type="button" role="tab" aria-controls="Forex" aria-selected="true">Luxury Bedding Collections <i class="ri-arrow-right-line"></i></button>
+                           </li>
+                           <li class="nav-item" role="presentation">
+                              <button class="nav-link " id="Commodities-tab" data-bs-toggle="tab" data-bs-target="#Commodities" type="button" role="tab" aria-controls="Commodities" aria-selected="false" tabindex="-1">Handloom Treasures<i class="ri-arrow-right-line"></i></button>
+                           </li>
+                           <li class="nav-item" role="presentation">
+                              <button class="nav-link " id="Indices-tab" data-bs-toggle="tab" data-bs-target="#Indices" type="button" role="tab" aria-controls="Indices" aria-selected="false" tabindex="-1">Specialized B2B Offerings<i class="ri-arrow-right-line"></i></button>
+                           </li>
+                        </ul>
+                     </div>
+                  </div>
+                  <div class="col-lg-7">
+                     <!-- Nav Tabs Content -->
+                     <div class="tab-content tabs-content-two position-relative h-100" id="myTabContent">
+                        <div class="tab-pane accordion-item fade show active" id="Forex" role="tabpanel" aria-labelledby="Forex-tab">
+                           <h2 class="accordion-header mobile-btn d-lg-none" id="headingForex">
+                              <button class="accordion-button gap-4" type="button" data-bs-toggle="collapse" data-bs-target="#collapseForex" aria-expanded="true" aria-controls="collapseForex">24/5 Trading </button>
+                           </h2>
+                           <div id="collapseForex" class="accordion-collapse collapse show" aria-labelledby="headingForex" data-bs-parent="#myTabContent">
+                              <div class="accordion-body">
+                                 <div class="container">
+                                   <div class="row">
+                                     <div class="col-md-6">
+                                       <div class="bedsheet-listing">
+                                          <img src="https://www.nxgmarkets.com/images/bgg.png" class="img-fluid">
+                                          <h4>
+                                            Egyptian Cotton Sheets
+                                          </h4>
+                                       </div>
+                                     </div>
+                                     <div class="col-md-6">
+                                       <div class="bedsheet-listing">
+                                          <img src="https://www.nxgmarkets.com/images/bgg.png" class="img-fluid">
+                                          <h4>
+                                            Organic Bamboo Linens
+                                          </h4>
+                                       </div>
+                                     </div>
+                                     <div class="col-md-6">
+                                       <div class="bedsheet-listing">
+                                          <img src="https://www.nxgmarkets.com/images/bgg.png" class="img-fluid">
+                                          <h4>
+                                            Hotel Collection Bedding
+                                          </h4>
+                                       </div>
+                                     </div>
+                                   </div>
+                                 </div>
+                              </div>
+                           </div>
+                           
+                        </div>
+                        <div class="tab-pane accordion-item fade" id="Commodities" role="tabpanel" aria-labelledby="Commodities-tab">
+                           <h2 class="accordion-header  mobile-btn d-lg-none" id="headingCommodities">
+                              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseCommodities" aria-expanded="false" aria-controls="collapseCommodities">Transparent Costs </button>
+                           </h2>
+                           <div id="collapseCommodities" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingCommodities" data-bs-parent="#myTabContent">
+                              <div class="accordion-body">
+                                 <div class="container">
+                                   <div class="row">
+                                     <div class="col-md-6">
+                                       <div class="bedsheet-listing">
+                                          <img src="https://www.nxgmarkets.com/images/bgg.png" class="img-fluid">
+                                          <h4>
+                                            Traditional Indian Textiles
+                                          </h4>
+                                       </div>
+                                     </div>
+                                     <div class="col-md-6">
+                                       <div class="bedsheet-listing">
+                                          <img src="https://www.nxgmarkets.com/images/bgg.png" class="img-fluid">
+                                          <h4>
+                                            Artisanal Weaves
+                                          </h4>
+                                       </div>
+                                     </div>
+                                     <div class="col-md-6">
+                                       <div class="bedsheet-listing">
+                                          <img src="https://www.nxgmarkets.com/images/bgg.png" class="img-fluid">
+                                          <h4>
+                                            Contemporary Handloom Designs
+                                          </h4>
+                                       </div>
+                                     </div>
+                                   </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="tab-pane accordion-item fade" id="Indices" role="tabpanel" aria-labelledby="Indices-tab">
+                           <h2 class="accordion-header  mobile-btn d-lg-none" id="headingIndices">
+                              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseIndices" aria-expanded="false" aria-controls="collapseIndices">Versatile Market Opportunities </button>
+                           </h2>
+                           <div id="collapseIndices" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingIndices" data-bs-parent="#myTabContent">
+                              <div class="accordion-body">
+                                 <div class="container">
+                                   <div class="row">
+                                     <div class="col-md-6">
+                                       <div class="bedsheet-listing">
+                                          <img src="https://www.nxgmarkets.com/images/bgg.png" class="img-fluid">
+                                          <h4>
+                                            Bulk Plain Fabrics
+                                          </h4>
+                                       </div>
+                                     </div>
+                                     <div class="col-md-6">
+                                       <div class="bedsheet-listing">
+                                          <img src="https://www.nxgmarkets.com/images/bgg.png" class="img-fluid">
+                                          <h4>
+                                            Customized Prints and Patterns
+                                          </h4>
+                                       </div>
+                                     </div>
+                                     <div class="col-md-6">
+                                       <div class="bedsheet-listing">
+                                          <img src="https://www.nxgmarkets.com/images/bgg.png" class="img-fluid">
+                                          <h4>
+                                            Eco-Friendly Textile Solutions
+                                          </h4>
+                                       </div>
+                                     </div>
+                                   </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+
+
 <?php include ('include/footer.php'); ?>

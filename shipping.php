@@ -92,7 +92,7 @@
                      </div>
                   </div>
                </div>
-               <div class="col-12">
+               <!-- <div class="col-12">
                   <div class="careers_image_box image-box">
                      <div class="card-body">
                         <div class="d-flex align-items-center gap-3 mb-3">
@@ -137,7 +137,7 @@
                         </ul>
                      </div>
                   </div>
-               </div>
+               </div> -->
             </div>
          </div>
          <div class="col-lg-6 ">
