@@ -52,7 +52,7 @@
                                         <i class="ri-map-2-line  flex-shrink-0 "></i>
                                         <div>
                                             <h3 class="mb-2">Office Address</h3>
-                                            <span class=" d-block contact-d"> 5/1167, UGF, Vasundhara, Gzb, UP-201012</span>
+                                            <span class=" d-block contact-d"> 5/1167, UGF, Vasundhara, Gzb, UP-201012, India</span>
                                         </div>
 
                                     </span>
@@ -74,10 +74,10 @@
                                 <input type="email" placeholder="Email" class="form-control">
                             </div>
                             <div class="col-md-12">
-                                <input type="text" placeholder="Subject" class="form-control">
+                                <input type="text" placeholder="Mobile Number" class="form-control">
                             </div>
                             <div class="col-md-12">
-                               <textarea name="" id="" row="3" placeholder="Message" class="h-auto form-control"></textarea>
+                               <textarea name="" row="30" placeholder="Message" class="form-control" style="height:100px"></textarea>
                             </div>
                            
                             <div class="col-md-12">
@@ -92,7 +92,7 @@
             </div>
         </div>
     </div>
-    <div class="position-absolute bottom-0 start-0 w-100 z-0 " style="height: 8rem;background:var(--theme-primary);"></div>
+    <!-- <div class="position-absolute bottom-0 start-0 w-100 z-0 " style="height: 8rem;background:var(--theme-primary);"></div> -->
 </section>
 <section class="">
     <div class="line-height-0"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28007.827403984676!2d77.35368330381347!3d28.660364649325466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cf16d8d27e847%3A0x3325fb11f3e7ca3b!2sGauravi%20International!5e0!3m2!1sen!2sin!4v1734272370944!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
