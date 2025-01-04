@@ -318,6 +318,7 @@ section.mission_visionn {
 .commitment li{
 /*    list-style: circle;*/
     margin-bottom: 10px;
+    display: flex;
 }
 .commitment {
 /*    padding-left: 2.5rem;*/

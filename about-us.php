@@ -21,8 +21,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h3>Gauravi International: Weaving Global Success</h3>
-                <h2 class="h1">Pioneers in B2B Textile Exports</h2>
+                <h2 class="h1">Gauravi International: Weaving Global Success, Pioneers in Textile Exports</h2>
                 <p>Gauravi International stands as a beacon of excellence in the global textile industry, specializing in the export of premium bedsheets and handloom products. Our journey, rooted in India's rich textile heritage, has evolved into a story of international trade mastery and innovation.</p>
             </div>
         </div>
@@ -30,13 +29,13 @@
           <div class="col-md-6">
              <h3 class="text-primary">Our Legacy of Global Trade</h3>
              <p class="">
-                Gauravi International is growing from a small family-owned business to a leading player in the international B2B textile market. Our growth is a testament to our deep understanding of global trade dynamics and our commitment to meeting the diverse needs of wholesale partners worldwide.
+                Gauravi International is growing from a small family-owned business to a leading player in the international textile market. Our growth is a testament to our deep understanding of global trade dynamics and our commitment to meeting the diverse needs of wholesale partners worldwide.
             </p>
             <h3 class="text-primary">
                 Our Global Trade Expertise
             </h3>
             <p>
-                At Gauravi International, our success in the B2B textile export market is anchored in several key pillars. First, we leverage international market intelligence through a dedicated research team that analyzes global textile trends and develops customized products to meet regional preferences. Our strategic partnerships with international trade associations further enhance our market insights.
+                At Gauravi International, our success in the textile export market is anchored in several key pillars. First, we leverage international market intelligence through a dedicated research team that analyzes global textile trends and develops customized products to meet regional preferences. Our strategic partnerships with international trade associations further enhance our market insights.
             </p>
             <p>
                 We pride ourselves on regulatory compliance excellence, with in-house experts who navigate international textile regulations and proactively adapt to changing global trade policies. We also assist clients with complex customs documentation and procedures to ensure smooth transactions.
@@ -45,7 +44,7 @@
                 Our logistics and supply chain mastery is evident in our optimized global shipping routes, which facilitate cost-effective delivery. We offer real-time tracking systems for shipment transparency and strategic warehousing solutions in key global markets.
             </p>
             <p>
-                Additionally, we provide financial trade solutions with flexible payment terms that cater to international B2B norms, multi-currency transaction capabilities, and partnerships with global trade finance institutions.
+                Additionally, we provide financial trade solutions with flexible payment terms that cater to international norms, multi-currency transaction capabilities, and partnerships with global trade finance institutions.
             </p>
             <p>
                 Finally, our cultural intelligence is reflected in our multilingual sales and support teams, who understand diverse business etiquettes and practices, allowing us to tailor communication strategies for different global regions.
@@ -73,16 +72,36 @@
                     </p>
                     <ul class="commitment">
                         <li>
-                          <i class="ri-check-double-line"></i> <strong>Advanced Manufacturing</strong> : State-of-the-art machinery for consistent quality
+                            <span>
+                                <i class="ri-check-double-line"></i>      
+                            </span>
+                           <span>
+                               <strong> Advanced Manufacturing</strong> : State-of-the-art machinery for consistent quality
+                           </span>
                         </li>
                         <li>
-                            <i class="ri-check-double-line"></i> <strong>Digital Integration</strong> : E-commerce solutions for seamless B2B transactions
+                            <span>
+                                <i class="ri-check-double-line"></i>      
+                            </span>
+                             <span>
+                                <strong> Digital Integration</strong> : E-commerce solutions for seamless B2B transactions
+                            </span>
                         </li>
                         <li>
-                            <i class="ri-check-double-line"></i> <strong>Sustainable Practices</strong> : Pioneering eco-friendly textile production methods
+                            <span>
+                                <i class="ri-check-double-line"></i>      
+                            </span>
+                            <span>
+                                <strong> Sustainable Practices</strong> : Pioneering eco-friendly textile production methods
+                            </span>
                         </li>
                         <li>
-                            <i class="ri-check-double-line"></i> <strong>Product Innovation</strong> : Ongoing R&D in fabric technology and design
+                            <span>
+                                <i class="ri-check-double-line"></i>      
+                            </span>
+                            <span>
+                                <strong> Product Innovation</strong> : Ongoing R&D in fabric technology and design
+                            </span>
                         </li>
                     </ul>
                 </div>
