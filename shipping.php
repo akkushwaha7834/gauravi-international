@@ -152,7 +152,7 @@
 
 <section class="meta_intro">
    <div class="container">
-      <div class="row mt-4 broker-setup-row align-items-center justify-content-center">
+      <div class="row mt-4 tabs-setup-row align-items-center justify-content-center">
          <div class="col-md-7">
             <h4 class="text-primary">Customs Expertise</h4>
             <p class="">
@@ -165,7 +165,7 @@
             </figure>
          </div>
       </div>
-      <div class="row mt-4 broker-setup-row align-items-center justify-content-center">
+      <div class="row mt-4 tabs-setup-row align-items-center justify-content-center">
          <div class="col-md-5 align-items-center justify-content-center d-flex">
             <figure class="mt-s-image text-center">
                <img src="assets/images/packaging-handling.png" alt="" width="70%" class="img-fluid aos-init" data-aos="fade-right" data-aos-duration="1000">
@@ -178,7 +178,7 @@
             </p>
          </div>
       </div>
-      <div class="row mt-4 broker-setup-row align-items-center justify-content-center">
+      <div class="row mt-4 tabs-setup-row align-items-center justify-content-center">
          <div class="col-md-7">
             <h4 class="text-primary">Quality Assurance in Transit</h4>
             <p class="">
@@ -191,7 +191,7 @@
             </figure>
          </div>
       </div>
-      <div class="row mt-4 broker-setup-row align-items-center justify-content-center">
+      <div class="row mt-4 tabs-setup-row align-items-center justify-content-center">
          <div class="col-md-5 align-items-center justify-content-center d-flex">
             <figure class="mt-s-image text-center">
                <img src="assets/images/global-logistics-network.png" alt="" width="70%" class="img-fluid aos-init" data-aos="fade-right" data-aos-duration="1000">
@@ -204,7 +204,7 @@
             </p>
          </div>
       </div>
-      <div class="row mt-4 broker-setup-row align-items-center justify-content-center">
+      <div class="row mt-4 tabs-setup-row align-items-center justify-content-center">
          <div class="col-md-7">
             <h4 class="text-primary">Technology-Driven Logistics</h4>
             <p class="">
@@ -217,7 +217,7 @@
             </figure>
          </div>
       </div>
-      <div class="row mt-4 broker-setup-row align-items-center justify-content-center">
+      <div class="row mt-4 tabs-setup-row align-items-center justify-content-center">
          <div class="col-md-5 align-items-center justify-content-center d-flex">
             <figure class="mt-s-image text-center">
                <img src="assets/images/sustainability-in-shipping.png" alt="" width="70%" class="img-fluid aos-init" data-aos="fade-right" data-aos-duration="1000">
@@ -230,7 +230,7 @@
             </p>
          </div>
       </div>
-      <div class="row mt-4 broker-setup-row align-items-center justify-content-center">
+      <div class="row mt-4 tabs-setup-row align-items-center justify-content-center">
          <div class="col-md-7">
             <h4 class="text-primary">Value-Added Services</h4>
             <p class="">
@@ -243,7 +243,7 @@
             </figure>
          </div>
       </div>
-      <div class="row mt-4 broker-setup-row align-items-center justify-content-center">
+      <div class="row mt-4 tabs-setup-row align-items-center justify-content-center">
          <div class="col-md-5 align-items-center justify-content-center d-flex">
             <figure class="mt-s-image text-center">
                <img src="assets/images/compliance-risk-management.png" alt="" width="70%" class="img-fluid aos-init" data-aos="fade-right" data-aos-duration="1000">

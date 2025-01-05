@@ -347,11 +347,10 @@ section.mission_visionn {
     background: #fff;
     color: var(--theme-primary);
 }
-.broker-setup-row {
+.tabs-setup-row {
     background: radial-gradient(#00000000, var(--theme-primary));
     padding: 30px;
     border-radius: 20px;
-/*    margin: 0 15px;*/
 }
 .meta_intro{
     padding: 80px 0;
@@ -717,4 +716,7 @@ ul.suport_sec{
     top: 0px;
     right: 0px;
     z-index: -1;
+}
+.manu-images{
+    border-radius: 20px;
 }

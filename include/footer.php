@@ -9,14 +9,10 @@
           <div class="social-links mt-3">
             <h4 class="text-white mb-3">Follow Us:</h4>
             <ul class="social-icon ps-0 ">
-              <li><a href="#" target="_blank"><i
-                    class="ri-facebook-fill"></i></a></li>
-              <li><a href="#" target="_blank"><i
-                    class="ri-instagram-line"></i></a></li>
-              <li><a href="#" target="_blank"><i
-                    class="ri-linkedin-fill"></i></a></li>
-              <li><a href="#" target="_blank"><i
-                    class="ri-twitter-x-fill"></i></a></li>
+              <li><a href="https://www.facebook.com/gauraviinternational" target="_blank"><i class="ri-facebook-fill"></i></a></li>
+              <li><a href="https://www.instagram.com/gauraviinternational" target="_blank"><i class="ri-instagram-line"></i></a></li>
+              <li><a href="https://www.linkedin.com/company/gauraviinternational/" target="_blank"><i class="ri-linkedin-fill"></i></a></li>
+              <li><a href="https://x.com/GauraviIntl" target="_blank"><i class="ri-twitter-x-fill"></i></a></li>
 
               </li>
             </ul>

@@ -45,7 +45,7 @@
                 </p>
             </div>
         </div>
-        <div class="row mt-4 broker-setup-row align-items-center justify-content-center">
+        <div class="row mt-4 tabs-setup-row align-items-center justify-content-center">
             <div class="col-md-12">
                 <div class="texttile-tabs">
                     <ul class="nav nav-pills justify-content-center mb-3" id="pills-tab" role="tablist">
@@ -87,7 +87,7 @@
                               </ul>
                           </div>
                           <div class="col-lg-6">
-                              <img src="assets/images/spinning.jpg" class="img-fluid">
+                              <img src="assets/images/spinning.jpg" class="img-fluid manu-images">
                           </div>
                       </div>
                   </div>
@@ -107,7 +107,7 @@
                               </ul>
                           </div>
                           <div class="col-lg-6">
-                              <img src="assets/images/weaving.jpg" class="img-fluid">
+                              <img src="assets/images/weaving.jpg" class="img-fluid manu-images">
                           </div>
                       </div>
                   </div>
@@ -127,7 +127,7 @@
                               </ul>
                           </div>
                           <div class="col-lg-6">
-                              <img src="assets/images/knitting.jpg" class="img-fluid">
+                              <img src="assets/images/knitting.jpg" class="img-fluid manu-images">
                           </div>
                       </div>
                   </div>
@@ -156,7 +156,7 @@
                               </ul>
                           </div>
                           <div class="col-lg-6">
-                              <img src="assets/images/dying.jpg" class="img-fluid">
+                              <img src="assets/images/dying.jpg" class="img-fluid manu-images">
                           </div>
                       </div>
                   </div>
@@ -164,7 +164,7 @@
                 </div>
             </div>
         </div>
-        <div class="row mt-4 broker-setup-row align-items-center justify-content-center">
+        <div class="row mt-4 tabs-setup-row align-items-center justify-content-center">
          <div class="col-md-7">
             <h4 class="text-primary">Cutting and Sewing</h4>
             <p class="">
@@ -191,7 +191,7 @@
             </figure>
          </div>
       </div>
-      <div class="row mt-4 broker-setup-row align-items-center justify-content-center">
+      <div class="row mt-4 tabs-setup-row align-items-center justify-content-center">
          <div class="col-md-5 align-items-center justify-content-center d-flex">
             <figure class="mt-s-image text-center">
                <img src="assets/images/quality-control.png" alt="" width="70%" class="img-fluid aos-init" data-aos="fade-right" data-aos-duration="1000">
@@ -212,7 +212,7 @@
             </ul>
          </div>
       </div>
-      <div class="row mt-4 broker-setup-row align-items-center justify-content-center">
+      <div class="row mt-4 tabs-setup-row align-items-center justify-content-center">
          <div class="col-md-7">
             <h4 class="text-primary">Customization Capabilities</h4>
             <p class="">
@@ -239,7 +239,7 @@
             </figure>
          </div>
       </div>
-      <div class="row mt-4 broker-setup-row align-items-center justify-content-center">
+      <div class="row mt-4 tabs-setup-row align-items-center justify-content-center">
          <div class="col-md-5 align-items-center justify-content-center d-flex">
             <figure class="mt-s-image text-center">
                <img src="assets/images/production-capacity.png" alt="" width="70%" class="img-fluid aos-init" data-aos="fade-right" data-aos-duration="1000">
@@ -263,7 +263,7 @@
             </ul>
          </div>
       </div>
-      <div class="row mt-4 broker-setup-row align-items-center justify-content-center">
+      <div class="row mt-4 tabs-setup-row align-items-center justify-content-center">
          <div class="col-md-7">
             <h4 class="text-primary">Technology Integration</h4>
             <p class="">

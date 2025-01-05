@@ -41,10 +41,10 @@
         <div class=" d-flex align-items-center justify-content-end flex-wrap">
           <h5 class="text-white mb-0 ">Follow us:</h5>
         <ul class="ps-3">
-            <li><a href="#" target="_blank"><i class="ri-facebook-fill"></i></a></li>
-            <li><a href="#" target="_blank"><i class="ri-instagram-line"></i></a></li>
-            <li><a href="#" target="_blank"><i class="ri-linkedin-fill"></i></a></li>
-            <li><a href="#" target="_blank" class="pe-0"><i class="ri-twitter-x-fill"></i></a></li>
+            <li><a href="https://www.facebook.com/gauraviinternational" target="_blank"><i class="ri-facebook-fill"></i></a></li>
+            <li><a href="https://www.instagram.com/gauraviinternational" target="_blank"><i class="ri-instagram-line"></i></a></li>
+            <li><a href="https://www.linkedin.com/company/gauraviinternational/" target="_blank"><i class="ri-linkedin-fill"></i></a></li>
+            <li><a href="https://x.com/GauraviIntl" target="_blank" class="pe-0"><i class="ri-twitter-x-fill"></i></a></li>
           
             </li>
           </ul>
