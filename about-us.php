@@ -52,7 +52,7 @@
           </div>
           <div class="col-lg-6 ">
             <figure class="sidebar-stickyy">
-               <img src="assets/images/b2b.webp" class="img-fluid">
+               <img src="assets/images/global-trade-about-us.png" class="img-fluid">
             </figure>
          </div>
        </div>

@@ -142,7 +142,7 @@
          </div>
          <div class="col-lg-6 ">
             <figure class="sidebar-stickyy">
-               <img src="assets/images/cargo.png" class="img-fluid">
+               <img src="assets/images/global-trade.png" class="img-fluid">
             </figure>
          </div>
       </div>
@@ -287,8 +287,8 @@
                By choosing Gauravi International as your textile export partner, you gain access to a world-class logistics network designed to streamline your global supply chain. Our commitment to efficiency, reliability, and innovation in international shipping ensures that your premium bedsheets and handloom products reach your customers in perfect condition, on time, every time.
             </p>
          </div>
-         <div class="col-md-6">
-            <lottie-player src="assets/images/lottie-json/un.json" style="width: 100%; height: 100%" background="transparent" speed="1" direction="1" mode="normal" loop="" autoplay=""></lottie-player>
+         <div class="col-md-6 text-center">
+            <img src="assets/images/customer-support.png" class="img-fluid" width="70%">
          </div>
       </div>
    </div>
