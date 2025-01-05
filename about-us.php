@@ -169,7 +169,7 @@
             <div class="col-lg-3 col-md-6 col-sm-6">
                 <div class="our-team">
                     <div class="pic">
-                        <img src="https://i.ibb.co/8x9xK4H/team.jpg">
+                        <img src="assets/images/tanvi.png">
                     </div>
                     <div class="team-content">
                         <h3 class="title">Tanvi Manchanda</h3>
@@ -185,7 +185,7 @@
             <div class="col-lg-3 col-md-6 col-sm-6">
                 <div class="our-team">
                     <div class="pic">
-                        <img src="https://i.ibb.co/8x9xK4H/team.jpg">
+                        <img src="assets/images/priya.png">
                     </div>
                     <div class="team-content">
                         <h3 class="title">Priya Sharma</h3>
@@ -200,7 +200,7 @@
             <div class="col-lg-3 col-md-6 col-sm-6">
                 <div class="our-team">
                     <div class="pic">
-                        <img src="https://i.ibb.co/8x9xK4H/team.jpg">
+                        <img src="assets/images/deepak.jpg">
                     </div>
                     <div class="team-content">
                         <h3 class="title">Deepak Mehra</h3>
@@ -215,7 +215,7 @@
             <div class="col-lg-3 col-md-6 col-sm-6">
                 <div class="our-team">
                     <div class="pic">
-                        <img src="https://i.ibb.co/8x9xK4H/team.jpg">
+                        <img src="assets/images/amina.png">
                     </div>
                     <div class="team-content">
                         <h3 class="title">Amina Patel</h3>
