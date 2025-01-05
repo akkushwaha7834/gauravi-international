@@ -565,6 +565,7 @@ ul.suport_sec{
 }
 .text-process li{
     list-style: circle;
+    font-size: 1.1rem;
 }
 @media (max-width: 1199.98px) {
     .textile-processing .nav-pills {
@@ -720,4 +721,11 @@ ul.suport_sec{
 }
 .manu-images{
     border-radius: 20px;
+    width: 85%;
+}
+.pad-left{
+    padding-left: 110px;
+}
+.pad-left li{
+    font-size: 1.1rem;
 }

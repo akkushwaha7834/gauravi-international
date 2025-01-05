@@ -73,7 +73,7 @@
                 <div class="tab-content" id="pills-tabContent">
                   <div class="tab-pane fade show active" id="pills-spin" role="tabpanel" aria-labelledby="pills-spin-tab">
                       <div class="row align-items-center g-4 mt-4">
-                          <div class="col-lg-6">
+                          <div class="col-lg-6 pad-left">
                               <ul class="text-process">
                                 <li>
                                     Cutting-edge spinning technology for various yarn types
@@ -93,7 +93,7 @@
                   </div>
                   <div class="tab-pane fade" id="pills-weav" role="tabpanel" aria-labelledby="pills-weav-tab">
                       <div class="row align-items-center g-4 mt-4">
-                          <div class="col-lg-6">
+                          <div class="col-lg-6 pad-left">
                               <ul class="text-process">
                                   <li>
                                     High-speed air jet and rapier looms
@@ -113,7 +113,7 @@
                   </div>
                   <div class="tab-pane fade" id="pills-knit" role="tabpanel" aria-labelledby="pills-knit-tab">
                       <div class="row align-items-center g-4 mt-4">
-                          <div class="col-lg-6">
+                          <div class="col-lg-6 pad-left">
                               <ul class="text-process">
                                   <li>
                                       Circular and flat knitting machines
@@ -133,7 +133,7 @@
                   </div>
                   <div class="tab-pane fade" id="pills-dying" role="tabpanel" aria-labelledby="pills-dying-tab">
                       <div class="row align-items-center g-4 mt-4">
-                          <div class="col-lg-6">
+                          <div class="col-lg-6 pad-left">
                             <p>
                                 Our wet processing facilities are equipped with the latest technology to ensure consistent quality and eco-friendly operations:
                             </p>
@@ -164,129 +164,6 @@
                 </div>
             </div>
         </div>
-        <!-- <div class="row mt-4 tabs-setup-row align-items-center justify-content-center">
-         <div class="col-md-7">
-            <h4 class="text-primary">Cutting and Sewing</h4>
-            <p class="">
-               Our manufacturing units boast modern cutting and sewing capabilities:
-            </p>
-            <ul class="text-process">
-                <li>
-                    Automated cutting machines for precision and efficiency
-                </li>
-                <li>
-                    Computerized pattern making and grading systems
-                </li>
-                <li>
-                    Specialized sewing machines for various stitch types and materials
-                </li>
-                <li>
-                    Skilled workforce trained in handling delicate fabrics and intricate designs
-                </li>
-            </ul>
-         </div>
-         <div class="col-md-5 align-items-center justify-content-center d-flex">
-            <figure class="mt-s-image text-center">
-               <img src="assets/images/cutting-sewing.png" alt="" width="70%" class="img-fluid aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
-            </figure>
-         </div>
-      </div> -->
-      <!-- <div class="row mt-4 tabs-setup-row align-items-center justify-content-center">
-         <div class="col-md-5 align-items-center justify-content-center d-flex">
-            <figure class="mt-s-image text-center">
-               <img src="assets/images/quality-control.png" alt="" width="70%" class="img-fluid aos-init" data-aos="fade-right" data-aos-duration="1000">
-            </figure>
-         </div>
-         <div class="col-md-7">
-            <h4 class="text-primary">Quality Control</h4>
-            <p class="">
-               We maintain stringent quality control measures throughout the manufacturing process:
-            </p>
-            <ul class="text-process">
-                <li>
-                    In-line quality checks at each production stage
-                </li>
-                <li>
-                    Advanced testing laboratory for fabric and product testing
-                </li>
-            </ul>
-         </div>
-      </div>
-      <div class="row mt-4 tabs-setup-row align-items-center justify-content-center">
-         <div class="col-md-7">
-            <h4 class="text-primary">Customization Capabilities</h4>
-            <p class="">
-               Our flexible manufacturing setup allows for extensive customization:
-            </p>
-            <ul class="text-process">
-                <li>
-                    Ability to handle small to large order quantities
-                </li>
-                <li>
-                    Custom fabric development based on client specifications
-                </li>
-                <li>
-                    Specialized packaging and labeling services
-                </li>
-                <li>
-                    Collaborative design process with clients for unique products
-                </li>
-            </ul>
-         </div>
-         <div class="col-md-5 align-items-center justify-content-center d-flex">
-            <figure class="mt-s-image text-center">
-               <img src="assets/images/customization-capabilities-img.png" alt="" width="70%" class="img-fluid aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
-            </figure>
-         </div>
-      </div>
-      <div class="row mt-4 tabs-setup-row align-items-center justify-content-center">
-         <div class="col-md-5 align-items-center justify-content-center d-flex">
-            <figure class="mt-s-image text-center">
-               <img src="assets/images/production-capacity.png" alt="" width="70%" class="img-fluid aos-init" data-aos="fade-right" data-aos-duration="1000">
-            </figure>
-         </div>
-         <div class="col-md-7">
-            <h4 class="text-primary">Production Capacity</h4>
-            <p class="">
-               Our robust infrastructure enables us to meet large-scale demands:
-            </p>
-            <ul class="text-process">
-                <li>
-                    Annual production capacity of over 10 million sheet sets
-                </li>
-                <li>
-                    500,000 meters of handloom fabrics per month
-                </li>
-                <li>
-                    Quick turnaround times for bulk orders
-                </li>
-            </ul>
-         </div>
-      </div>
-      <div class="row mt-4 tabs-setup-row align-items-center justify-content-center">
-         <div class="col-md-7">
-            <h4 class="text-primary">Technology Integration</h4>
-            <p class="">
-               We leverage cutting-edge technology to enhance our manufacturing capabilities:
-            </p>
-            <ul class="text-process">
-                <li>
-                    Digital printing facilities for intricate designs and patterns
-                </li>
-                <li>
-                    RFID tracking for inventory management and quality control
-                </li>
-                <li>
-                    Automated material handling systems for improved efficiency
-                </li>
-            </ul>
-         </div>
-         <div class="col-md-5 align-items-center justify-content-center d-flex">
-            <figure class="mt-s-image text-center">
-               <img src="assets/images/technology-integration.png" alt="" width="70%" class="img-fluid aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
-            </figure>
-         </div>
-      </div> -->
     </div>
 </section>
 
