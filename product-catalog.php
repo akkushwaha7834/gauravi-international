@@ -165,6 +165,43 @@
                 <img src="assets/images/febric.jpg" class="img-fluid rounded">
             </div>
         </div>
+        <div class="row g-4 mt-5 align-items-center mt-4">
+            <div class="col-lg-8 wow fadeInLeft animated animated animated" data-wow-delay="00ms"
+                data-wow-duration="1500ms">
+                <img src="assets/images/solid-sripes.jpg" class="img-fluid rounded position-relative z-0">
+            </div>
+            <div class="col-lg-4">
+                <div class="pdt-info position-relative">
+                    <h4>Solid Stripes Bedsheets</h4>
+                    <p>
+                        White striped bedsheets specially designed for  both hospitals and hotels, combining functionality with an appealing aesthetic.
+                    </p>
+                    <h5>
+                        Subcategories:
+                    </h5>
+                    <ul class="pdt-category">
+                        <li>
+                            <i class="ri-arrow-right-double-line"></i> High Quality Non-Wooven Fabric Material
+                        </li>
+                        <li>
+                            <i class="ri-arrow-right-double-line"></i> Subtle Stripe Pattern
+                        </li>
+                        <li>
+                            <i class="ri-arrow-right-double-line"></i> Size Variability
+                        </li>
+                        <li>
+                            <i class="ri-arrow-right-double-line"></i> Luxury Feel
+                        </li>
+                        <li>
+                            <i class="ri-arrow-right-double-line"></i> Wide Availability
+                        </li>
+                        <li>
+                            <i class="ri-arrow-right-double-line"></i> Perception of Cleanliness
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
     </div>
 </section>
 <section class="section-space">
