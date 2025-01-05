@@ -729,3 +729,25 @@ ul.suport_sec{
 .pad-left li{
     font-size: 1.1rem;
 }
+.whatsapp-float {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 60px;
+    height: 60px;
+    background-color: #25D366;
+    border-radius: 50%;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+}
+.whatsapp-float img {
+    width: 35px;
+    height: 35px;
+}
+.whatsapp-float:hover {
+    background-color: #20b957;
+    cursor: pointer;
+}

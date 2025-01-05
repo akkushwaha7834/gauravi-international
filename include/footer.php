@@ -57,6 +57,9 @@
     </div>
   </div>
 </footer>
+<a href="https://wa.me/+919318477263?text=Hi,%20" class="whatsapp-float" target="_blank" aria-label="Chat on WhatsApp">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp Icon">
+    </a>
 
 
 <script src="assets/js/jquery.js"></script>
