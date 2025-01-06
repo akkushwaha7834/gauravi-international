@@ -638,7 +638,7 @@ ul.suport_sec{
 .tabs-box:before {
     position: absolute;
     content: '';
-    background: #000;
+    background: var(--theme-primary);
     width: 70%;
     height: 100%;
     left: 0px;
@@ -669,7 +669,7 @@ ul.suport_sec{
 .top-traded-markets button.active {
     font-size: 28px;
     border-radius: 50px !important;
-    background: var(--theme-primary) !important;
+    background: var(--theme-black) !important;
     color: #fff;
     border-right: 2px solid #808080 !important;
     border-width: 0px 2px 0px 0px !important;
