@@ -103,13 +103,13 @@
             </div>
             <div class="col-lg-8 order-lg-2 order-1 wow fadeInRight animated animated animated" data-wow-delay="00ms"
                 data-wow-duration="1500ms">
-                <img src="assets/images/handloom-treasures.jpg" class="img-fluid rounded">
+                <img src="assets/images/blended-fabric-bedsheets.jpg" class="img-fluid rounded">
             </div>
         </div>
         <div class="row g-4 mt-5 align-items-center mt-4">
             <div class="col-lg-8 wow fadeInLeft animated animated animated" data-wow-delay="00ms"
                 data-wow-duration="1500ms">
-                <img src="assets/images/specialized-b-b-offerings.jpg" class="img-fluid rounded position-relative z-0">
+                <img src="assets/images/specialty-bedding.jpg" class="img-fluid rounded position-relative z-0">
             </div>
             <div class="col-lg-4">
                 <div class="pdt-info position-relative">
@@ -162,7 +162,7 @@
                 </div>
             </div>
             <div class="col-lg-8 wow fadeInRight animated animated animated" data-wow-delay="00ms">
-                <img src="assets/images/febric.jpg" class="img-fluid rounded">
+                <img src="assets/images/bulk-fabric-options.jpg" class="img-fluid rounded">
             </div>
         </div>
         <div class="row g-4 mt-5 align-items-center mt-4">
