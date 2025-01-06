@@ -270,11 +270,11 @@
                 <h2 class="mb-4">Quality Assurance</h2>
                 <p> All products undergo rigorous quality checks</p>
                 <ul class="mt-4">
-                    <li class="d-inline-block mb-3 me-3 fs-5 fw-medium"><i class="ri-verified-badge-fill me-2"></i> Raw
+                    <li class="mb-3 me-3 fs-5 fw-medium"><i class="ri-verified-badge-fill me-2"></i> Raw
                         material testing</li>
-                    <li class="d-inline-block mb-3 fs-5 fw-medium"><i class="ri-verified-badge-fill me-2"></i>
+                    <li class="mb-3 fs-5 fw-medium"><i class="ri-verified-badge-fill me-2"></i>
                         In-process quality control</li>
-                    <li class="d-inline-block mb-3 fs-5 fw-medium "><i class="ri-verified-badge-fill me-2"></i> Finished
+                    <li class="mb-3 fs-5 fw-medium "><i class="ri-verified-badge-fill me-2"></i> Finished
                         product inspection</li>
                 </ul>
             </div>
