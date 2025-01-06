@@ -1,6 +1,6 @@
 <?php include ('include/header.php'); ?>
 <section class="section-space bg-image breadcrumb-overlay position-relative"
-    style="background-image: url('assets/images/manufacturing-capabilities.jpg')">
+    style="background-image: url('assets/images/banner.jpg')">
     <div class="container position-relative z-1 py-md-5 py-0">
         <div class="row">
             <div class="col-md-12">

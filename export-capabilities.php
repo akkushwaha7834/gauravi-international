@@ -52,6 +52,11 @@
       <div class="col-sm-12 col-lg-4">
         <div class="blog-item">
           <img src="assets/images/Diverse-Client-Base.jpg" alt="Blog" class="img-fluid">
+          <div class="content-display">
+            <h3>
+              Diverse Client Base
+            </h3>
+          </div>
           <div class="blog-inner">
             <h3>
               Diverse Client Base
@@ -82,6 +87,11 @@
       <div class="col-sm-12 col-lg-4">
         <div class="blog-item">
           <img src="assets/images/International-Trade-Expertise.jpg" alt="Blog" class="img-fluid">
+          <div class="content-display">
+            <h3>
+              International Trade Expertise
+            </h3>
+          </div>
           <div class="blog-inner">
             <h3>
               International Trade Expertise
@@ -109,6 +119,11 @@
       <div class="col-sm-12 col-lg-4">
         <div class="blog-item">
           <img src="assets/images/Customization-for-Global-Markets.jpg" alt="Blog" class="img-fluid">
+          <div class="content-display">
+            <h3>
+              Customization for Global Markets
+            </h3>
+          </div>
           <div class="blog-inner">
             <h3>
               Customization for Global Markets
@@ -136,6 +151,11 @@
       <div class="col-sm-12 col-lg-4">
         <div class="blog-item">
           <img src="assets/images/Efficient-Logistics-and-Supply-Chain.jpg" alt="Blog" class="img-fluid">
+          <div class="content-display">
+            <h3>
+              Efficient Logistics and Supply Chain
+            </h3>
+          </div>
           <div class="blog-inner">
             <h3>
               Efficient Logistics and Supply Chain
@@ -160,6 +180,11 @@
       <div class="col-sm-12 col-lg-4">
         <div class="blog-item">
           <img src="assets/images/Trend-Analysis.jpg" alt="Blog" class="img-fluid">
+          <div class="content-display">
+            <h3>
+              Market Intelligence and Trend Analysis
+            </h3>
+          </div>
           <div class="blog-inner">
             <h3>
               Market Intelligence and Trend Analysis
@@ -184,6 +209,11 @@
       <div class="col-sm-12 col-lg-4">
         <div class="blog-item">
           <img src="assets/images/sustainable-and-ethical-practices.jpg" alt="Blog" class="img-fluid">
+          <div class="content-display">
+            <h3>
+              Sustainable and Ethical Practices
+            </h3>
+          </div>
           <div class="blog-inner">
             <h3>
               Sustainable and Ethical Practices
@@ -205,6 +235,11 @@
       <div class="col-sm-12 col-lg-4">
         <div class="blog-item">
           <img src="assets/images/Financial-Trade-Solutions.jpg" alt="Blog" class="img-fluid">
+          <div class="content-display">
+            <h3>
+              Financial Trade Solutions
+            </h3>
+          </div>
           <div class="blog-inner">
             <h3>
               Financial Trade Solutions
@@ -229,6 +264,11 @@
       <div class="col-sm-12 col-lg-4">
         <div class="blog-item">
           <img src="assets/images/continuous-business-expansion.jpg" alt="Blog" class="img-fluid">
+          <div class="content-display">
+            <h3>
+              Continuous Expansion
+            </h3>
+          </div>
           <div class="blog-inner">
             <h3>
               Continuous Expansion
