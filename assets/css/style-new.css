@@ -561,10 +561,10 @@ ul.suport_sec{
     filter: invert(0%);
 }
 .text-process{
-    padding-left: 20px;
+/*    padding-left: 20px;*/
 }
 .text-process li{
-    list-style: circle;
+/*    list-style: circle;*/
     font-size: 1.1rem;
 }
 @media (max-width: 1199.98px) {
@@ -649,7 +649,7 @@ ul.suport_sec{
     padding: 80px 0;
 }
 .why-choose-us{
-    width: 92%;
+/*    width: 92%;*/
 }
 .why-trade-sec {
     padding: 80px 0px !important;
@@ -779,4 +779,25 @@ ul.suport_sec{
 }
 .shipping_tabs{
     padding: 80px 0;
+}
+.first_col_img img{
+    width: 60%;
+}
+.first_col_img{
+    text-align: center;
+}
+.which-trader-will .nav-tabs .nav-link.active {
+    background: var(--theme-black);
+    border: 1px solid var(--theme-black);
+    color: var(--theme-white);
+}
+.which-trader-will .nav-tabs .nav-link {
+    border: 1px solid var(--theme-primary);
+    color: var(--black);
+}
+.which-trader-will .nav-tabs {
+    border-bottom: 1px solid var(--theme-primary);
+}
+.nav-item:not(:last-child) {
+    margin-right: 15px;
 }

@@ -63,13 +63,13 @@
                     </h5>
                     <ul class="pdt-category">
                         <li>
-                            <i class="ri-arrow-right-double-line"></i> Egyptian Cotton Sheets (400-1000 Thread Count)
+                            <i class="ri-check-double-line"></i> Egyptian Cotton Sheets (400-1000 Thread Count)
                         </li>
                         <li>
-                            <i class="ri-arrow-right-double-line"></i> Supima Cotton Bedding
+                            <i class="ri-check-double-line"></i> Supima Cotton Bedding
                         </li>
                         <li>
-                            <i class="ri-arrow-right-double-line"></i> Organic Cotton Linens
+                            <i class="ri-check-double-line"></i> Organic Cotton Linens
                         </li>
                     </ul>
                     <h5 class="mt-3">Minimum Order Quantity (MOQ): 1,000 sets</h5>
@@ -89,13 +89,13 @@
                     </h5>
                     <ul class="pdt-category">
                         <li>
-                            <i class="ri-arrow-right-double-line"></i> Cotton-Polyester Blend (60/40, 80/20 ratios)
+                            <i class="ri-check-double-line"></i> Cotton-Polyester Blend (60/40, 80/20 ratios)
                         </li>
                         <li>
-                            <i class="ri-arrow-right-double-line"></i> Bamboo-Cotton Fusion
+                            <i class="ri-check-double-line"></i> Bamboo-Cotton Fusion
                         </li>
                         <li>
-                            <i class="ri-arrow-right-double-line"></i> Tencel Blend Sheets
+                            <i class="ri-check-double-line"></i> Tencel Blend Sheets
                         </li>
                     </ul>
                     <h5 class="mt-3">Minimum Order Quantity (MOQ): 2,000 sets</h5>
@@ -122,13 +122,13 @@
                     </h5>
                     <ul class="pdt-category">
                         <li>
-                            <i class="ri-arrow-right-double-line"></i> Hypoallergenic Microfiber Sheets
+                            <i class="ri-check-double-line"></i> Hypoallergenic Microfiber Sheets
                         </li>
                         <li>
-                            <i class="ri-arrow-right-double-line"></i> Temperature Regulating Bedding
+                            <i class="ri-check-double-line"></i> Temperature Regulating Bedding
                         </li>
                         <li>
-                            <i class="ri-arrow-right-double-line"></i> Water-Resistant Hotel Linens
+                            <i class="ri-check-double-line"></i> Water-Resistant Hotel Linens
                         </li>
                     </ul>
                     <h5 class="mt-3">
@@ -149,13 +149,13 @@
                     </h5>
                     <ul class="pdt-category">
                         <li>
-                            <i class="ri-arrow-right-double-line"></i> Plain Woven Fabrics
+                            <i class="ri-check-double-line"></i> Plain Woven Fabrics
                         </li>
                         <li>
-                            <i class="ri-arrow-right-double-line"></i> Printed Textiles
+                            <i class="ri-check-double-line"></i> Printed Textiles
                         </li>
                         <li>
-                            <i class="ri-arrow-right-double-line"></i> Dyed Fabrics
+                            <i class="ri-check-double-line"></i> Dyed Fabrics
                         </li>
                     </ul>
                     <h5 class="mt-3">Minimum Order Quantity (MOQ): 5,000 meters per type</h5>
@@ -181,22 +181,22 @@
                     </h5>
                     <ul class="pdt-category">
                         <li>
-                            <i class="ri-arrow-right-double-line"></i> High Quality Non-Wooven Fabric Material
+                            <i class="ri-check-double-line"></i> High Quality Non-Wooven Fabric Material
                         </li>
                         <li>
-                            <i class="ri-arrow-right-double-line"></i> Subtle Stripe Pattern
+                            <i class="ri-check-double-line"></i> Subtle Stripe Pattern
                         </li>
                         <li>
-                            <i class="ri-arrow-right-double-line"></i> Size Variability
+                            <i class="ri-check-double-line"></i> Size Variability
                         </li>
                         <li>
-                            <i class="ri-arrow-right-double-line"></i> Luxury Feel
+                            <i class="ri-check-double-line"></i> Luxury Feel
                         </li>
                         <li>
-                            <i class="ri-arrow-right-double-line"></i> Wide Availability
+                            <i class="ri-check-double-line"></i> Wide Availability
                         </li>
                         <li>
-                            <i class="ri-arrow-right-double-line"></i> Perception of Cleanliness
+                            <i class="ri-check-double-line"></i> Perception of Cleanliness
                         </li>
                     </ul>
                 </div>

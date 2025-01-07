@@ -37,6 +37,14 @@
             <p>
                 At Gauravi International, our success in the textile export market is anchored in several key pillars. First, we leverage international market intelligence through a dedicated research team that analyzes global textile trends and develops customized products to meet regional preferences. Our strategic partnerships with international trade associations further enhance our market insights.
             </p>
+            
+        </div>
+        <div class="col-lg-6 ">
+            <figure class="sidebar-sticky">
+               <img src="assets/images/global-trade-about.png" class="img-fluid" width="85%">
+            </figure>
+         </div>
+         <div class="col-md-12">
             <p>
                 We pride ourselves on regulatory compliance excellence, with in-house experts who navigate international textile regulations and proactively adapt to changing global trade policies. We also assist clients with complex customs documentation and procedures to ensure smooth transactions.
             </p>
@@ -50,11 +58,11 @@
                 Finally, our cultural intelligence is reflected in our multilingual sales and support teams, who understand diverse business etiquettes and practices, allowing us to tailor communication strategies for different global regions.
             </p>
           </div>
-          <div class="col-lg-6 ">
+          <!-- <div class="col-lg-6 ">
             <figure class="sidebar-stickyy">
                <img src="assets/images/global-trade-about-us.png" class="img-fluid">
             </figure>
-         </div>
+         </div> -->
        </div>
     </div>
 </section>
@@ -113,7 +121,7 @@
 </section>
 
 
-<section class="mission_visionn">
+<!-- <section class="mission_visionn">
   <div class="container mission_vision">
     <div class="row mt-5 justify-content-start">
       <div class="col-lg-7 col-md-12 col_first_half">
@@ -131,7 +139,6 @@
           </div>
         </div>
       </div>
-
     </div>
     <div class="row justify-content-end mt-5">
       <div class="col-lg-7 col-md-12 col_first_half">
@@ -151,7 +158,75 @@
       </div>
     </div>
   </div>
+</section> -->
+
+<section class="mission_visionn">
+   <div class="container mission_vision">
+      <div class="row">
+         <div class="col-md-12">
+            <div class="which-trader-will">
+               <ul class="nav nav-tabs justify-content-center tabs-scroll" id="myTab" role="tablist">
+                  <li class="nav-item" role="presentation">
+                     <button class="nav-link active" id="Forex-tab" data-bs-toggle="tab" data-bs-target="#Forex" type="button" role="tab" aria-controls="Forex" aria-selected="true">
+                        Forex Trading
+                     </button>
+                  </li>
+                  <li class="nav-item" role="presentation">
+                     <button class="nav-link" id="Stock-tab" data-bs-toggle="tab" data-bs-target="#Stock" type="button" role="tab" aria-controls="Stock" aria-selected="false" tabindex="-1">
+                        Stock CFDs
+                     </button>
+                  </li>
+               </ul>
+               <div class="tab-content" id="myTabContent">
+                  <div class="tab-pane fade active show" id="Forex" role="tabpanel" aria-labelledby="Forex-tab">
+                    <div class="container">
+                        <div class="row mt-4 justify-content-start">
+                          <div class="col-lg-12 col-md-12 col_first_half">
+                            <div class="mission_image_box">
+                              <div class="row align-items-center">
+                                <div class="col-md-6 first_col_img">
+                                  <img src="assets/images/global-reach-local-touch.png" class="img-fluid">
+                                </div>
+                                <div class="col-md-6">
+                                  <div class="mission_content_col">
+                                    <h4 class="text-primary">Global Reach, Local Touch</h4>
+                                    <p>At Gauravi International, we operate on a global scale while maintaining a personalized approach to each market. Our customized product lines are tailored to meet specific market demands, ensuring relevance and appeal. We have local market experts with on-ground teams in key regions, providing valuable insights and support. Additionally, our adaptive business models allow for flexible partnerships that suit diverse business cultures, fostering strong relationships with our clients. This combination of global reach and local touch enables us to effectively serve our partners worldwide.</p>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                    </div>
+                  </div>
+                  <div class="tab-pane fade" id="Stock" role="tabpanel" aria-labelledby="Stock-tab">
+                     <div class="container">
+                        <div class="row justify-content-end mt-4">
+                          <div class="col-lg-12 col-md-12 col_first_half">
+                            <div class="mission_image_box">
+                              <div class="row align-items-center">
+                                <div class="col-md-6 first_col_img">
+                                  <img src="assets/images/vision-for-future.png" class="img-fluid">
+                                </div>
+                                <div class="col-md-6">
+                                  <div class="mission_content_col">
+                                    <h4 class="text-primary">Our Vision for the Future</h4>
+                                    <p>As we look ahead, Gauravi International is dedicated to expanding our global footprint while upholding our commitment to quality. We aim to pioneer sustainable practices within the textile industry and leverage technology to enhance the B2B customer experience. Additionally, we are focused on fostering innovation in textile design and functionality, ensuring that we meet the evolving needs of our partners and contribute positively to the industry.</p>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
 </section>
+
 
 <section class="our-team-section">
     <div class="container">

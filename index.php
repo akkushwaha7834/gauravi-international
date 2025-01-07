@@ -205,7 +205,7 @@
                 </p>
             </div>
         </div>
-        <div class="row mt-4">
+        <div class="row mt-4 align-items-center">
             <div class="col-lg-6">
                 <p>
                     Quality is paramount at Gauravi International, with an ISO 9001:2015 certified quality management system and rigorous multi-point quality checks throughout production. This commitment ensures that every product exceeds expectations.
@@ -244,13 +244,13 @@
                     <h4>Luxury Bedding Collections</h4>
                     <ul class="pdt-category">
                         <li>
-                            <i class="ri-arrow-right-double-line"></i> Egyptian Cotton Sheets
+                            <i class="ri-check-double-line"></i> Egyptian Cotton Sheets
                         </li>
                         <li>
-                            <i class="ri-arrow-right-double-line"></i> Organic Bamboo Linens
+                            <i class="ri-check-double-line"></i> Organic Bamboo Linens
                         </li>
                         <li>
-                            <i class="ri-arrow-right-double-line"></i> Hotel Collection Bedding
+                            <i class="ri-check-double-line"></i> Hotel Collection Bedding
                         </li>
                     </ul>
                 </div>
@@ -262,13 +262,13 @@
                     <h4>Handloom Treasures</h4>
                     <ul class="pdt-category">
                         <li>
-                            <i class="ri-arrow-right-double-line"></i> Traditional Indian Textiles
+                            <i class="ri-check-double-line"></i> Traditional Indian Textiles
                         </li>
                         <li>
-                            <i class="ri-arrow-right-double-line"></i> Artisanal Weaves
+                            <i class="ri-check-double-line"></i> Artisanal Weaves
                         </li>
                         <li>
-                            <i class="ri-arrow-right-double-line"></i> Contemporary Handloom Designs
+                            <i class="ri-check-double-line"></i> Contemporary Handloom Designs
                         </li>
                     </ul>
                 </div>
@@ -286,13 +286,13 @@
                     <h4>Specialized Offerings</h4>
                     <ul class="pdt-category">
                         <li>
-                            <i class="ri-arrow-right-double-line"></i> Bulk Plain Fabrics
+                            <i class="ri-check-double-line"></i> Bulk Plain Fabrics
                         </li>
                         <li>
-                            <i class="ri-arrow-right-double-line"></i> Customized Prints and Patterns
+                            <i class="ri-check-double-line"></i> Customized Prints and Patterns
                         </li>
                         <li>
-                            <i class="ri-arrow-right-double-line"></i> Eco-Friendly Textile Solutions
+                            <i class="ri-check-double-line"></i> Eco-Friendly Textile Solutions
                         </li>
                     </ul>
                 </div>

@@ -76,13 +76,13 @@
                           <div class="col-lg-6 pad-left">
                               <ul class="text-process">
                                 <li>
-                                    Cutting-edge spinning technology for various yarn types
+                                    <i class="ri-check-double-line"></i> Cutting-edge spinning technology for various yarn types
                                 </li>
                                 <li>
-                                    Capacity to produce fine counts up to 120s
+                                   <i class="ri-check-double-line"></i> Capacity to produce fine counts up to 120s
                                 </li>
                                 <li>
-                                    Blending capabilities for cotton, polyester, and specialty fibers
+                                   <i class="ri-check-double-line"></i> Blending capabilities for cotton, polyester, and specialty fibers
                                 </li>
                               </ul>
                           </div>
@@ -96,13 +96,13 @@
                           <div class="col-lg-6 pad-left">
                               <ul class="text-process">
                                   <li>
-                                    High-speed air jet and rapier looms
+                                    <i class="ri-check-double-line"></i> High-speed air jet and rapier looms
                                   </li>
                                   <li>
-                                    Production of wide-width fabrics up to 120 inches
+                                    <i class="ri-check-double-line"></i> Production of wide-width fabrics up to 120 inches
                                   </li>
                                   <li>
-                                    Specialty weaves including jacquard and dobby
+                                    <i class="ri-check-double-line"></i> Specialty weaves including jacquard and dobby
                                   </li>
                               </ul>
                           </div>
@@ -116,13 +116,13 @@
                           <div class="col-lg-6 pad-left">
                               <ul class="text-process">
                                   <li>
-                                      Circular and flat knitting machines
+                                      <i class="ri-check-double-line"></i> Circular and flat knitting machines
                                   </li>
                                   <li>
-                                      Production of single jersey, rib, interlock, and pique fabrics
+                                      <i class="ri-check-double-line"></i> Production of single jersey, rib, interlock, and pique fabrics
                                   </li>
                                   <li>
-                                      Seamless technology for specialized products
+                                      <i class="ri-check-double-line"></i> Seamless technology for specialized products
                                   </li>
                               </ul>
                           </div>
@@ -139,19 +139,19 @@
                             </p>
                               <ul class="text-process">
                                   <li>
-                                      Soft-flow dyeing machines for gentle fabric treatment
+                                      <i class="ri-check-double-line"></i> Soft-flow dyeing machines for gentle fabric treatment
                                   </li>
                                   <li>
-                                      Continuous dyeing range for large-scale production
+                                      <i class="ri-check-double-line"></i> Continuous dyeing range for large-scale production
                                   </li>
                                   <li>
-                                      Advanced color matching systems for precise shade development
+                                      <i class="ri-check-double-line"></i> Advanced color matching systems for precise shade development
                                   </li>
                                   <li>
-                                      Eco-friendly dyeing processes using low-impact dyes
+                                      <i class="ri-check-double-line"></i> Eco-friendly dyeing processes using low-impact dyes
                                   </li>
                                   <li>
-                                      Specialized finishes including anti-microbial, water-repellent, and flame-retardant treatments
+                                      <i class="ri-check-double-line"></i> Specialized finishes including anti-microbial, water-repellent, and flame-retardant treatments
                                   </li>
                               </ul>
                           </div>
@@ -209,16 +209,16 @@
                                  <p>Our manufacturing units boast modern cutting and sewing capabilities:</p>
                                  <ul class="text-process">
                                     <li>
-                                        Automated cutting machines for precision and efficiency
+                                        <i class="ri-check-double-line"></i> Automated cutting machines for precision and efficiency
                                     </li>
                                     <li>
-                                        Computerized pattern making and grading systems
+                                        <i class="ri-check-double-line"></i> Computerized pattern making and grading systems
                                     </li>
                                     <li>
-                                        Specialized sewing machines for various stitch types and materials
+                                        <i class="ri-check-double-line"></i> Specialized sewing machines for various stitch types and materials
                                     </li>
                                     <li>
-                                        Skilled workforce trained in handling delicate fabrics and intricate designs
+                                        <i class="ri-check-double-line"></i> Skilled workforce trained in handling delicate fabrics and intricate designs
                                     </li>
                                 </ul>
                                  <figure class="mt-s-image text-center mt-4">
@@ -240,10 +240,10 @@
                                 </p>
                                 <ul class="text-process">
                                     <li>
-                                        In-line quality checks at each production stage
+                                        <i class="ri-check-double-line"></i> In-line quality checks at each production stage
                                     </li>
                                     <li>
-                                        Advanced testing laboratory for fabric and product testing
+                                        <i class="ri-check-double-line"></i> Advanced testing laboratory for fabric and product testing
                                     </li>
                                 </ul>
                                 <figure class="mt-s-image text-center mt-4">
@@ -264,16 +264,16 @@
                                 </p>
                                 <ul class="text-process">
                                     <li>
-                                        Ability to handle small to large order quantities
+                                        <i class="ri-check-double-line"></i> Ability to handle small to large order quantities
                                     </li>
                                     <li>
-                                        Custom fabric development based on client specifications
+                                        <i class="ri-check-double-line"></i> Custom fabric development based on client specifications
                                     </li>
                                     <li>
-                                        Specialized packaging and labeling services
+                                        <i class="ri-check-double-line"></i> Specialized packaging and labeling services
                                     </li>
                                     <li>
-                                        Collaborative design process with clients for unique products
+                                        <i class="ri-check-double-line"></i> Collaborative design process with clients for unique products
                                     </li>
                                 </ul>
                                 <figure class="mt-s-image text-center mt-4">
@@ -294,13 +294,13 @@
                                 </p>
                                 <ul class="text-process">
                                     <li>
-                                        Annual production capacity of over 10 million sheet sets
+                                        <i class="ri-check-double-line"></i> Annual production capacity of over 10 million sheet sets
                                     </li>
                                     <li>
-                                        500,000 meters of handloom fabrics per month
+                                        <i class="ri-check-double-line"></i> 500,000 meters of handloom fabrics per month
                                     </li>
                                     <li>
-                                        Quick turnaround times for bulk orders
+                                        <i class="ri-check-double-line"></i> Quick turnaround times for bulk orders
                                     </li>
                                 </ul>
                                  <figure class="mt-s-image text-center mt-4">
@@ -321,13 +321,13 @@
                                 </p>
                                 <ul class="text-process">
                                     <li>
-                                        Digital printing facilities for intricate designs and patterns
+                                        <i class="ri-check-double-line"></i> Digital printing facilities for intricate designs and patterns
                                     </li>
                                     <li>
-                                        RFID tracking for inventory management and quality control
+                                        <i class="ri-check-double-line"></i> RFID tracking for inventory management and quality control
                                     </li>
                                     <li>
-                                        Automated material handling systems for improved efficiency
+                                        <i class="ri-check-double-line"></i> Automated material handling systems for improved efficiency
                                     </li>
                                 </ul>
                                 <figure class="mt-s-image text-center mt-4">
