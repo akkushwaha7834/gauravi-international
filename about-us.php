@@ -136,7 +136,7 @@
     <div class="row justify-content-end mt-5">
       <div class="col-lg-7 col-md-12 col_first_half">
         <div class="mission_image_box">
-          <div class="row align-items-centerce">
+          <div class="row align-items-center">
             <div class="col-md-5 first_col_img">
               <img src="assets/images/vision-for-future.png" class="img-fluid">
             </div>
