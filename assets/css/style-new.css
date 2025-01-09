@@ -815,3 +815,6 @@ ul.suport_sec{
 .our-team .pic img{
     background: var(--theme-white);
 }
+.export-para{
+    margin-top: 10px;
+}

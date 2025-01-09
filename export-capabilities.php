@@ -66,19 +66,19 @@
             </p>
             <ul class="text-process">
               <li>
-                Major retail chains
+                <i class="ri-check-double-line"></i> Major retail chains
               </li>
               <li>
-                Luxury hospitality groups
+                <i class="ri-check-double-line"></i> Luxury hospitality groups
               </li>
               <li>
-                Online marketplaces and e-commerce platforms
+                <i class="ri-check-double-line"></i> Online marketplaces and e-commerce platforms
               </li>
               <li>
-                Wholesale distributors
+                <i class="ri-check-double-line"></i> Wholesale distributors
               </li>
             </ul>
-            <p>
+            <p class="export-para">
               Our versatility in serving different business models showcases our adaptability to various market needs.
             </p>
           </div>
@@ -101,16 +101,16 @@
             </p>
             <ul class="text-process">
               <li>
-                In-depth understanding of international textile regulations
+                <i class="ri-check-double-line"></i> In-depth understanding of international textile regulations
               </li>
               <li>
-                Expertise in import/export documentation
+                <i class="ri-check-double-line"></i> Expertise in import/export documentation
               </li>
               <li>
-                Strategic partnerships with global logistics providers
+                <i class="ri-check-double-line"></i> Strategic partnerships with global logistics providers
               </li>
             </ul>
-            <p>
+            <p class="export-para">
               This expertise ensures smooth transactions and timely deliveries across borders, minimizing complications for our B2B partners.
             </p>
           </div>
@@ -133,16 +133,16 @@
             </p>
             <ul class="text-process">
               <li>
-                Adaptable designs for regional tastes
+                <i class="ri-check-double-line"></i> Adaptable designs for regional tastes
               </li>
               <li>
-                Customizable packaging and labeling options
+                <i class="ri-check-double-line"></i> Customizable packaging and labeling options
               </li>
               <li>
-                Private labeling services for brand development
+                <i class="ri-check-double-line"></i> Private labeling services for brand development
               </li>
             </ul>
-            <p>
+            <p class="export-para">
               Our flexible approach allows us to meet the unique requirements of different global markets.
             </p>
           </div>
@@ -165,13 +165,13 @@
             </p>
             <ul class="text-process">
               <li>
-                Strategic warehousing solutions in key markets
+                <i class="ri-check-double-line"></i> Strategic warehousing solutions in key markets
               </li>
               <li>
-                Partnerships with international shipping companies
+                <i class="ri-check-double-line"></i> Partnerships with international shipping companies
               </li>
               <li>
-                Real-time tracking systems for shipment transparency
+                <i class="ri-check-double-line"></i> Real-time tracking systems for shipment transparency
               </li>
             </ul>
           </div>
@@ -194,13 +194,13 @@
             </p>
             <ul class="text-process">
               <li>
-                Anticipate market demands
+                <i class="ri-check-double-line"></i> Anticipate market demands
               </li>
               <li>
-                Develop products aligned with international preferences
+                <i class="ri-check-double-line"></i> Develop products aligned with international preferences
               </li>
               <li>
-                Provide valuable insights to our B2B partners
+                <i class="ri-check-double-line"></i> Provide valuable insights to our B2B partners
               </li>
             </ul>
           </div>
@@ -223,10 +223,10 @@
             </p>
             <ul class="text-process">
               <li>
-                Eco-friendly packaging options
+                <i class="ri-check-double-line"></i> Eco-friendly packaging options
               </li>
               <li>
-                Transparent supply chain practices
+                <i class="ri-check-double-line"></i> Transparent supply chain practices
               </li>
             </ul>
           </div>
@@ -249,13 +249,13 @@
             </p>
             <ul class="text-process">
               <li>
-                Flexible payment terms catering to international B2B norms
+                <i class="ri-check-double-line"></i> Flexible payment terms catering to international norms
               </li>
               <li>
-                Multi-currency transaction capabilities
+                <i class="ri-check-double-line"></i> Multi-currency transaction capabilities
               </li>
               <li>
-                Partnerships with global trade finance institutions
+                <i class="ri-check-double-line"></i> Partnerships with global trade finance institutions
               </li>
             </ul>
           </div>
@@ -278,13 +278,13 @@
             </p>
             <ul class="text-process">
               <li>
-                Ongoing exploration of new market opportunities
+                <i class="ri-check-double-line"></i>Ongoing exploration of new market opportunities
               </li>
               <li>
-                Regular participation in international trade shows and events
+                <i class="ri-check-double-line"></i>Regular participation in international trade shows
               </li>
               <li>
-                Continuous investment in export infrastructure and capabilities
+                <i class="ri-check-double-line"></i>Continuous investment in export infrastructure
               </li>
             </ul>
           </div>
@@ -296,14 +296,16 @@
 
 <section class="join-network">
     <div class="container">
-        <div class="row justify-content-center">
+        <div class="row g-4 justify-content-center">
             <div class="col-md-7 text-center">
                 <p class="text-white">
                     Our export capabilities and global reach make Gauravi International an ideal partner for businesses seeking high-quality Indian textiles on a global scale. We combine the rich heritage of Indian craftsmanship with modern international trade practices to deliver excellence to our worldwide B2B clientele.
                 </p>
-                <a href="#" class="join-btn">
-                    Contact Now
-                </a>
+            </div>
+            <div class="col-12">
+                <div class="group-btn text-center">
+                    <a href="contact-us.php" class="btn join-btn wow fadeInUp" data-wow-delay="100ms" style="visibility: visible; animation-delay: 100ms; animation-name: fadeInUp;">Get in Touch</a>
+                </div>
             </div>
         </div>
     </div>
