@@ -168,12 +168,12 @@
                <ul class="nav nav-tabs justify-content-center tabs-scroll" id="myTab" role="tablist">
                   <li class="nav-item" role="presentation">
                      <button class="nav-link active" id="Forex-tab" data-bs-toggle="tab" data-bs-target="#Forex" type="button" role="tab" aria-controls="Forex" aria-selected="true">
-                        Forex Trading
+                        Global Reach
                      </button>
                   </li>
                   <li class="nav-item" role="presentation">
                      <button class="nav-link" id="Stock-tab" data-bs-toggle="tab" data-bs-target="#Stock" type="button" role="tab" aria-controls="Stock" aria-selected="false" tabindex="-1">
-                        Stock CFDs
+                        Our Vision
                      </button>
                   </li>
                </ul>
