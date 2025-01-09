@@ -37,7 +37,7 @@
         <div class="footer-widget mt-4">
           <h5 class="text-white mb-3  pb-3 footer-widget-title position-relative">Get in touch</h5>
           <ul class="get-in-ul">
-            <li class="text-white"><span><i class="ri-map-pin-line"></i></span> <span class="text-white"> 5/1167, UGF, Vasundhara, Gzb, UP-201012</span></li>
+            <li class="text-white"><span><i class="ri-map-pin-line"></i></span> <span class="text-white"> 5/1167, UGF, Vasundhara, Gzb, UP-201012, India</span></li>
             <li class=""><a href="tel:+919318477263"><span><i class="ri-phone-line"></i></span>
                 <span>+91 93184 77263</span></a></li>
             <li class=""><a href="mailto:sales@gauraviinternational.com"><span><i class="ri-mail-line"></i></span>
@@ -50,7 +50,7 @@
 
     <div class="row py-4 footer-brdr">
       <div class="col-lg-12">
-        <p class="copyright mb-0  text-center text-white">Copyright © 2021 <a href="./"
+        <p class="copyright mb-0  text-center text-white">Copyright © 2025 <a href="./"
             class="text-white">Gauravi International</a> All rights reserved.</p>
       </div>
 

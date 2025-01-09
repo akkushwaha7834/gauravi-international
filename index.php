@@ -279,7 +279,7 @@
         </div>
         <div class="row mt-5 align-items-center mt-4">
             <div class="col-lg-8 wow fadeInLeft animated animated animated" data-wow-delay="00ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
-                <img src="assets/images/specialty-bedding.jpg" class="img-fluid rounded position-relative z-0">
+                <img src="assets/images/bulk-fabric-options.jpg" class="img-fluid rounded position-relative z-0">
             </div>
             <div class="col-lg-4">
                 <div class="pdt-info position-relative">
@@ -357,7 +357,7 @@
             </div>
             <div class="col-12">
                 <div class="group-btn text-center">
-                    <a href="contact-us.php" class="btn join-btn wow fadeInUp" data-wow-delay="100ms" style="visibility: visible; animation-delay: 100ms; animation-name: fadeInUp;">Request a Wholesale Quote</a>
+                    <a href="contact-us.php" class="btn join-btn wow fadeInUp" data-wow-delay="100ms" style="visibility: visible; animation-delay: 100ms; animation-name: fadeInUp;">Get in Touch</a>
                 </div>
             </div>
         </div>
