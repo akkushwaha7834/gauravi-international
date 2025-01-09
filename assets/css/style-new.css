@@ -175,7 +175,7 @@ section.mission_visionn {
     box-shadow: 9.98239px 9.98239px 9.98239px 0px rgba(0, 0, 0, 0.05);
 }
 .mission_content_col {
-    padding: 20px;
+    padding: 50px 20px;
     color: #fff;
 }
 .our-team-section:before {
@@ -787,24 +787,31 @@ ul.suport_sec{
     text-align: center;
 }
 .which-trader-will .nav-tabs .nav-link.active {
-    background: var(--theme-primary);
-/*    border: 1px solid var(--theme-black);*/
+    background: var(--theme-black);
+    border: 1px solid var(--theme-black);
     color: var(--theme-white);
+    font-size: 20px;
+    font-weight: 600;
 }
 .which-trader-will .nav-tabs .nav-link {
     border: 1px solid var(--theme-primary);
     color: var(--black);
+    font-size: 20px;
+    font-weight: 600;
 }
 .which-trader-will .nav-tabs {
     border-bottom: 1px solid var(--theme-primary);
 }
 .nav-item:not(:last-child) {
-    margin-right: 15px;
+    margin-right: 8px;
 }
 .col_first_half{
     padding: 0;
 }
 .tab-content>.active{
-    background: var(--theme-primary);
+    background: var(--theme-black);
     padding-top: 10px;
+}
+.our-team .pic img{
+    background: var(--theme-white);
 }

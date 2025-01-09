@@ -276,7 +276,7 @@
             <div class="col-lg-3 col-md-6 col-sm-6">
                 <div class="our-team">
                     <div class="pic">
-                        <img src="assets/images/deepak.jpg">
+                        <img src="assets/images/deepak.png">
                     </div>
                     <div class="team-content">
                         <h3 class="title">Deepak Mehra</h3>
@@ -318,8 +318,8 @@
                     <p class="text-white">
                         At Gauravi International, we're more than just a supplier – we're your partner in global textile trade success. Our expertise, combined with our commitment to quality and innovation, makes us the ideal choice for B2B partners looking to excel in the international textile market.
                     </p>
-                    <a href="#" class="join-btn">
-                        Explore Partnership Opportunities
+                    <a href="contact-us.php" class="join-btn">
+                        Get In Touch
                     </a>
                 </div>
             </div>
