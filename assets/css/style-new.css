@@ -808,7 +808,7 @@ ul.suport_sec{
 .col_first_half{
     padding: 0;
 }
-.tab-content>.active{
+.mission_visionn .tab-content>.active{
     background: var(--theme-black);
     padding-top: 10px;
 }
