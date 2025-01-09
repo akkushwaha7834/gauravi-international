@@ -31,6 +31,7 @@
              <p class="">
                 Gauravi International is growing from a small family-owned business to a leading player in the international textile market. Our growth is a testament to our deep understanding of global trade dynamics and our commitment to meeting the diverse needs of wholesale partners worldwide.
             </p>
+            <br>
             <h3 class="text-primary">
                 Our Global Trade Expertise
             </h3>
@@ -165,22 +166,22 @@
       <div class="row">
          <div class="col-md-12">
             <div class="which-trader-will">
-               <ul class="nav nav-tabs justify-content-center tabs-scroll" id="myTab" role="tablist">
+               <ul class="nav nav-tabs tabs-scroll" id="myTab" role="tablist">
                   <li class="nav-item" role="presentation">
                      <button class="nav-link active" id="Forex-tab" data-bs-toggle="tab" data-bs-target="#Forex" type="button" role="tab" aria-controls="Forex" aria-selected="true">
-                        Global Reach
+                        Global Reach, Local Touch
                      </button>
                   </li>
                   <li class="nav-item" role="presentation">
                      <button class="nav-link" id="Stock-tab" data-bs-toggle="tab" data-bs-target="#Stock" type="button" role="tab" aria-controls="Stock" aria-selected="false" tabindex="-1">
-                        Our Vision
+                        Our Vision for the Future
                      </button>
                   </li>
                </ul>
                <div class="tab-content" id="myTabContent">
                   <div class="tab-pane fade active show" id="Forex" role="tabpanel" aria-labelledby="Forex-tab">
                     <div class="container">
-                        <div class="row mt-4 justify-content-start">
+                        <div class="row justify-content-start">
                           <div class="col-lg-12 col-md-12 col_first_half">
                             <div class="mission_image_box">
                               <div class="row align-items-center">
@@ -201,7 +202,7 @@
                   </div>
                   <div class="tab-pane fade" id="Stock" role="tabpanel" aria-labelledby="Stock-tab">
                      <div class="container">
-                        <div class="row justify-content-end mt-4">
+                        <div class="row justify-content-end">
                           <div class="col-lg-12 col-md-12 col_first_half">
                             <div class="mission_image_box">
                               <div class="row align-items-center">
