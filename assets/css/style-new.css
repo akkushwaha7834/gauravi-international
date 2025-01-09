@@ -361,12 +361,7 @@ section.mission_visionn {
     padding: 80px 0;
     background: #000;
 }
-ul.suport_sec li{
-    list-style: circle;
-}
-ul.suport_sec{
-    padding-left: 1.5rem;
-}
+
 .unique-pills h2{
     font-size: 2rem;
 }

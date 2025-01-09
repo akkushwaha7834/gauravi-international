@@ -278,16 +278,16 @@
             </h3>
             <ul class="text-white suport_sec">
                <li>
-                  Personalized logistics consultation for each B2B partner
+                  <i class="ri-check-double-line"></i> Personalized logistics consultation for each B2B partner
                </li>
                <li>
-                  24/7 customer service for shipment inquiries
+                  <i class="ri-check-double-line"></i> 24/7 customer service for shipment inquiries
                </li>
                <li>
-                  Regular performance reports and analytics
+                  <i class="ri-check-double-line"></i> Regular performance reports and analytics
                </li>
                <li>
-                  Training and resources on international shipping best practices
+                  <i class="ri-check-double-line"></i> Training and resources on international shipping best practices
                </li>
             </ul>
             <p class="text-white mt-3">
