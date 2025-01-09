@@ -222,7 +222,7 @@
                                     </li>
                                 </ul>
                                  <figure class="mt-s-image text-center mt-4">
-                                   <img src="assets/images/cutting-sewing.png" alt="" width="70%" class="img-fluid aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
+                                   <img src="assets/images/cutting-sewing.png" alt="" width="50%" class="img-fluid aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
                                 </figure>
                               </div>
                            </div>
@@ -247,7 +247,7 @@
                                     </li>
                                 </ul>
                                 <figure class="mt-s-image text-center mt-4">
-                                   <img src="assets/images/quality-control.png" alt="" width="70%" class="img-fluid aos-init" data-aos="fade-right" data-aos-duration="1000">
+                                   <img src="assets/images/quality-control.png" alt="" width="50%" class="img-fluid aos-init" data-aos="fade-right" data-aos-duration="1000">
                                 </figure>
                               </div>
                            </div>
@@ -277,7 +277,7 @@
                                     </li>
                                 </ul>
                                 <figure class="mt-s-image text-center mt-4">
-                                   <img src="assets/images/customization-capabilities-img.png" alt="" width="70%" class="img-fluid aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
+                                   <img src="assets/images/customization-capabilities-img.png" alt="" width="50%" class="img-fluid aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
                                 </figure>
                               </div>
                            </div>
@@ -304,7 +304,7 @@
                                     </li>
                                 </ul>
                                  <figure class="mt-s-image text-center mt-4">
-                                   <img src="assets/images/production-capacity.png" alt="" width="70%" class="img-fluid aos-init" data-aos="fade-right" data-aos-duration="1000">
+                                   <img src="assets/images/production-capacity.png" alt="" width="50%" class="img-fluid aos-init" data-aos="fade-right" data-aos-duration="1000">
                                 </figure>
                               </div>
                            </div>
@@ -331,7 +331,7 @@
                                     </li>
                                 </ul>
                                 <figure class="mt-s-image text-center mt-4">
-                                   <img src="assets/images/technology-integration.png" alt="" width="70%" class="img-fluid aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
+                                   <img src="assets/images/technology-integration.png" alt="" width="50%" class="img-fluid aos-init aos-animate" data-aos="fade-left" data-aos-duration="1000">
                                 </figure>
                               </div>
                            </div>
