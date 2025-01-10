@@ -300,9 +300,7 @@ section.mission_visionn {
     color: #2f2f2f;
     background: #f7f5ec;
 }
-@media only screen and (max-width: 990px){
-    .our-team{ margin-bottom: 30px; }
-}
+
 .our-team-section{
     padding: 80px 0;
 }
@@ -514,15 +512,6 @@ section.mission_visionn {
     display: block;
     flex-shrink: 0;
 }
-@media (max-width:991px){
-    .pdt-infoo {
-        margin: 0 0 0 0;
-    }
-
-    .pdt-info {
-        margin: 0 0 0 0;
-    }
-}
 .textile-processing{
     padding: 80px 0;
     background: url(../images/bg.jpg);
@@ -561,16 +550,6 @@ section.mission_visionn {
 .text-process li{
 /*    list-style: circle;*/
     font-size: 1.1rem;
-}
-@media (max-width: 1199.98px) {
-    .textile-processing .nav-pills {
-        justify-content: start !important;
-        flex-wrap: nowrap;
-        overflow-x: scroll;
-    }
-    .textile-processing .nav-pills img{
-        display: none;
-    }
 }
 .blog-item {
     margin-bottom: 30px;

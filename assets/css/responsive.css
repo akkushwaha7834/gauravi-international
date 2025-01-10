@@ -1,0 +1,24 @@
+@media only screen and (max-width: 990px){
+    .our-team{ margin-bottom: 30px; }
+}
+
+@media (max-width:991px){
+    .pdt-infoo {
+        margin: 0 0 0 0;
+    }
+
+    .pdt-info {
+        margin: 0 0 0 0;
+    }
+}
+
+@media (max-width: 1199.98px) {
+    .textile-processing .nav-pills {
+        justify-content: start !important;
+        flex-wrap: nowrap;
+        overflow-x: scroll;
+    }
+    .textile-processing .nav-pills img{
+        display: none;
+    }
+}
