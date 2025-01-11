@@ -241,7 +241,7 @@
                 </p>
             </div>
         </div>
-        <div class="row mt-4">
+        <div class="row g-4 mt-4">
             <div class="col-lg-3 col-md-6 col-sm-6">
                 <div class="our-team">
                     <div class="pic">

@@ -66,7 +66,7 @@
                   </li>
                   <li class="nav-item" role="presentation">
                     <button class="nav-link img-boxx" id="pills-dying-tab" data-bs-toggle="pill" data-bs-target="#pills-dying" type="button" role="tab" aria-controls="pills-dying" aria-selected="false">
-                        <img src="assets/images/dyeing.png" class="img-fluid mb-3"> Dyeing and Finishing
+                        <img src="assets/images/dyeing.png" class="img-fluid mb-3"> Dyeing
                     </button>
                   </li>
                 </ul>
@@ -201,7 +201,7 @@
                      <div class="tab-content tabs-content-two position-relative h-100" id="myTabContent">
                         <div class="tab-pane accordion-item fade show active" id="cutting" role="tabpanel" aria-labelledby="cutting-tab">
                            <h2 class="accordion-header mobile-btn d-lg-none" id="headingForex">
-                              <button class="accordion-button gap-4" type="button" data-bs-toggle="collapse" data-bs-target="#collapseForex" aria-expanded="true" aria-controls="collapseForex">24/5 Trading </button>
+                              <button class="accordion-button gap-4" type="button" data-bs-toggle="collapse" data-bs-target="#collapseForex" aria-expanded="true" aria-controls="collapseForex">Cutting and Sewing </button>
                            </h2>
                            <div id="collapseForex" class="accordion-collapse collapse show" aria-labelledby="headingForex" data-bs-parent="#myTabContent">
                               <div class="accordion-body">
@@ -230,7 +230,7 @@
                         </div>
                         <div class="tab-pane accordion-item fade" id="quality" role="tabpanel" aria-labelledby="quality-tab">
                            <h2 class="accordion-header  mobile-btn d-lg-none" id="headingCommodities">
-                              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseCommodities" aria-expanded="false" aria-controls="collapseCommodities">Transparent Costs </button>
+                              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseCommodities" aria-expanded="false" aria-controls="collapseCommodities">Quality Control</button>
                            </h2>
                            <div id="collapseCommodities" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingCommodities" data-bs-parent="#myTabContent">
                               <div class="accordion-body">
@@ -254,7 +254,7 @@
                         </div>
                         <div class="tab-pane accordion-item fade" id="Customization" role="tabpanel" aria-labelledby="Customization-tab">
                            <h2 class="accordion-header  mobile-btn d-lg-none" id="headingIndices">
-                              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseIndices" aria-expanded="false" aria-controls="collapseIndices">Versatile Market Opportunities </button>
+                              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseIndices" aria-expanded="false" aria-controls="collapseIndices">Customization Capabilities </button>
                            </h2>
                            <div id="collapseIndices" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingIndices" data-bs-parent="#myTabContent">
                               <div class="accordion-body">
@@ -284,9 +284,9 @@
                         </div>
                         <div class="tab-pane accordion-item fade" id="Production" role="tabpanel" aria-labelledby="Production-tab">
                            <h2 class="accordion-header  mobile-btn d-lg-none" id="headingIndices">
-                              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseIndices" aria-expanded="false" aria-controls="collapseIndices">Production Capacity </button>
+                              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseProduction" aria-expanded="false" aria-controls="collapseProduction">Production Capacity </button>
                            </h2>
-                           <div id="collapseIndices" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingIndices" data-bs-parent="#myTabContent">
+                           <div id="collapseProduction" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingIndices" data-bs-parent="#myTabContent">
                               <div class="accordion-body">
                                  <h3 class="tab-content-title">Production Capacity</h3>
                                  <p class="">
@@ -311,9 +311,9 @@
                         </div>
                         <div class="tab-pane accordion-item fade" id="Technology" role="tabpanel" aria-labelledby="Technology-tab">
                            <h2 class="accordion-header  mobile-btn d-lg-none" id="headingIndices">
-                              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseIndices" aria-expanded="false" aria-controls="collapseIndices">Technology </button>
+                              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTech" aria-expanded="false" aria-controls="collapseTech">Technology Integration </button>
                            </h2>
-                           <div id="collapseIndices" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingIndices" data-bs-parent="#myTabContent">
+                           <div id="collapseTech" class="accordion-collapse collapse d-lg-block" aria-labelledby="headingIndices" data-bs-parent="#myTabContent">
                               <div class="accordion-body">
                                  <h3 class="tab-content-title">Technology Integration</h3>
                                  <p class="">

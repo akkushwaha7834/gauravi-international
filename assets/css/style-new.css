@@ -711,7 +711,7 @@ section.mission_visionn {
 .tabs-content-two:before {
     position: absolute;
     content: '';
-    background: #F7F7F7;
+    background: var(--theme-secondary);
     border-radius: 40px;
     width: calc(100% + 87px);
     height: 100%;
