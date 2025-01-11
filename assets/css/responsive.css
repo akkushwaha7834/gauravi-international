@@ -36,6 +36,17 @@
     .manu-images{
         width: 100%;
     }
+    .tabs-sec-two button{
+        text-align: left;
+        font-size: 20px;
+        border-radius: 13px 13px 13px 13px !important;
+        background: var(--theme-primary) !important;
+        border-right: none;
+        padding: 15px 15px 15px 15px;
+        color: #fff !important;
+        margin-bottom: 1rem;
+        border-right: none !important;
+    }
 }
 
 @media (max-width: 1199.98px) {

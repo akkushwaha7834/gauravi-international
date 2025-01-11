@@ -143,7 +143,7 @@
                   </div>
                   <div class="col-lg-7">
                      <!-- Nav Tabs Content -->
-                     <div class="tab-content tabs-content-two position-relative h-100" id="myTabContent">
+                     <div class="tab-content tabs-content-two position-relative h-100 shipping_tabss" id="myTabContent">
                         <div class="tab-pane accordion-item fade show active" id="cutting" role="tabpanel" aria-labelledby="cutting-tab">
                            <h2 class="accordion-header mobile-btn d-lg-none" id="headingForex">
                               <button class="accordion-button gap-4" type="button" data-bs-toggle="collapse" data-bs-target="#collapseForex" aria-expanded="true" aria-controls="collapseForex">Customs Expertise</button>
@@ -269,7 +269,7 @@
 <section class="meta-intro">
    <div class="container">
       <div class="row align-items-center">
-         <div class="col-md-6">
+         <div class="col-lg-6 col-12">
             <h4 class="text-white">
                Partner Support
             </h4>
@@ -294,7 +294,7 @@
                By choosing Gauravi International as your textile export partner, you gain access to a world-class logistics network designed to streamline your global supply chain. Our commitment to efficiency, reliability, and innovation in international shipping ensures that your premium bedsheets and handloom products reach your customers in perfect condition, on time, every time.
             </p>
          </div>
-         <div class="col-md-6 text-center">
+         <div class="col-lg-6 col-12 text-center">
             <img src="assets/images/customer-support.png" class="img-fluid" width="70%">
          </div>
       </div>

@@ -792,3 +792,8 @@ section.mission_visionn {
 .export-para{
     margin-top: 10px;
 }
+@media (min-width: 1200px){
+    .shipping_tabss::before{
+        background: #fff;
+    }
+}
