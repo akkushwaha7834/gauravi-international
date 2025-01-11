@@ -41,7 +41,7 @@
             <p>
                 Our products are exported to over 50 countries, spanning multiple continents:
             </p>
-            <img src="assets/images/map-global.jpg" class="img-fluid" width="50%">
+            <img src="assets/images/map-global.jpg" class="img-fluid" width="50%" id="world_map">
             <p class="mt-3">
                 This wide reach demonstrates our ability to adapt to various market requirements and regulatory standards across the globe.
             </p>
