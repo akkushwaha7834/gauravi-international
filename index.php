@@ -347,7 +347,7 @@
 <section class="system">
     <div class="container">
         <div class="row g-4 justify-content-center">
-            <div class="col-7 text-center">
+            <div class="col-8 text-center">
                 <h2 class="text-white">
                     Ready to Elevate Your Textile Business?
                 </h2>

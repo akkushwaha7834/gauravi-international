@@ -309,8 +309,8 @@
 
 <section class="join-network">
     <div class="container">
-        <div class="row">
-            <div class="col-md-12 text-center">
+        <div class="row g-4 justify-content-center">
+            <div class="col-8 text-center">
                 <div class="join-our-network">
                     <h2 class="text-white">
                         Join Our Global Network
@@ -318,9 +318,11 @@
                     <p class="text-white">
                         At Gauravi International, we're more than just a supplier – we're your partner in global textile trade success. Our expertise, combined with our commitment to quality and innovation, makes us the ideal choice for B2B partners looking to excel in the international textile market.
                     </p>
-                    <a href="contact-us.php" class="join-btn">
-                        Get In Touch
-                    </a>
+                </div>
+            </div>
+            <div class="col-12">
+                <div class="group-btn text-center">
+                    <a href="contact-us.php" class="btn join-btn wow fadeInUp" data-wow-delay="100ms" style="visibility: visible; animation-delay: 100ms; animation-name: fadeInUp;">Get in Touch</a>
                 </div>
             </div>
         </div>
