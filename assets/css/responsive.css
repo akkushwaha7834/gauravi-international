@@ -105,4 +105,10 @@
     .testimonial-inner .testimonial-heading{
         font-size: 2rem;
     }
+    .which-trader-will .nav-tabs .nav-link{
+        font-size: 16px;
+    }
+    .which-trader-will .nav-tabs .nav-link.active{
+        font-size: 16px;
+    }
 }
