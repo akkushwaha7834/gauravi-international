@@ -192,7 +192,7 @@
 <!-- Why Global Partners Choose Gauravi International -->
 <section class="pt-8">
     <div class="container">
-        <div class="row">
+        <div class="row g-4">
             <div class="col-md-12">
                 <h2>
                     Why Global Partners Choose Gauravi International
@@ -205,7 +205,7 @@
                 </p>
             </div>
         </div>
-        <div class="row mt-4 align-items-center">
+        <div class="row g-4 mt-4 align-items-center">
             <div class="col-lg-6">
                 <p>
                     Quality is paramount at Gauravi International, with an ISO 9001:2015 certified quality management system and rigorous multi-point quality checks throughout production. This commitment ensures that every product exceeds expectations.
