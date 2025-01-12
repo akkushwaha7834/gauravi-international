@@ -157,10 +157,18 @@
     background: url(../images/bg.jpg);
     background-size: cover;
     background-position: center;
+    padding: 80px 0;
 }
 .mission_vision {
-    padding: 80px 0;
-    overflow-x: hidden;
+/*    padding: 80px 0;*/
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    z-index: 1;
+}
+section.mission_visionn {
+    position: relative;
 }
 .mission_image_box {
 /*    border-radius: 15px;*/
