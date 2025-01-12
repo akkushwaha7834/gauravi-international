@@ -160,14 +160,7 @@
 }
 .mission_vision {
     padding: 80px 0;
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-    position: relative;
-    z-index: 1;
-}
-section.mission_visionn {
-    position: relative;
+    overflow-x: hidden;
 }
 .mission_image_box {
 /*    border-radius: 15px;*/
@@ -774,7 +767,12 @@ section.mission_visionn {
     font-weight: 600;
 }
 .which-trader-will .nav-tabs {
-    border-bottom: 1px solid var(--theme-primary);
+    border-bottom: 1px solid var(--theme-primary);0
+    justify-content: start !important;
+    flex-wrap: nowrap;
+}
+.which-trader-will{
+    padding: 20px;
 }
 .nav-item:not(:last-child) {
     margin-right: 8px;

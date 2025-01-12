@@ -26,7 +26,7 @@
             </div>
         </div>
         <div class="row mt-3 gy-4 unique_features_row">
-          <div class="col-md-6">
+          <div class="col-lg-6">
              <h3 class="text-primary">Our Legacy of Global Trade</h3>
              <p class="">
                 Gauravi International is growing from a small family-owned business to a leading player in the international textile market. Our growth is a testament to our deep understanding of global trade dynamics and our commitment to meeting the diverse needs of wholesale partners worldwide.
@@ -41,7 +41,7 @@
             
         </div>
         <div class="col-lg-6 ">
-            <figure class="sidebar-sticky">
+            <figure class="sidebar-sticky text-center">
                <img src="assets/images/global-trade-about.png" class="img-fluid" width="85%">
             </figure>
          </div>
@@ -70,8 +70,8 @@
 
 <section class="strong_framework">
     <div class="container">
-        <div class="row align-items-center">
-            <div class="col-md-6">
+        <div class="row g-4 align-items-center">
+            <div class="col-lg-6 col-12">
                 <div class="framework_content">
                     <h3 class="text-primary">
                         Our Commitment to Innovation
@@ -115,51 +115,15 @@
                     </ul>
                 </div>
             </div>
-            <div class="col-md-6 commitment_image">
+            <!-- <div class="col-lg-6 commitment_image">
+            </div> -->
+            <div class="col-lg-6 col-12">
+                <img src="http://localhost/gauravi-international/assets/images/commitment.jpg" class="img-fluid rounded" width="100%">
             </div>
         </div>
     </div>
 </section>
 
-
-<!-- <section class="mission_visionn">
-  <div class="container mission_vision">
-    <div class="row mt-5 justify-content-start">
-      <div class="col-lg-7 col-md-12 col_first_half">
-        <div class="mission_image_box">
-          <div class="row align-items-center">
-            <div class="col-md-5 first_col_img">
-              <img src="assets/images/global-reach-local-touch.png" class="img-fluid">
-            </div>
-            <div class="col-md-7">
-              <div class="mission_content_col">
-                <h4 class="text-primary">Global Reach, Local Touch</h4>
-                <p>At Gauravi International, we operate on a global scale while maintaining a personalized approach to each market. Our customized product lines are tailored to meet specific market demands, ensuring relevance and appeal. We have local market experts with on-ground teams in key regions, providing valuable insights and support. Additionally, our adaptive business models allow for flexible partnerships that suit diverse business cultures, fostering strong relationships with our clients. This combination of global reach and local touch enables us to effectively serve our partners worldwide.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="row justify-content-end mt-5">
-      <div class="col-lg-7 col-md-12 col_first_half">
-        <div class="mission_image_box">
-          <div class="row align-items-center">
-            <div class="col-md-5 first_col_img">
-              <img src="assets/images/vision-for-future.png" class="img-fluid">
-            </div>
-            <div class="col-md-7">
-              <div class="mission_content_col">
-                <h4 class="text-primary">Our Vision for the Future</h4>
-                <p>As we look ahead, Gauravi International is dedicated to expanding our global footprint while upholding our commitment to quality. We aim to pioneer sustainable practices within the textile industry and leverage technology to enhance the B2B customer experience. Additionally, we are focused on fostering innovation in textile design and functionality, ensuring that we meet the evolving needs of our partners and contribute positively to the industry.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section> -->
 
 <section class="mission_visionn">
    <div class="container mission_vision">
