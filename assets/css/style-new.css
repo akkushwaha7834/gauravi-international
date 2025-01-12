@@ -82,6 +82,7 @@
     box-shadow: 0px 20px 50px 0px #e4e7ee;
     margin-bottom: 30px;
     transition: all 500ms ease;
+    height: 100%;
 }
 .inner-box .icon-box {
     position: relative;
@@ -802,4 +803,15 @@ section.mission_visionn {
     .shipping_tabss::before{
         background: #fff;
     }
+}
+.pdt-cat-home{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.service-block-one{
+    height: 100%;
+}
+.pad-cat-home{
+    padding: 20px ;
 }

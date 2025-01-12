@@ -47,6 +47,9 @@
         margin-bottom: 1rem;
         border-right: none !important;
     }
+    .banner-caption h1{
+        font-size: 2.3rem;
+    }
 }
 
 @media (max-width: 1199.98px) {
@@ -78,6 +81,28 @@
         justify-content: flex-start;
     }
     h2{
+        font-size: 2rem;
+    }
+    .pdt-cat-home{
+        display: inline-block;
+    }
+    .our-pdt-cat-home{
+        text-align: center;
+    }
+    .aboutus{
+        display: none;
+    }
+    #about-img{
+        width: 100%!important;
+    }
+    .pdt-infoo, .pdt-info{
+        padding: 30px;
+    }
+    .swiper-slide .swiper-slide--inner {
+        display: block;
+        text-align: center;
+    }
+    .testimonial-inner .testimonial-heading{
         font-size: 2rem;
     }
 }

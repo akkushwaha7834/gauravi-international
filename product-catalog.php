@@ -288,7 +288,7 @@
                 <h2 class="mb-5">Customization Process</h2>
                 <img src="assets/images/bed-shape.png" alt="" class="img-fluid w-100">
             </div>
-            <div class="col-md-6 ps-5">
+            <div class="col-md-6">
                 <div class="customize-process">
                     <div class="steps">
                         <span class="numb">1</span>

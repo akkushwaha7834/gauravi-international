@@ -21,12 +21,12 @@
 <!-- Banner -->
 
 <!-- Maruqee -->
-<section class="">
-    <div class="bg-gradient pt-3 pb-3">
+<section class="our-pdt-cat-home">
+    <div class="bg-gradient pad-cat-home">
         <!-- <marquee behavior="" direction="" onmouseover="stop()" onmouseout="start()">
             
         </marquee> -->
-        <div class="d-flex gap-3 align-items-center justify-content-center">
+        <div class="pdt-cat-home gap-3">
                 <div>
                     <p class="mb-0 fw-semibold">Featured Product Categories – </p>
                 </div>
@@ -43,9 +43,9 @@
 <!-- About -->
 <section class="section-space bg-image2" style="background-image:url('assets/images/bgg.png')">
     <div class="container position-relative z-1">
-        <div class="row g-4 section-space pt-0 align-items-center">
+        <div class="row g-4 section-space pt-0 align-items-center flex-column-reverse flex-md-row">
             <div class="col-lg-6 text-center">
-                <img src="assets/images/aboutus.jpg" alt="" class="w-75">
+                <img src="assets/images/aboutus.jpg" alt="" class="w-75" id="about-img">
                 <div class="experience-box text-capitalize">
                     <span class="years">10+</span>
                     <span class="text">Year's of experience</span>
@@ -60,7 +60,7 @@
                     <p>
                         Gauravi International stands as a beacon of excellence in the global textile industry, specializing in the export of premium bedsheets and handloom products. Our journey, rooted in India's rich textile heritage, has evolved into a story of international trade mastery and innovation.
                     </p>
-                <a href="about-us.php" class="default-btn mt-4">More About Us <i class="ri-arrow-right-line"></i></a>
+                <a href="about-us.php" class="default-btn mt-4 aboutus">More About Us <i class="ri-arrow-right-line"></i></a>
             </div>
         </div>
     </div>
@@ -75,7 +75,7 @@
                 <h2 class="text-center">Our Value Proposition</h2>
             </div>
         </div>
-        <div class="row mt-4 text-center clearfix">
+        <div class="row g-4 mt-4 text-center clearfix">
             <div class="col-lg-4 col-md-6 col-sm-12 service-block">
                 <div class="service-block-one wow fadeInUp animated animated animated" data-wow-delay="00ms"
                     data-wow-duration="1500ms"
@@ -235,7 +235,7 @@
                 </h2>
             </div>
         </div>
-        <div class="row mt-5 align-items-center mt-4">
+        <div class="row mt-5 g-4 align-items-center mt-4">
             <div class="col-lg-8 wow fadeInLeft animated animated animated" data-wow-delay="00ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
                 <img src="assets/images/luxury-bedding-collections.jpg" class="img-fluid rounded position-relative z-0">
             </div>
@@ -256,8 +256,8 @@
                 </div>
             </div>
         </div>
-        <div class="row mt-5 align-items-center mt-4">
-            <div class="col-lg-4">
+        <div class="row mt-5 g-4 align-items-center mt-4">
+            <div class="col-lg-4 order-lg-1 order-2">
                 <div class="pdt-infoo position-relative">
                     <h4>Handloom Treasures</h4>
                     <ul class="pdt-category">
@@ -273,11 +273,11 @@
                     </ul>
                 </div>
             </div>
-            <div class="col-lg-8 wow fadeInRight animated animated animated" data-wow-delay="00ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInRight;">
+            <div class="col-lg-8 order-lg-2 order-1 wow fadeInRight animated animated animated" data-wow-delay="00ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInRight;">
                 <img src="assets/images/blended-fabric-bedsheets.jpg" class="img-fluid rounded">
             </div>
         </div>
-        <div class="row mt-5 align-items-center mt-4">
+        <div class="row g-4 mt-5 align-items-center mt-4">
             <div class="col-lg-8 wow fadeInLeft animated animated animated" data-wow-delay="00ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
                 <img src="assets/images/bulk-fabric-options.jpg" class="img-fluid rounded position-relative z-0">
             </div>
@@ -347,7 +347,7 @@
 <section class="system">
     <div class="container">
         <div class="row g-4 justify-content-center">
-            <div class="col-8 text-center">
+            <div class="col-lg-8 text-center">
                 <h2 class="text-white">
                     Ready to Elevate Your Textile Business?
                 </h2>

@@ -274,7 +274,7 @@
 <section class="join-network">
     <div class="container">
         <div class="row g-4 justify-content-center">
-            <div class="col-8 text-center">
+            <div class="col-lg-8 text-center">
                 <div class="join-our-network">
                     <h2 class="text-white">
                         Join Our Global Network
