@@ -138,7 +138,7 @@
             </div>
         </div>
         <div class="row  g-4 mt-5 align-items-center mt-4">
-            <div class="col-lg-4">
+            <div class="col-lg-4 order-lg-1 order-2">
                 <div class="pdt-infoo position-relative">
                     <h4>Bulk Fabric Options</h4>
                     <p>
@@ -161,7 +161,7 @@
                     <h5 class="mt-3">Minimum Order Quantity (MOQ): 5,000 meters per type</h5>
                 </div>
             </div>
-            <div class="col-lg-8 wow fadeInRight animated animated animated" data-wow-delay="00ms">
+            <div class="col-lg-8 order-lg-2 order-1 wow fadeInRight animated animated animated" data-wow-delay="00ms">
                 <img src="assets/images/bulk-fabric-options.jpg" class="img-fluid rounded">
             </div>
         </div>
