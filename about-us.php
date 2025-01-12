@@ -118,7 +118,7 @@
             <!-- <div class="col-lg-6 commitment_image">
             </div> -->
             <div class="col-lg-6 col-12">
-                <img src="http://localhost/gauravi-international/assets/images/commitment.jpg" class="img-fluid rounded" width="100%">
+                <img src="assets/images/commitment.jpg" class="img-fluid rounded" width="100%">
             </div>
         </div>
     </div>
