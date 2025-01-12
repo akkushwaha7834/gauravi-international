@@ -111,4 +111,7 @@
     .which-trader-will .nav-tabs .nav-link.active{
         font-size: 16px;
     }
+    .textile-processing .img-boxx{
+        padding: 15px 30px;
+    }
 }
