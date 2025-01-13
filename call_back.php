@@ -1,5 +1,5 @@
 <?php 
-if(isset($_POST['submit'])){
+if(isset($_POST['submit_button'])){
     $email_to = "akkushwaha018@gmail.com"; // this is your Email address
     $from = $_POST['email_id'];
     $name = $_POST['your_name'];
