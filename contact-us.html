@@ -168,20 +168,20 @@
                         <div class="form-wrapper py-5">
                             <h2 class="h1 text-dark">Leave a Message</h2>
                             <p>We’re Ready To Help You</p>
-                    <form action="">
+                    <form action="call_back.php" method="POST" name="Contact Us" >
                         <div class="row g-4">
                             <div class="col-md-12">
-                                <input type="text" placeholder=" Name" class="form-control">
+                                <input type="text" name="your_name" placeholder="Name" class="form-control" required>
                             </div>
                        
                             <div class="col-md-12">
-                                <input type="email" placeholder="Email" class="form-control">
+                                <input type="email" name="email_id" placeholder="Email" class="form-control" required>
                             </div>
                             <div class="col-md-12">
-                                <input type="text" placeholder="Mobile Number" class="form-control">
+                                <input type="text" name="mobile_number" placeholder="Mobile Number" class="form-control" required>
                             </div>
                             <div class="col-md-12">
-                               <textarea name="" row="30" placeholder="Message" class="form-control" style="height:100px"></textarea>
+                               <textarea name="customer_query" row="30" placeholder="Message" class="form-control" style="height:100px"></textarea>
                             </div>
                            
                             <div class="col-md-12">
