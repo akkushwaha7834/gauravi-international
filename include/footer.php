@@ -1,6 +1,5 @@
 <footer class="bg-dark bg-footer  pt-5">
   <div class="container">
-
     <div class="row">
       <div class="col-lg-5 col-md-6 col-sm-12">
         <div class="footer-widget mt-4">
@@ -13,7 +12,6 @@
               <li><a href="https://www.instagram.com/gauraviinternational" target="_blank"><i class="ri-instagram-line"></i></a></li>
               <li><a href="https://www.linkedin.com/company/gauraviinternational/" target="_blank"><i class="ri-linkedin-fill"></i></a></li>
               <li><a href="https://x.com/GauraviIntl" target="_blank"><i class="ri-twitter-x-fill"></i></a></li>
-
               </li>
             </ul>
           </div>
@@ -24,12 +22,12 @@
           <h5 class="text-white mb-3  pb-3 footer-widget-title position-relative">Quick Links</h5>
           <ul class="">
             <li><a href="./"><i class="ri-arrow-right-double-fill"></i> Home</a></li>
-            <li><a href="about-us.php"><i class="ri-arrow-right-double-fill"></i> About Us</a></li>
-            <li><a href="product-catalog.php"><i class="ri-arrow-right-double-fill"></i> Product Catalog</a></li>
-            <li><a href="manufacturing-capabilities.php"><i class="ri-arrow-right-double-fill"></i> Manufacturing Capabilities</a></li>
-            <li><a href="export-capabilities.php"><i class="ri-arrow-right-double-fill"></i> Export Capabilities</a></li>
-            <li><a href="shipping.php"><i class="ri-arrow-right-double-fill"></i>Shipping</a></li>
-            <li><a href="contact-us.php"><i class="ri-arrow-right-double-fill"></i>Contact Us</a></li>
+            <li><a href="about-us.html"><i class="ri-arrow-right-double-fill"></i> About Us</a></li>
+            <li><a href="product-catalog.html"><i class="ri-arrow-right-double-fill"></i> Product Catalog</a></li>
+            <li><a href="manufacturing-capabilities.html"><i class="ri-arrow-right-double-fill"></i> Manufacturing Capabilities</a></li>
+            <li><a href="export-capabilities.html"><i class="ri-arrow-right-double-fill"></i> Export Capabilities</a></li>
+            <li><a href="shipping.html"><i class="ri-arrow-right-double-fill"></i>Shipping</a></li>
+            <li><a href="contact-us.html"><i class="ri-arrow-right-double-fill"></i>Contact Us</a></li>
           </ul>
         </div>
       </div>
@@ -39,29 +37,23 @@
           <ul class="get-in-ul">
             <li class="text-white"><span><i class="ri-map-pin-line"></i></span> <span class="text-white"> 5/1167, UGF, Vasundhara, Gzb, UP-201012, India</span></li>
             <li class=""><a href="tel:+919318477263"><span><i class="ri-phone-line"></i></span>
-                <span>+91 93184 77263</span></a></li>
+              <span>+91 93184 77263</span></a></li>
             <li class=""><a href="mailto:sales@gauraviinternational.com"><span><i class="ri-mail-line"></i></span>
-                <span>sales@gauraviinternational.com</span></a></li>
-
+              <span>sales@gauraviinternational.com</span></a></li>
           </ul>
         </div>
       </div>
     </div>
-
     <div class="row py-4 footer-brdr">
       <div class="col-lg-12">
-        <p class="copyright mb-0  text-center text-white">Copyright © 2025 <a href="./"
-            class="text-white">Gauravi International</a> All rights reserved.</p>
+        <p class="copyright mb-0  text-center text-white">Copyright © 2025 <a href="./" class="text-white">Gauravi International</a> All rights reserved.</p>
       </div>
-
     </div>
   </div>
 </footer>
 <a href="https://wa.me/+919318477263?text=Hi,%20" class="whatsapp-float" target="_blank" aria-label="Chat on WhatsApp">
-        <img src="assets/images/WhatsApp.svg" alt="WhatsApp Icon">
-    </a>
-
-
+  <img src="assets/images/WhatsApp.svg" alt="WhatsApp Icon">
+</a>
 <script src="assets/js/jquery.js"></script>
 <script src="assets/js/bootstrap/bootstrap.bundle.min.js"></script>
 <script src="assets/js/wow/wow.min.js"></script>
@@ -82,7 +74,5 @@
 <script>
   AOS.init();
 </script>
-
 </body>
-
 </html>

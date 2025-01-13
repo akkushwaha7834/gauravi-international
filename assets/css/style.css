@@ -305,6 +305,9 @@ p {
     font-size: 1.2rem;
     color: #474555;
 }
+.navbar-expand-lg .navbar-nav .nav-link.active {
+    color: #000;
+}
 .navbar-expand-lg .navbar-nav .nav-item:hover:after {
     opacity: 1;
     background: var(--theme-primary);
