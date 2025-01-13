@@ -294,6 +294,9 @@ p {
     color: var(--bs-white);
     padding-right: 15px;
 }
+.top-menu-bar ul li a:hover {
+    color: #000;
+}
 .top-menu-bar ul li a span i {
     font-size: 18px;
 }
